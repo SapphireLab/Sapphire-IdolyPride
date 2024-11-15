@@ -1,6 +1,6 @@
-# Sapphire-IdolyPride
+# Idoly Pride 个人汉化合集
 
-Idoly Pride 个人汉化集合
+译者: 天与秋怜 NRZSUZBB
 
 ## もしも君と恋をしたら (若与你相恋)
 

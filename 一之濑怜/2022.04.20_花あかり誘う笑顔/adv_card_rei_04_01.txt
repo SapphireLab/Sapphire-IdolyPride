@@ -1,0 +1,92 @@
+title title=一ノ瀬怜 1話 私って怖いんでしょうか？
+message text=私って怖いんでしょうか？ name=一ノ瀬怜 
+message text=いきなりどうしたんだ？　何かあったのか？ name={user} 
+message text=それが……SNSに「一ノ瀬怜は性格がきつくて name=一ノ瀬怜 
+message text=怒ると怖そう」って書かれていたんです name=一ノ瀬怜 
+message text=それくらいならたまに見かけるので name=一ノ瀬怜 
+message text=気にしないようにしてるんですが、今回は…… name=一ノ瀬怜 
+message text=「サニピのメンバーも一ノ瀬怜を怖がって name=一ノ瀬怜 
+message text=いつも気を遣っていそう」とまで書かれていて…… name=一ノ瀬怜 
+message text=私ってそんなに怖そうに見えますか？ name=一ノ瀬怜 
+message text=怜はクールで気が強いイメージがあるから name={user} 
+message text=きつい印象を持たれやすいのかもしれないな name={user} 
+message text=みんなが思ってるほど私はクールじゃありません name=一ノ瀬怜 
+message text=現に今もこうして気にしてるんですから name=一ノ瀬怜 
+message text=確かにSNSの書き込みを見て一喜一憂するのは name={user} 
+message text=クールとは言えないな name={user} 
+message text=もう……何がおかしいんですか？ name=一ノ瀬怜 
+message text=いや、クールな印象が強い怜も、素顔は name={user} 
+message text=些細なことで思い悩む可愛い女の子なんだと思ってね name={user} 
+message text=か、可愛くなんてありません！　可愛いっていうのは name=一ノ瀬怜 
+message text=さくらや千紗みたいな子のことです name=一ノ瀬怜 
+message text=私はさくらみたいに天真爛漫に笑えないし name=一ノ瀬怜 
+message text=千紗みたいに守りたくなる笑顔も出来ませんから name=一ノ瀬怜 
+message text=そうかな？　分かり辛いだけで name={user} 
+message text=怜にも可愛いところは沢山あると思うが…… name={user} 
+message text=はぁ……。{user}さんと話してると name=一ノ瀬怜 
+message text=真面目に悩んでるのがバカらしく思えてきました name=一ノ瀬怜 
+message text=それでいいんじゃないか？　ネットの書き込みも name={user} 
+message text=そんなに深刻に考えずに、気楽に聞き流せばいいんだ name={user} 
+message text=それもそうですね…… name=一ノ瀬怜 
+message text=なんだか話を聞いてもらったら少し気が楽になりました name=一ノ瀬怜 
+message text=役に立てたのなら良かった name={user} 
+message text=これからも困ったことがあればいつでも相談してくれ name={user} 
+narration text=――翌日 
+message text={user}さん…… name=一ノ瀬怜 
+message text=やっぱり私って怖いんでしょうか？ name=一ノ瀬怜 
+message text=えっ！？　昨日は納得してなかったか？ name={user} 
+message text=今度はどうしたんだ？ name={user} 
+message text=実は、ダンスレッスン中の千紗と雫に name=一ノ瀬怜 
+message text=強い口調でダメ出しをしてしまったんです name=一ノ瀬怜 
+message text=二人とももっと踊れるはずなのに name=一ノ瀬怜 
+message text=現状で満足しているように見えて、つい…… name=一ノ瀬怜 
+message text=最初は普通のアドバイスだったんです name=一ノ瀬怜 
+message text=でもだんだんヒートアップして口調がきつくなって…… name=一ノ瀬怜 
+message text=気付いた時には二人ともチワワみたいに name=一ノ瀬怜 
+message text=ブルブル震えて怯えていたんです name=一ノ瀬怜 
+message text=正論を言ってるだけで責めてるつもりはなかったのに name=一ノ瀬怜 
+message text=……私ってそんなに怖いんでしょうか？ name=一ノ瀬怜 
+message text=怜に叱られて二人が怯えるのはよくあることじゃないか name={user} 
+message text=多分、千紗と雫もそれほど気にしていないと思うぞ name={user} 
+message text=私がいつも怖がらせてるみたいに言わないで下さい name=一ノ瀬怜 
+message text=そりゃあ今までも似たようなことはありましたけど…… name=一ノ瀬怜 
+message text=今回は自分でも厳しく言い過ぎた気がして…… name=一ノ瀬怜 
+message text=なんとなく顔を合わせ辛いんです name=一ノ瀬怜 
+message text=今夜はライブバトルがあるので、それまでに name=一ノ瀬怜 
+message text=二人とちゃんと話したいと思ってるんですけど…… name=一ノ瀬怜 
+message text=そうだな、話すなら早い方がいい name={user} 
+message text=大丈夫、ちゃんと話せば二人とも分かってくれるさ name={user} 
+message text=……そうですね。{user}さんを信じて name=一ノ瀬怜 
+message text=二人に話しかけてみます name=一ノ瀬怜 
+narration text=――その夜、ライブバトル終了後 
+message text=はぁ…… name=一ノ瀬怜 
+message text=表情が暗いな…… name={user} 
+message text=ひょっとして千紗達と話せなかったのか？ name={user} 
+message text=はい……ライブは問題なく終わったんですが name=一ノ瀬怜 
+message text=結局、千紗と雫とはぎくしゃくしたままで…… name=一ノ瀬怜 
+message text=しかも、ライブ後の物販をみんなで手伝ったんですけど name=一ノ瀬怜 
+message text=その様子を見た人がSNSに書き込みしたらしくて…… name=一ノ瀬怜 
+message text=「怜ちゃんは目が笑ってなくて怖かった」とか name=一ノ瀬怜 
+message text=「怖い顔で二人を睨みつけていた」とか書かれたんです name=一ノ瀬怜 
+message text=怜は怖い顔で千紗達を睨んでいたのか？ name={user} 
+message text=睨んでません！　ただ、ちゃんと話せなかったから name=一ノ瀬怜 
+message text=二人のことが気になって…… name=一ノ瀬怜 
+message text=それで遠目に見ていただけなのに name=一ノ瀬怜 
+message text=睨みつけていたなんて言われて…… name=一ノ瀬怜 
+message text=そんな勘違いされるのも name={user} 
+message text=怜が持つイメージの影響かもしれないな name={user} 
+message text=またそれですか。勝手なイメージで「顔が怖い」とか name=一ノ瀬怜 
+message text=「視線で人を消せそう」とか言われるのは心外です name=一ノ瀬怜 
+message text=そこまでは言ってないと思うが…… name={user} 
+message text=とりあえず千紗と雫とはちゃんと話し合った方がいい name={user} 
+message text=そうですよね…… name=一ノ瀬怜 
+message text=分かりました。明日こそ、二人に話しかけてみます！ name=一ノ瀬怜 
+message text=……って、ライブ前もそう言って name=一ノ瀬怜 
+message text=話しかけられなかったんですけど…… name=一ノ瀬怜 
+message text=一人で話すのが不安なら俺が間に入ろうか？ name={user} 
+message text=いえ、一人でやります。こんなことがあるたびに name=一ノ瀬怜 
+message text=助けてもらう訳にはいきませんから name=一ノ瀬怜 
+message text=（強がって気丈に振る舞って……） name={user} 
+message text=（こういうところがクールだと思われるんだろうな） name={user} 
+message text=（マネージャーとしては） name={user} 
+message text=（もっと素直に頼ってほしいとも思うが……） name={user} 

@@ -1,0 +1,95 @@
+title title=一ノ瀬怜 3話 桜の花びらのおまじない
+narration text=――数日後 
+message text=……にこっ name=一ノ瀬怜 
+message text=うーん、違うわね。もっと自然に……にこっ name=一ノ瀬怜 
+message text=（リハーサルで怜の動きがぎこちなかったから） name={user} 
+message text=（心配になって楽屋まで様子を見に来たが……） name={user} 
+message text=こうかしら……にこっ name=一ノ瀬怜 
+message text=いえ、やっぱりこう……にこ～ name=一ノ瀬怜 
+message text=……怜、何をしているんだ？ name={user} 
+message text=きゃっ！　{user}さん！？ name=一ノ瀬怜 
+message text=いつからそこに！？ name=一ノ瀬怜 
+message text=というか、女子の楽屋にこっそり侵入して name=一ノ瀬怜 
+message text=無言で近づくなんて…… name=一ノ瀬怜 
+message text=何度も声を掛けたのに気付かなかったんじゃないか name={user} 
+message text=そんなに集中して、鏡の前で何をしていたんだ？ name={user} 
+message text=こ、これは……別にこの間言われたことを気にして name=一ノ瀬怜 
+message text=笑顔の練習をしていた訳じゃありませんから！ name=一ノ瀬怜 
+message text=気にしていたのか…… name={user} 
+message text=ち、ちがっ……！　私はせめて name=一ノ瀬怜 
+message text=『怖い』と思われないように笑顔でいようかと…… name=一ノ瀬怜 
+message text=それで鏡の前で笑顔の練習を？ name={user} 
+message text=……はい name=一ノ瀬怜 
+message text=でも、どうしても自然に笑えなくて…… name=一ノ瀬怜 
+message text=笑顔を意識すればするほど、普段の自分が name=一ノ瀬怜 
+message text=どんな風に笑っていたのか分からなくなるんです name=一ノ瀬怜 
+message text=こんなことにこだわるなんておかしいですよね name=一ノ瀬怜 
+message text=誰も私の笑顔なんて求めていないのに…… name=一ノ瀬怜 
+message text=そんなことはない。千紗と雫も言ってたんだろ？ name={user} 
+message text=いつも厳しい怜がたまに見せる優しい笑顔が素敵だって name={user} 
+message text=……確かに、二人とも name=一ノ瀬怜 
+message text=私の笑顔が好きだって言ってました name=一ノ瀬怜 
+message text=でも、私はいつもどんな風に笑っていたんでしょう name=一ノ瀬怜 
+message text=笑おうとすると……ほら、頬が引きつってませんか？ name=一ノ瀬怜 
+message text=……確かにちょっと引きつってるな name={user} 
+message text=はあ……、やっぱり…… name=一ノ瀬怜 
+message text=やればやるほど顔が引きつってくるんです name=一ノ瀬怜 
+message text=どうしたら私は自然に笑えるんでしょうか？ name=一ノ瀬怜 
+message text=そんなに難しいことじゃないんだが…… name={user} 
+message text=よし、怜、今から少し付き合ってくれないか name={user} 
+message text=綺麗……ライブ会場の近くにこんな場所があったなんて name=一ノ瀬怜 
+message text=知りませんでした name=一ノ瀬怜 
+message text=ここは地元では有名な桜の名所なんだ。ライトアップ name={user} 
+message text=された夜桜は昼間とはまた違う美しさがあるだろ？ name={user} 
+message text=満開の桜がずっと向こうまで続いていて name=一ノ瀬怜 
+message text=素敵な眺めですね name=一ノ瀬怜 
+message text=桜の花びらが雪のようにひらひらと舞い落ちて…… name=一ノ瀬怜 
+message text=水面に花びらが降り積もって、川が桜色に染まって…… name=一ノ瀬怜 
+message text=凄く、綺麗です…… name=一ノ瀬怜 
+message text=怜、じっとして動かないで name={user} 
+message text=えっ……な、なんですか…… name=一ノ瀬怜 
+message text=私に手を伸ばして……何を……ちょ、や name=一ノ瀬怜 
+message text=……よし、取れた name={user} 
+message text=髪に桜の花びらがついてたよ name={user} 
+message text=花びら…… name=一ノ瀬怜 
+message text=なんだ、そういうことですか name=一ノ瀬怜 
+message text=そういうこと？　なんだと思ったんだ？ name={user} 
+message text=そ、それは……なんでもありません…… name=一ノ瀬怜 
+message text=……{user}さんは name=一ノ瀬怜 
+message text=桜の花びらのおまじないを知ってますか？ name=一ノ瀬怜 
+message text=ひらひらと舞い落ちる桜の花びらを、地面に落ちる前に name=一ノ瀬怜 
+message text=掴むと願いが叶うというジンクスがあるんです name=一ノ瀬怜 
+message text=ここで花びらを掴めたら name=一ノ瀬怜 
+message text=私も自然な笑顔が出来るようになるかもしれませんね name=一ノ瀬怜 
+message text=花びらを掴まなくても name={user} 
+message text=今の怜は自然な笑顔になってるぞ name={user} 
+message text=えっ、私が笑顔に？　……あぁ、そうか name=一ノ瀬怜 
+message text=人は綺麗なものを見ると自然と笑顔になるんですね name=一ノ瀬怜 
+message text=さっきまで悪戦苦闘していたのに name=一ノ瀬怜 
+message text=こんなにあっさり笑顔になれるなんて…… name=一ノ瀬怜 
+message text=なんだか{user}さんに name=一ノ瀬怜 
+message text=まんまとしてやられたみたいで釈然としませんね name=一ノ瀬怜 
+message text=そこは素直に感謝してくれてもいいんじゃないか？ name={user} 
+message text=ふふ……冗談ですよ name=一ノ瀬怜 
+message text={user}さん、ありがとうございます name=一ノ瀬怜 
+message text=これからは、笑顔になりたい時 name=一ノ瀬怜 
+message text=この景色を思い出しますね name=一ノ瀬怜 
+message text=今日のライブでは、今夜の桜を思い出して name=一ノ瀬怜 
+message text=満開の笑顔を咲かせてみせます name=一ノ瀬怜 
+narration text=――翌日 
+message text={user}さん、おはようございます name=一ノ瀬怜 
+message text=おはよう、怜 name={user} 
+message text=昨日はお疲れ様。ライブは凄い盛り上がりだったな name={user} 
+message text=はい！　会心のパフォーマンスが出来ました name=一ノ瀬怜 
+message text=お客さんの評判もかなり良かったんですよ name=一ノ瀬怜 
+message text=そういえばSNSの書き込みを見ましたか？ name=一ノ瀬怜 
+message text=昨日も物販を手伝ったんですけど name=一ノ瀬怜 
+message text=その様子を見ていた人が書き込みしたらしくて…… name=一ノ瀬怜 
+message text=「手売りする怜ちゃんが凄く楽しそうでほっこりした」 name=一ノ瀬怜 
+message text=「クールな怜ちゃんの自然な笑顔に癒された」って…… name=一ノ瀬怜 
+message text=これも夜桜を見せてくれたおかげです name=一ノ瀬怜 
+message text=あの時の気持ち、大事にしますね name=一ノ瀬怜 
+message text=この調子で次のライブも楽しく name=一ノ瀬怜 
+message text=笑顔で歌えるように頑張ります！ name=一ノ瀬怜 
+message text=（楽しそうに語る怜は自然と笑顔になっていた） name={user} 
+message text=（彼女の願いが叶う日はそう遠くなさそうだ） name={user} 

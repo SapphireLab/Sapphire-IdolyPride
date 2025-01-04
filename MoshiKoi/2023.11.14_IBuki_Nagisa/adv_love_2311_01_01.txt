@@ -1,0 +1,53 @@
+title title=1話
+narration text=――高校二年生　四月 
+message text=……ほら、朝だよ\n{user}くん、起きて？ name=？？？ 
+message text=ん……んん……？ name={user} 
+message text=ふふ、おはよう name=伊吹渚 
+message text=ああ……渚か。おはよう\n毎日ごめんな name={user} 
+message text=ほんとだよ、もう\n{user}くんが朝弱いのは\n全然変わんないよね name=伊吹渚 
+message text=まったく、{user}くんは\n私がいないと本当にダメなんだから！\nほら、早く起きなさーい！ name=伊吹渚 
+message text=なんでそんな嬉しそうなんだよ……\n言われなくても起きるって name={user} 
+message text=あ、ここまた寝ぐせついてる～！\nいつもおんなじとこだよね\nふふ、可愛い name=伊吹渚 
+message text=うわっ、ちょっと自分で直すから\n触るなよ……！ name={user} 
+message text=えー、遠慮しなくていいのに～\nほらほら、私が直してあげるから\nじっとしてて！ name=伊吹渚 
+message text=おっはよー！　お兄ちゃん、起きた？\n……って、渚ちゃんが起こしてくれてる\nなら安心だね！ name=すみれ 
+message text=任せて、すみれちゃん\nあ、{user}くん！　着替えは\nここに用意しておいたからね！ name=伊吹渚 
+message text=渚ちゃん、いつもありがとう～！\nお兄ちゃん\n朝ごはん出来てるからね name=すみれ 
+message text=今日はご飯、卵焼き、こうじ納豆に\n菊のおひたし、お味噌汁だよ～ name=すみれ 
+message text=私もお手伝いして、卵焼きを焼いたの\n{user}くん好みの味付けに\nしてるから、楽しみにしててね name=伊吹渚 
+message text=渚の卵焼きは美味いんだよな\n楽しみだ name={user} 
+message text=あー、もー、まだ寝ぐせ直ってない！\n直してあげるからこっち来て！ name=伊吹渚 
+message text=だ、だから自分で直せるって！\n着替えるから二人は外に……ん？\nすみれ、どうした？ name={user} 
+message text=なんだか……お兄ちゃんと渚ちゃんって\n夫婦みたい name=すみれ 
+message text=いやいや……すみれ、それはないない！ name=一同 
+message text=二人とも息ぴったりだね！ name=すみれ 
+message text={user}くんは\n弟みたいなものだから！　ほら、頭も\nわしゃわしゃーって撫でちゃうし！ name=伊吹渚 
+message text=お、おい……これだと\n弟っていうか犬だろ……！？ name={user} 
+message text=渚ちゃんがお兄ちゃんのお姉ちゃん…… name=すみれ 
+message text=うん？　それにしても、あんな\nちっちゃかったすみれちゃんがこんなこと\n言うようになるなんて―― name=伊吹渚 
+message text=ってことは、渚ちゃんは私にとっても\nお姉ちゃんってことだよね！ name=すみれ 
+message text=そういえば前に、妹がほしいって\n言ってたよな？\nおめでとう、渚！ name={user} 
+message text=おめでとう、すみれ\nお姉ちゃんが出来たな name={user} 
+message text=わーい！　渚お姉ちゃん！ name=すみれ 
+message text=ちょ、ちょっと、急に何言ってるの！？\n確かにすみれちゃんみたいな妹なら\n大歓迎だけど…… name=伊吹渚 
+message text=ほ、ほら、{user}くん！\n朝ごはん冷めちゃうよ！\n早くリビング来て！ name=伊吹渚 
+message text=分かった分かった\n……ええと、着替えたらすぐ行くから\n二人とも一旦出てくれないか？ name={user} 
+message text=あ、そっか。えへへ\n失礼しました～ name=伊吹渚 
+message text=おはよう、{user}\n毎日伊吹さんと登校なんて羨ましいな name=鈴木 
+message text=おはよう、鈴木\n家が隣同士だと、登校時間も被るんだよ name={user} 
+message text=うわっ、何度聞いても羨ましい！\nクラスの人気者、伊吹さんと家が隣だなんて name=鈴木 
+message text=ほら、伊吹さんの方をちらちら見てるやつが\n何人かいるだろ？\nあいつらみんな伊吹さんと話したいんだよ name=鈴木 
+message text=ふーん…… name={user} 
+message text=なんだよ\n{user}は伊吹さんのこと\n可愛いなって思わないのか？ name=鈴木 
+message text=そりゃまぁ、可愛いとは思うけど name={user} 
+message text=もう！　聞こえてるよ！\n{user}くんってば\n朝から何言ってるの！？ name=伊吹渚 
+message text=え？　いや、俺は普通に……\n何をそんなに怒ることがあるんだよ？ name={user} 
+message text=べ、別に怒ってないよ！\n{user}くんが……\nか、可愛いとか言うから…… name=伊吹渚 
+message text=……二人とも、ほんとに仲いいな name=鈴木 
+message text=ずっと近くにいるから分からないんだよなぁ name={user} 
+message text=毎日見てると、可愛いとか可愛くないとか\nいまいち……え、渚？\nどうした……？ name={user} 
+message text=もー、聞こえてるんだけどー！\nそういう話は私がいないとこでしてよ name=伊吹渚 
+message text=……いててててて\nな、なんで突然頬を\nつねるんだよ！？ name={user} 
+message text=どーせ、私は可愛くないですよっ！\n{user}くんのバカッ！ name=伊吹渚 
+message text=って、おい、渚！\nはぁ、説明もなしか…… name={user} 
+message text=はは、もうちょっと考えて\n発言した方がいいな\n{user}は name=鈴木 

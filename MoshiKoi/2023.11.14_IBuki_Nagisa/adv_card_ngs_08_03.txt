@@ -1,0 +1,73 @@
+title title=伊吹渚 3話 私がいないとダメなんだから
+message text=ついにゲームが出来たんですね name=伊吹渚 
+message text=何か問題がないか、しっかりテストプレイしておこう name={user} 
+message text=はい！　なんだか緊張しますね、えへへ name=伊吹渚 
+message text=それじゃあ、ゲームスタート！ name=伊吹渚 
+message text=ここは私が主人公と一緒に本を name=伊吹渚 
+message text=読んでいるシーン…… name=伊吹渚 
+message text=う～……ゲームの中とはいえ、こんな雰囲気の中で name=伊吹渚 
+message text=好きな人と手を重ねるなんて……！ name=伊吹渚 
+message text=でも、このシーンは主人公の照れ方も name=伊吹渚 
+message text=可愛くて好きなんですよね、えへへ name=伊吹渚 
+message text=えっと、今更なんですけど name=伊吹渚 
+message text=これって、私の理想の恋愛を詰め込んだゲームだって name=伊吹渚 
+message text=公表したりするんでしょうか……？ name=伊吹渚 
+message text=その点に関しては、プロモーションとの兼ね合いも name={user} 
+message text=あるから要相談だな。渚はどうしたい？ name={user} 
+message text=公表するのはちょっと恥ずかしい気が……あ、でも name=伊吹渚 
+message text=もし公表しなかったら、{user}さん name=伊吹渚 
+message text=だけが事情を知ってるってことになるんですよね name=伊吹渚 
+message text=それはそれで秘密の共有って感じがしてすっごく name=伊吹渚 
+message text=恥ずかしいかも！？　わー！ どうしよう……！？ name=伊吹渚 
+message text=渚？　どうした、顔が真っ赤だぞ？ name={user} 
+message text=な、なんでもないです！ name=伊吹渚 
+message text=公表の件は考えさせて下さーい！ name=伊吹渚 
+message text=ふぅ、やっとクリア出来ましたね name=伊吹渚 
+message text=実際にゲームとしてプレイしてみてどうだった？ name={user} 
+message text=なんていうか……ずっと不思議な感じでした name=伊吹渚 
+message text=初めは自分がモデルだと思うと、とにかく name=伊吹渚 
+message text=照れちゃって直視出来なかったんですけど…… name=伊吹渚 
+message text=だんだん主人公に感情移入してきて、最後の方は name=伊吹渚 
+message text=とにかく二人の恋を応援してました name=伊吹渚 
+message text=夢中になれるということは、それだけいいゲーム name={user} 
+message text=だっていう証拠だと思うぞ。俺も楽しかったよ name={user} 
+message text=いろんなルートがあるし、せっかくだから name={user} 
+message text=俺はもう少しプレイしてみるよ name={user} 
+message text=分かりました。感想、聞かせて下さいね name=伊吹渚 
+narration text=――数日後 
+message text=おはようございまーす……あれ？ name=伊吹渚 
+message text={user}さん？ name=伊吹渚 
+message text=ふふ、ゲームしたまま寝ちゃってる name=伊吹渚 
+message text=最近は休憩中ずっとプレイしてるって言ってたっけ name=伊吹渚 
+message text=なんだか子供っぽい寝顔……可愛いなーもう name=伊吹渚 
+message text=ほら、朝だよ？　{user}くん、起きて name=伊吹渚 
+message text=う……んん……？　渚か……おはよう name={user} 
+message text=ふふ、おはようございます name=伊吹渚 
+message text=ゲームを夢中でプレイしてる内に寝てたみたいだ name={user} 
+message text=ふわぁ～…… name={user} 
+message text=それにしても、ついさっきまでゲームをプレイしてた name={user} 
+message text=からかな。ゲームと同じセリフで起こされた気がしたよ name={user} 
+message text=えっ！？　あ、そ、そうなんですか？　あはは name=伊吹渚 
+message text=もう、現実と夢がごっちゃになってますよー？ name=伊吹渚 
+message text=なんでそんなに慌ててるんだ……ん？ name={user} 
+message text=その服って、もしかして………… name={user} 
+message text=あ、気付いちゃいました？ name=伊吹渚 
+message text=これ、ゲームの中の私が着てた服と同じなんです name=伊吹渚 
+message text=ゲームのプロモーション用にって name=伊吹渚 
+message text=衣装さんが同じ服を作ってくれたんですよ name=伊吹渚 
+message text=えへへ……似合ってますか？ name=伊吹渚 
+message text=ああ、凄く似合ってるよ name={user} 
+message text=まるでゲームの中から出てきたみたいで……そうか name={user} 
+message text=だからゲームのセリフが聞こえたのかもしれないな name={user} 
+message text=きっとそうですよ。ほら、今日はゲームの宣伝に name=伊吹渚 
+message text=ついてきてくれるんですよね？　早く支度しないと name=伊吹渚 
+message text=あ～、寝てたからネクタイもずれちゃってますね name=伊吹渚 
+message text=ほら、直してあげますから name=伊吹渚 
+message text=い、いやいや……これくらいは自分でするから name={user} 
+message text=ダメダメ。……はい、これでオッケー name=伊吹渚 
+message text=もう……{user}くんは name=伊吹渚 
+message text=私がいないと本当にダメなんだから name=伊吹渚 
+message text=な、渚？　今のは…… name={user} 
+message text=……ハッ！　い、今のはなんでもないです name=伊吹渚 
+message text=なんでもないですから～！ name=伊吹渚 
+message text=うぅ……楽しくなってつい調子に乗っちゃったぁ……！ name=伊吹渚 

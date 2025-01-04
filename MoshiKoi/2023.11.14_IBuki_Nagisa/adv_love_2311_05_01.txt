@@ -1,0 +1,72 @@
+title title=5話
+message text=おーい、{user}くん起きて\n朝だよ～？ name=？？？ 
+message text=ん……んん……？ name={user} 
+message text=ふふ、おはよう\n……えい name=伊吹渚 
+message text=（ちょっ……\nな、なんでいきなり\n抱きついてきたんだ！？） name={user} 
+message text=えへへぇ～ぎゅ～…… name=伊吹渚 
+message text=な、渚……\nさすがにここまでくっつくのは…… name={user} 
+message text=え～？　二人きりなんだから\nこれくらいいいでしょ？\n私達、付き合ってるんだし name=伊吹渚 
+message text=ま、まだ高校生なんだし\n節度を持ってだな…… name={user} 
+message text=え～？\n{user}くんってば\nおかた過ぎるよ～ name=伊吹渚 
+message text=おーい、渚……\nそろそろ離れてくれないか……？ name={user} 
+message text=……頑固な恋人が心変わりするまで\n離れてあげませーん name=伊吹渚 
+message text=……しょうがないな、まったく name={user} 
+message text=しょうがないって……\n{user}くんは私のこと\nぎゅーってしたいって思わないの？ name=伊吹渚 
+message text=寂しいな～。私はこーんなに\n{user}くんのこと\n好きなのにな～ name=伊吹渚 
+message text=私も{user}くんに\nぎゅーってされたいな～\nしてくれないかな～ name=伊吹渚 
+message text=わ、分かったよ！\nほら……ぎゅーー name={user} 
+message text=えへへ、やった～。大好きっ！ name=伊吹渚 
+message text=ふふ、ぼーっとしちゃって可愛い\n{user}くんのそんな顔\n初めて見た name=伊吹渚 
+message text=小さい頃からずーっと一緒にいたのに\nまだまだ私の知らない顔があるんだね name=伊吹渚 
+message text=そ、そういう渚だって顔が赤くなってる\nじゃないか！　照れてるのか？ name={user} 
+message text=え！？　そ、そんなことないもん！\n{user}くんの方が\n照れてるでしょ！ name=伊吹渚 
+message text=俺は……別に…… name={user} 
+message text=（しばらくお互いに見つめ合い沈黙が続いた\nそして二人の唇が触れ合うか\n触れ合わないかの距離まで近づいた時――） name={user} 
+message text=じー…… name=すみれ 
+message text=きゃっ！　えっ、い、いつから…… name=伊吹渚 
+message text=渚？　\n一体どうしたんだ……って、すみれ！？ name={user} 
+message text=ごごごご、ごめんなさいっ！\n何も見てませんっ！ name=すみれ 
+message text=ドアを開ける前になんか入り辛い\n雰囲気を察して、部屋の前でちゃんと\n待ってたから！　全然大丈夫！ name=すみれ 
+message text=そ、そうだったのか\n気を遣わせてごめんな name={user} 
+message text=ううん、二人の時間を邪魔したくないから！ name=すみれ 
+message text=で、出来た妹……！ name=伊吹渚 
+message text=あの……えっと……やっぱり……\nうーんと……さっきのって……\nキ……キス……してたの？ name=すみれ 
+message text=してませんっ！！ name=一同 
+message text=まだ、ね name=伊吹渚 
+narration text=――放課後 
+message text=……ふぅ、結構書き進んだかな\n学校の課題はどんな感じ？ name=伊吹渚 
+message text=こっちも順調だよ。……なぁ\nそろそろ渚の書いているその小説\n読ませてくれてもいいんじゃないか？ name={user} 
+message text=ダ、ダメダメ！　ぜーったいダメだよ！ name=伊吹渚 
+message text=一度くらい読んでみたいんだけどな…… name={user} 
+message text=う……そ、そんな子犬みたいに\n可愛い顔したってダメなんだから！\nまったく{user}くんは…… name=伊吹渚 
+message text=普段はぬぼーってしてるのに\n急にキリッとしたり可愛くなったり……\nずるいよ、もう name=伊吹渚 
+message text=えっと、それは何がずるいんだ？ name={user} 
+message text=それくらい自分で考えなさーい！ name=伊吹渚 
+message text=そこまで言うならしょうがないか……\nでも、そんなに恥ずかしいもんなのか？ name={user} 
+message text=そうだよ！　ほんとに恥ずかしいんだから！\nいい？　小説は自分の内側……恥ずかしい\nところをさらけ出すようなものなの name=伊吹渚 
+message text={user}くんだって\n人前で歌うのは恥ずかしいでしょ？\nそれと同じだよ name=伊吹渚 
+message text=なるほど、そういうものなのか\nあ、でも、渚は歌もうまいよな\nカラオケで聴くたびに凄いと思ってるぞ name={user} 
+message text=そ、そういう……反応に困る反論は\n禁止だよ、禁止！ name=伊吹渚 
+message text=とにかく今はダメ\nまだまだ書き換えるかもしれないし…… name=伊吹渚 
+message text=そのかわり……最後まで書き終えたら\n一番に{user}くんに\n見せるね name=伊吹渚 
+narration text=――数ヶ月後、冬の足音が聞こえてきた頃 
+message text=で、で……出来たー！\nはぁ～……第四稿にしてやっと完成……！\n長かった～！！ name=伊吹渚 
+message text=おめでとう、渚\nそれと、お疲れ様 name={user} 
+message text=えへへ、ありがとう\nじゃあ完成したら真っ先に読んでもらうって\n言ってたから……はいっ name=伊吹渚 
+message text=いいのか？\n分かった、読ませてもらうよ\n楽しみだな name={user} 
+message text=（これは……） name={user} 
+message text=あのー……いかがでしょう……？ name=伊吹渚 
+message text=……凄いな、渚……\n本当に初めて書いた小説なのか……？ name={user} 
+message text=主人公に自然と感情移入出来るし……\n表現もとても綺麗で……凄く面白い……！\nこのまま最後まで読みたいくらいだ name={user} 
+message text=ほんとに！？　良かった～！\n{user}くんに褒められると\nなんだか安心しちゃうな name=伊吹渚 
+message text=本当に凄いと思う！\n続き、読んでもいいか？ name={user} 
+message text=えへへ、もちろん\n……実はね、今ちょうど募集中の賞があって\n応募するか迷ってるんだ name=伊吹渚 
+message text={user}くんに褒められたら\nなんだか勇気がもらえたし\n……今度応募してみよっかな name=伊吹渚 
+message text=せっかくだし、賞に応募してみたらどうだ？ name={user} 
+message text=え……？　そ、そんなの無理無理！\n無理だよ～！ name=伊吹渚 
+message text=そんなことないよ。俺は素人だけど……\nそれでも、この小説には凄い熱量が\nこもってるのが分かる name={user} 
+message text=プロの人達にも、こういう熱量は\nちゃんと伝わるんじゃないか？ name={user} 
+message text=そう……なのかな\nそ、そっか、そっか……えへへ\nよ～し、それなら応募しちゃおっかな！ name=伊吹渚 
+message text=実は執筆しながらちょこちょこ調べてて……\n今ちょうど募集中の賞があったんだよね\nそこに応募してみるよ name=伊吹渚 
+message text=少しでもいい結果が出るといいな\n応援してる name={user} 
+message text=うん、本当にありがとね name=伊吹渚 

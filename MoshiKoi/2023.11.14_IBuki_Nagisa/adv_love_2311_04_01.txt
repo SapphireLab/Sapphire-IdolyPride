@@ -1,0 +1,58 @@
+title title=4話
+message text=はぁ～、楽しかった～\nあっという間に一日が終わっちゃったね name=伊吹渚 
+message text=そうだな\nでも、なんだか今日の渚……\n少し無理してなかったか？ name={user} 
+message text=あははは……バレちゃってた？\n少し、恥ずかしいな。小説の主人公はもっと\nうまくやってたのに name=伊吹渚 
+message text=実は、この前{user}くんが\n買ってくれた小説が\nすっごく面白かったんだ name=伊吹渚 
+message text=それで、その中に出てくる主人公の子が\n好きな人にぐいぐいアプローチ\nしてたんだけど…… name=伊吹渚 
+message text=それがとっっっても可愛かったの！\nだから、私も真似してみようかなって name=伊吹渚 
+message text=なんだ、そういうことだったのか name={user} 
+message text=うん！　でもこれも全部小説を書くために\n必要な経験だよ！ name=伊吹渚 
+message text=なぁ。思ったんだけど……小説を百書く\nために百の経験をしたら、それってもう\nノンフィクションなんじゃないか？ name={user} 
+message text=え……？ name=伊吹渚 
+message text=全部経験しようとしなくても\n一の経験を膨らませたり、想像したりしても\n面白いものは書けるんじゃないかって思って name={user} 
+message text=あ……そうだね！　実体験以外にも\n理想とか、こうだったらいいなっていう\n自分の想いを入れるのも、大事かもね name=伊吹渚 
+message text=もし私が将来、小説家になったら\n{user}くんが担当編集者に\nなってくれるとすっごく心強いなぁ name=伊吹渚 
+message text=それは大げさだって\nでも、ありがとな name={user} 
+message text=それじゃあ……さ。ちょうどいいから\nここで「一の経験」をしたいんだけど……\n手を繋いでみるとか、どう、かな？ name=伊吹渚 
+message text=わぁ！？　ま、まさかほんとに\n繋いでくれるなんて……\nびっくりしちゃった…… name=伊吹渚 
+message text=て、手伝うって約束しただろ\nどうだ？　一の経験になったか……？ name={user} 
+message text=う、うん……なってると思う……\nむしろ……一どころか十、二十……？\nううん……もう百になっちゃってるかも name=伊吹渚 
+message text=な、なんでもう膨らませてるんだよ\nでも、それなら……うん、良かった name={user} 
+message text=あはは、そ、そうだね\nご協力ありがとうございます……えへへ\n{user}くんの手結構大きいね name=伊吹渚 
+message text=まぁ、渚よりは……\nて、ていうか俺の手汗ヤバいだろ！？\nそろそろ離すぞ……！ name={user} 
+message text=えー、もうちょっとだけ繋いでたいな\nそれとも{user}くん\nもしかして、照れてる？ name=伊吹渚 
+message text=て、照れる訳ないだろ！\n小さい頃は、よくこうやって\n手も繋いでいたし…… name={user} 
+message text=ふふっ、そうだよね～！\nじゃあ今日は家まで繋いで帰ろ～！ name=伊吹渚 
+message text=い、いや、それはさすがに…… name={user} 
+message text=え～？　この状況で断るかなぁ？\nま、いいか。ほんとに手を繋いだら、私も\nドキドキし過ぎて大変なことになりそうだし name=伊吹渚 
+message text=それじゃあ、ここまで一緒に過ごした時間を\n一の経験ってことにして……\nここに、私の今の気持ちを―― name=伊吹渚 
+message text={user}くんと一緒に\nいられて楽しかった、っていう気持ちを\n乗せて、膨らませてみるね name=伊吹渚 
+narration text=――翌日　放課後 
+message text=（渚と恋人のフリを始めてから、俺の中で\n明らかに渚への感情に変化が生まれていた） name={user} 
+message text=（仲がいい幼なじみ……で終わらせて\nいいのか？　本当にそれでいいのか？　と\n何度も考えるようになった。そして――） name={user} 
+message text=あのね、{user}くん\n私、鈴木くんに告白されたんだ name=伊吹渚 
+message text=（あいつ……だから今朝から\n妙に緊張してたのか） name={user} 
+message text=……そう、なのか\nあいつはいいやつだし\nきっと付き合ったら―― name={user} 
+message text=断ったよ name=伊吹渚 
+message text=え…… name={user} 
+message text=いい人だとは思ってるよ\n{user}くんと\n仲がいいのも分かる name=伊吹渚 
+message text=だけど……私には、好きな人がいるから name=伊吹渚 
+message text=私……\n私、{user}くんが好き\n大好き name=伊吹渚 
+message text={user}くんは……\n私のこと、どう思ってる？ name=伊吹渚 
+message text=俺は……その…… name={user} 
+message text=……言ってくれないんだ？ name=伊吹渚 
+message text=……情けないな、ごめん\n俺も渚が好きだ name={user} 
+message text=俺も渚が好きだ name={user} 
+message text=先に言わせてごめん\n渚への気持ちに気付くのも……\n遅くて name={user} 
+message text=ほんとだよ、もう……\n{user}くんのばか name=伊吹渚 
+message text=鈴木くんだって\n私が{user}くんのこと\n好きだって気が付いてたんだよ？ name=伊吹渚 
+message text=……そうだったのか name={user} 
+message text=それと、鈴木くんからの伝言\n『伊吹さんのこと泣かせたら許さないぞ』\nだって name=伊吹渚 
+message text=ああ……分かった\n渚のことは、絶対に泣かせない。大切にする\n改めてよろしくな name={user} 
+message text=……うん！\nこちらこそよろしくね name=伊吹渚 
+message text=ただいまー name={user} 
+message text=おかえり～。ねぇ、この漫画……って、ん？\nお兄ちゃん、何かいいことあったの？\nすっごいニヤニヤしてるけど name=すみれ 
+message text=えっ！？　別にそんなこと……\nいや、すみれには言っとくか\n俺……渚と付き合うことになったんだ name={user} 
+message text=えーーーーーーー！？！？\nわー、わー！　おめでとうお兄ちゃん！\nおめでとう渚ちゃん！！ name=すみれ 
+message text=どうしよう、お母さんと今夜の晩ご飯の\n相談をしなきゃ！　えっと、お赤飯でしょ？\n芋煮でしょ？　後は後は…… name=すみれ 
+message text=す、すみれ、一旦落ち着いてくれー！ name={user} 

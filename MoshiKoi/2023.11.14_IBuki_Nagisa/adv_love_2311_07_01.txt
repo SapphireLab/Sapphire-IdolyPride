@@ -1,0 +1,69 @@
+title title=7話
+narration text=――高校三年生　九月 
+message text=模試の結果、どうだった？\n今回いつもより難しかったよね…… name=伊吹渚 
+message text=俺はこんな感じだな\n志望校もB判定が出てるし、順調に成績は\n上がってるよ name={user} 
+message text=えっ、嘘！？\n去年までは同じくらいだったのに…… name=伊吹渚 
+message text=渚は……大学どうしたいか考えてるのか？ name={user} 
+message text=うーん……正直、今は入れるならどこでも\nって感じかなぁ name=伊吹渚 
+message text=ほら、執筆で忙しいと勉強があんまり\n出来ないでしょ？　最近は両立するのが\nますます大変になってるし…… name=伊吹渚 
+message text=（渚の言うことも分かる\n確かに最近は、受験勉強の影響で執筆にも\n遅れが出ているらしい。でも……） name={user} 
+message text=渚。実は……渚と一緒に……\n挑戦したい大学があるんだ name={user} 
+message text=え？　……び、びっくりした～\n{user}くんがそんなに\nはっきり言うなんてめずらしいね？ name=伊吹渚 
+message text=そりゃそうだよ、だって…… name={user} 
+message text=これからずっと小説だけで\n食べていけるとは限らないだろ？ name={user} 
+message text=む……ちょっと\nその言い方は酷いんじゃないの？ name=伊吹渚 
+message text=確かにそうだな、ごめん\nちゃんと説明するよ name={user} 
+message text=俺が渚と行きたい大学は……東橋大学だ\n受験勉強は大変かもしれないけど\n絶対に今後の渚のためになると思う name={user} 
+message text=デビュー作が売れたのは本当に凄いけど\n出版業界の状況を考えると、これからも\n同じようにうまくいくとは限らない name={user} 
+message text=大学でしっかり勉強していれば、もし今後\n小説家としての仕事がなくなったとしても\n就職先の選択肢が増えるだろ？ name={user} 
+message text=う……すっごく現実的な理由だね……でも\n理由は分かったけど、さっきの言い方は\nやっぱりちょっと酷いんじゃない？ name=伊吹渚 
+message text=そうだな……ごめん name={user} 
+message text=大学に入ったら\nこれまで以上にいろんなことを学べるし\n沢山の人とも出会えるだろう？ name={user} 
+message text=俺が渚と行きたい大学は……東橋大学だ\n受験勉強は大変かもしれないけど\n絶対にいい経験になると思う name={user} 
+message text=ここって……偏差値が高いし\nかなり大きな大学だよね？ name=伊吹渚 
+message text=文理、医学、芸術に体育まである総合大学だ\nいろいろなジャンルの講義が受けられるし\n出会う人だって生まれも育ちもまるで違う name={user} 
+message text=せっかく大学に行くなら\n渚の世界が広がるような場所に行った方が\n小説にも役立つと思うんだよ name={user} 
+message text=そっか……うーん、でもなぁ…… name=伊吹渚 
+message text=ん、どうした？\n納得出来ないことがあるのか？ name={user} 
+message text=確かに理由はそれっぽいけど……\nなんだか肝心なことを言ってない気が\nするんだよね。ただの勘なんだけど name=伊吹渚 
+message text=……そうだな\nもちろん、今説明したことも\n全部本音なんだけど name={user} 
+message text=俺は渚と一緒に大学に通って、勉強して……\n渚を支える編集者になりたいと思ってる name={user} 
+message text=ほ、ほんと……？　ほんとのほんとに……？ name=伊吹渚 
+message text=……ああ。あと……本音の本音を言うと\n俺は少しでも渚のそばにいたいんだ\n自分勝手だと分かってるけど…… name={user} 
+message text=私、決めた\n{user}くんと一緒に\n東橋大学を目指すよ！ name=伊吹渚 
+message text=そうだよな、まずはゆっくり考えて……え？ name={user} 
+message text=私、{user}くんと\n東橋大学に行く！　絶対に！！ name=伊吹渚 
+message text=い、いいのか？　そんなすぐに決めて…… name={user} 
+message text={user}くんの説明も\n確かに納得出来たし\nそれに何より…… name=伊吹渚 
+message text=少しでもそばにいたいなんて言われたら……\nそんなの、頑張るしかないでしょ？ name=伊吹渚 
+message text=渚……ありがとう。一緒に頑張ろうな name={user} 
+message text=うん！　まずは模試の復習から\nよろしくね！ name=伊吹渚 
+message text=（それからの俺達は、明確な目標を持って\n共に受験勉強に打ち込んだ） name={user} 
+message text=（渚は小説の執筆と同時並行で本当に\n大変そうだったけど、俺も出来る限り\n支えるようにしていた。それと……） name={user} 
+message text=二人とも、お疲れ様\nお茶とクッキー持ってきたよ……ハッ！\n渚ちゃん、眠そうだけど……大丈夫？ name=すみれ 
+message text=すみれちゃん……ありがとう\n後少しだけ頑張らないとだから name=伊吹渚 
+message text=……分かった。無理しちゃダメだよ？\n後少しだけ頑張れー！\nフレー！　フレー！　なーぎさちゃん！ name=すみれ 
+message text=か、可愛い……！\n元気出たよ、ありがとうね。すみれちゃん！ name=伊吹渚 
+message text=（すみれの応援も、渚を支えていた） name={user} 
+narration text=――とある日の放課後 
+message text=えぇと、ここの評論文の選択肢は……\nまずは極端な言い方をしてるとこを\n削って……うぅ～ん name=伊吹渚 
+message text=渚……さすがに休んだ方が\nいいんじゃないか？ name={user} 
+message text=ダ、ダメだよぉ～\n今日は後一時間は頑張らないと…… name=伊吹渚 
+message text=これ以上無理しても効率が悪いから\nもう少し頑張るにしても、一旦仮眠をとろう name={user} 
+message text=じゃあ……{user}くんも\n一緒に寝てくれる？ name=伊吹渚 
+message text=え？　い、いや、俺は寝なくても…… name={user} 
+message text={user}くんも最近遅くまで\n勉強頑張ってて全然寝てないよね？\n目の下のクマ凄いことになってるよ？ name=伊吹渚 
+message text=いや、そんなこと…… name={user} 
+message text={user}くんも一緒なら寝る！\n{user}くんが寝ないなら\n寝ない！　さあ、どうする？ name=伊吹渚 
+message text=分かった、一緒に仮眠するか name={user} 
+message text=やった～……それじゃあ\n三十分後に目覚ましを……\n……すぅ、すぅ、すぅ name=伊吹渚 
+message text=もう寝てる……\nよっぽど疲れてたんだな\n……お休み、渚 name={user} 
+message text=（この後、仮眠ですっきりした渚と\nふたたび勉強を頑張ることが出来た） name={user} 
+message text=帰って早めに休んだらどうだ？\n今日はたっぷり寝て、明日から頑張ろう name={user} 
+message text=うぅ～……確かにそうかも～\n分かった、今日はもう帰って休むね name=伊吹渚 
+message text=（この時はいい判断に思えたが……渚は\n夕方に長時間眠ったことで睡眠サイクルが\n崩れ、元に戻すのにかなり苦労した） name={user} 
+message text=もうすぐ発表だな name={user} 
+message text=（もし、別々の大学になったら……\nどうなるんだろう？　もちろん、俺達なら\n離れても大丈夫だと信じてる。でも……） name={user} 
+message text=（……いや、考え過ぎるのはやめよう\nまずは受験結果を見るのが先だ……！） name={user} 
+message text=あ……{user}くん！\n結果発表のページが出たよ！ name=伊吹渚 
+message text=結果は―― name=一同 

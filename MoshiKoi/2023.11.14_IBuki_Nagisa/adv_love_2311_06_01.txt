@@ -1,0 +1,47 @@
+title title=6話
+narration text=――高校三年生　春休み 
+message text=は～、あとちょっとで春休みも終わりか～\n私達、もう三年生なんだね name=伊吹渚 
+message text=受験勉強、頑張らないとな name={user} 
+message text=う……ヤなこと思い出させないでよ、も～ name=伊吹渚 
+message text=あれ？　誰からだろ……はい、もしもし name=伊吹渚 
+message text=……え？　き、金賞ですか！？\nありがとうございます！\n詳しくはまた後日……はい、はい……！ name=伊吹渚 
+message text=渚……今のってまさか name={user} 
+message text=うん！　前に応募した小説が金賞をとったの\n大賞はとれなかったけど、それでもデビュー\n出来るって……！ name=伊吹渚 
+message text=本当か……！？　渚、おめでとう！ name={user} 
+message text=ありがとう……\n{user}くんに\n背中を押してもらったおかげだよ name=伊吹渚 
+message text=渚が頑張ったからだよ\nこれから忙しくなるな name={user} 
+message text=えへへ……そうだね\nよーし、頑張るぞー！ name=伊吹渚 
+message text=（渚が賞を受賞して、交際も順調\n何もかもがうまくいっていると\n思っていたんだけれど……） name={user} 
+message text=……ふぅ、これで課題はオッケーっと\n疲れた～！ name=伊吹渚 
+message text=俺も終わったよ\nお茶を淹れるから一休みしよう name={user} 
+message text=俺も終わったよ\n息抜きに、どこか出かけないか？ name={user} 
+message text=ごめん、原稿の締め切りまで一週間だから\n少しでも進めないと…… name=伊吹渚 
+message text=……ん、分かった。無理はしないでくれよ name={user} 
+message text=（デビュー作の出版準備に\n本格化してきた受験勉強……\n最近の渚は休む暇もない忙しさだ） name={user} 
+message text=（一緒にいてもあまり話せてないし……\nむしろ付き合う前より渚が遠くに感じるな） name={user} 
+narration text=――高校三年生　八月 
+message text=渚のデビュー作、近所の本屋で\nかなりプッシュされてたぞ\n売れ行きはどうなんだ？ name={user} 
+message text=おかげさまで好評みたい\n自分の本を手に取って買ってもらうって……\nなんだか不思議な感じがするなー name=伊吹渚 
+message text=それなら良かった\n……ところで、小説の仕事は\n一段落したんだよな。それなら…… name={user} 
+message text=あ……それなんだけど\nデビュー作の売れ行きがいいからってことで\n二作目の企画を立ててるんだ name=伊吹渚 
+message text=それに昨日、文芸雑誌に連載を持って\nみないかって声を掛けてもらって……\nまだまだ忙しそうなんだよね name=伊吹渚 
+message text=でも、受験勉強もそろそろ本格的に\n頑張らないとだし、どうしよう……？ name=伊吹渚 
+message text=おめでとう。渚は本当に凄いな\n俺も渚の本が読めるのは嬉しい\n応援してるよ name={user} 
+message text=うん……ありがとう\n……ね。手、握っていい？ name=伊吹渚 
+message text=え？　いいけど……\n渚、なんで……そんな顔…… name={user} 
+message text={user}くん……\nどこかに行っちゃったりしないよね？ name=伊吹渚 
+message text=渚…… name={user} 
+message text=（渚がどんどん離れていく気がしてたけど\nそう思ってたのは俺だけじゃなかった\n渚だって……不安なんだ） name={user} 
+message text=もちろんだ\n俺は……ずっと渚のそばにいるから name={user} 
+message text=……うん、ありがとう name=伊吹渚 
+message text=（このままじゃ……いけない\nそんな気がした） name={user} 
+message text=いいことだとは思うけど\n今は勉強に専念するべきじゃないか？\n出版社の人も分かってくれるさ name={user} 
+message text=……そう……かな\nでも……挑戦してみたい気持ちもあって…… name=伊吹渚 
+message text=……俺、なんだか渚がどんどん\n遠くへ行っちゃうように感じるよ\nこのままじゃ、俺達…… name={user} 
+message text=なんで、なんでそんなこと言うの……？ name=伊吹渚 
+message text=私、{user}くんに\n背中を押してもらえたから頑張れたんだよ？\nなのに、なのに…… name=伊吹渚 
+message text=……ごめん。でも、一緒にいる時間が\nだんだんなくなっていくのが辛くて…… name={user} 
+message text=そんなの……私だって同じだよっ！\nあ……ごめん、いきなり大声出して name=伊吹渚 
+message text=い、いや、大丈夫\n俺も言い方が悪かったよ……ごめん name={user} 
+message text=（その後、俺は悪化してしまった関係を\nなんとかしようと同じ大学を目指さないか\nと提案した） name={user} 
+message text=（賛成してはもらえたものの、渚は執筆に\n追われ、俺は渚との関係に悩み、二人とも\n勉強に身が入らないまま時は流れて――） name={user} 

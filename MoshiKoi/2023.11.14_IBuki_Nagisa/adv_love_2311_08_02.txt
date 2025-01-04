@@ -1,0 +1,49 @@
+title title=normal
+message text=（渚と俺は無事に東橋大学に合格した\n交際は続き、今は同棲もしている） name={user} 
+message text=（だが、渚の作家としての活動は\nますます忙しくなり、一緒に住んでいながら\n顔を合わせない日も続いていて……） name={user} 
+narration text=――大学三年生　春 
+message text=は～、後一年で私達も社会人か～\n友達もみんな就活の話ばっかりしてるね name=伊吹渚 
+message text=ねぇ、{user}くん\n私達……付き合ってどれくらいかな？ name=伊吹渚 
+message text=え？　そうだな……高二の時に\n付き合い始めて……三年半くらいか name={user} 
+message text=そうだよね。それで、もう大学三年生に\nなって、就活の時期に入って……\n私達、これからどうしよっか？ name=伊吹渚 
+message text=俺はこれからも一緒にいたい name={user} 
+message text=……ふふ、そっか\nなんだか前もこんなことあったよね name=伊吹渚 
+message text=高三になった頃のことか？\n……確かに、あの時の状況と\n結構似てるかもしれないな name={user} 
+message text=あの時はまだまだ子供だったけど\n私達、そろそろ真剣に将来を考えなきゃ\nいけないくらい大人になったよね name=伊吹渚 
+message text=三年半、あっという間だったな～\n本当に楽しかった。でも……正直に言うね\n私達、今が別れ時じゃない？ name=伊吹渚 
+message text=本当に正直だな\n確かに、今の俺達はお世辞にも\nうまくいってるとは言えないと思う name={user} 
+message text=だけど……何か決定的なことがあった\n訳でもない。そうだろ？ name={user} 
+message text=そう……だね\n「なんだかうまくいかないな」って\nいうのが少しずつ重なってきた感じ name=伊吹渚 
+message text=それなら……これからいくらでも\nどうにか出来るって。俺は……宣言通り\n渚を支える編集者を目指すから name={user} 
+message text=……そっか。うん、分かった\n{user}くんのその言葉……\n信じてみるね name=伊吹渚 
+message text=（だが――現実はそう甘くはなかった） name={user} 
+message text=（渚がデビューした出版社に、俺も無事採用\nされたが、出版不況を受け大幅に経営が悪化\nその煽りを受け、唐突に左遷される羽目に） name={user} 
+message text=（渚の担当編集をするどころか\n一転して……遠距離恋愛をすることに\nなってしまった） name={user} 
+narration text=―― 
+message text=ん？　渚から郵便物……これは新作小説だな\n遠く離れた二人の恋物語……？\n読んでみるかな name={user} 
+message text=（最後のページをめくるとそこには\n一枚のメモが挟まっていた） name={user} 
+narration text=『大丈夫』 
+message text=ありがとう、渚。俺も……諦めないで\nまたそばにいられるように頑張ってみるよ name={user} 
+message text=そろそろ……終わりにしようか\n別れよう、俺達 name={user} 
+message text=うん……そうだよね\nそれが……いい、よね……っ name=伊吹渚 
+message text=本当は、これからも渚のそばにいたい\nだけど……このままじゃ、お互いに\n疲れてしまうと思う name={user} 
+message text=だから、もう元の関係に……友達に戻ろう name={user} 
+message text=うん……うん……\n今までありがとう…… name=伊吹渚 
+message text=（それから俺は、出版とは関係無い業界に\n就職した。大学の卒業式の日……\n渚は、寂しげな笑みを浮かべていた） name={user} 
+message text=（渚のことを引きずりながらも……\n慌ただしい生活の中で、少しずつ傷が\n癒されていた、ある日のこと） name={user} 
+message text=渚からご飯に誘ってくるとはな……\n会うのはかなり久しぶりだ name={user} 
+message text=久しぶり name=伊吹渚 
+message text=お兄ちゃん、やっほー！ name=すみれ 
+message text=渚に……すみれ？\nどうして二人が一緒にいるんだ？ name={user} 
+message text=私ね、大学を卒業してからも\nすみれちゃんとは定期的に\n会ってたんだ name=伊吹渚 
+message text=二人がお別れした後、渚ちゃんが\nも～～～見てられないくらい\n落ち込んじゃってね name=すみれ 
+message text=ちょ、ちょっとすみれちゃん！\nそういうのは言わなくていいから……！ name=伊吹渚 
+message text=大丈夫、お兄ちゃんも酷かったから！ name=すみれ 
+message text=お、おい、すみれ……！\nその、なんだ……俺も渚も、すみれに\nかなり世話になったみたいだな name={user} 
+message text=あはは、そうみたいだね\nとにかく……私はすみれちゃんの\nおかげで、すっかり元気になれたんだ name=伊吹渚 
+message text=だから……今日はその近況報告が\nしたくて name=伊吹渚 
+message text=なるほど、そういうことだったのか\nすみれ……ありがとな name={user} 
+message text=渚ちゃんは大切な友達なんだから\nこれくらいなんてことないよ！ name=すみれ 
+message text=ねぇ、{user}くん\nこれからも……友達でいてくれる？ name=伊吹渚 
+message text=ああ、もちろんだ\nお互いの道で……頑張っていこうな name={user} 
+message text=……うん！ name=伊吹渚 

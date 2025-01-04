@@ -1,0 +1,78 @@
+title title=3話
+narration text=――とある日の放課後 
+message text=ねえねえ、{user}くん\nこの後予定ある？　ないよね？ name=伊吹渚 
+message text=聞き方が失礼過ぎるだろ……\n別に、いつも通り何もないよ name={user} 
+message text=そっかー、うんうん、そうだよね！\nそれじゃあ……ちょっと……\n放課後にデートしてみようよ name=伊吹渚 
+message text=え。で、デート？ name={user} 
+message text=しーっ、声が大きいってば\n私達付き合ってるんだから\nデートくらい普通でしょ？ name=伊吹渚 
+message text=行き先は歩きながら決めればいいから\nとりあえず行ってみようよ！\nね、どうかな？ name=伊吹渚 
+message text=あくまで恋人のフリだし……\nもう少し経ってからでも\nいいんじゃないか？ name={user} 
+message text=むー。{user}くんは\n分かってないなー\nこういうのは勢いが大事なの！ name=伊吹渚 
+message text=分かった分かった、付き合うよ name={user} 
+message text=やったー！　一回やってみたかったんだよね\n放課後デート name=伊吹渚 
+message text=今日、日直だから\n先に下駄箱で待っててくれ name={user} 
+message text=うん、どこ行くか考えとくね\nそれじゃあ name=伊吹渚 
+message text=お、{user}、まだいたのか\nさっき伊吹さんとすれ違ったんだけど\n妙に機嫌が良かったな。何話してたんだ？ name=鈴木 
+message text=あー……いや……\n大した話はしてないよ\nお前は何しに来たんだ？ name={user} 
+message text=忘れ物取りに来ただけだよ\nお、あったあった\nじゃ、練習戻るわ。また明日 name=鈴木 
+message text=ああ、また明日\n……はぁ name={user} 
+message text=デートでやってみたかったこと\nその一！　本屋さんでお買い物！ name=伊吹渚 
+message text=なるほど、結構いいかもな\nゆっくり見て回るか name={user} 
+message text=うん！　こうやって放課後に\n{user}くんと遊ぶのって\nなんだか久しぶりな気がするな～ name=伊吹渚 
+message text=小学生の頃とかは毎日一緒に\n遊んでいたのにね～ name=伊吹渚 
+message text=そうだな。ん……ここの本屋、久しぶりに\n来たけど、小説の品揃えがいいんだな\nそういえば渚が好きだったのは…… name={user} 
+message text=渚は恋愛系が好きだったよな\n……お、これなんて面白そうじゃないか？ name={user} 
+message text=『一組の男女が幾多の困難と\nすれ違いを乗り越え結ばれる\n淡くも甘やかな恋の物語』…… name=伊吹渚 
+message text={user}くん、凄い！\n私の好みぴったりだよ～！\nよく覚えてたね！ name=伊吹渚 
+message text=それくらい覚えてるって\n本の話とか、恋愛ドラマの話とか\n散々聞かされてたからな name={user} 
+message text=渚はバトル系が好きだったよな\nこれなんてどうだ？\n『拳法伝説kana』、だってさ name={user} 
+message text={user}くん、もしかして\n小学生の時に私がたまたまこういう漫画を\n読んでた時のことを覚えてたの？ name=伊吹渚 
+message text=そうそう、わざわざ学校に持ってきて……\nって、え？　たまたま？ name={user} 
+message text=そうだよ。流行ってるから、って友達に\n借りたの。はぁ……そんな細かいことを\nちゃんと覚えてるのは凄いけど……あ！ name=伊吹渚 
+message text=これ……私が好きな純愛系の小説だよ！\nしかも好みに、どストライク！\n決めた！　私、これにする！ name=伊吹渚 
+message text={user}くんは……\nこれなんてどうかな？ name=伊吹渚 
+message text=これは……漫画か\nマネージャーが悩み多き女優を支える……\nへぇ、こういう視点の作品もあるんだな name={user} 
+message text=なんとな～く、{user}くんに\n似合う気がしたんだよね\n乙女心も分かりそうだし name=伊吹渚 
+message text=なんだよそれ\nでも、面白そうだし買ってみるか\nせっかくだし、もう少し見てくか name={user} 
+message text=ふ～、楽しかった～！\nそろそろ出よっか name=伊吹渚 
+message text=そうだな。じゃあ、お会計しとくよ\n渚がほしい本はこれで全部か？ name={user} 
+message text=ありがと～……って、えぇ？\n私のは自分で買うから大丈夫だよ？ name=伊吹渚 
+message text=渚にはいつも世話になってるから\nちょっとしたお礼だって name={user} 
+message text=え、あ、そっか……うん、分かった\nそれじゃあ、せっかくだし……\nお願いしていい？ name=伊吹渚 
+narration text=――翌日 
+message text=デートでやってみたかったこと\nその二！　カフェで読書！ name=伊吹渚 
+message text=一緒に買った本をそれぞれ読むのって\nなんだかすっごくゆったりしてて\n素敵だな～って思ってたんだ name=伊吹渚 
+message text=わざわざ着替えて来るって\nそんなにやってみたいことだったのか？ name={user} 
+message text=だってこの方が、気分出るでしょ？\nあ！　あそこの席に座ろう？　隣同士でっ name=伊吹渚 
+message text=わぁ、可愛い……\nこんな風に微笑みかけられたら\nそりゃ好きになっちゃうよねぇ…… name=伊吹渚 
+message text=むむ……これは試練にしても\n厳し過ぎるんじゃない？ name=伊吹渚 
+message text=わー、わー、い、いいの？\nここまで書いちゃっていいの……！？ name=伊吹渚 
+message text=ほら、{user}くんも見て\nこのシーン！　凄いよ！ name=伊吹渚 
+message text=ちょっ、渚……近いって name={user} 
+message text=えー？　幼稚園の頃は\nこうして一緒に本読んでた時\nよく隣から覗き込んでなかった？ name=伊吹渚 
+message text=そ、そうだったか……？\nでも、高校生だし…… name={user} 
+message text=それに、ほら\n私達は『フリ』でも……恋人同士だから\nそれならいいでしょ？ name=伊吹渚 
+message text=わ、分かったよ\n手伝うって言ったしな name={user} 
+message text=えへへ、やったー\nふふ、なんだか懐かしいね name=伊吹渚 
+narration text=――その週の休日 
+message text=デートでやってみたかったこと\nその三！　お休みの日にお出かけ！ name=伊吹渚 
+message text={user}くんはのんびり\nしたいかもだけど、私は小説を書くために\nいろんなことを経験したいの！ name=伊吹渚 
+message text=えぇと……ごく自然に人の心を読むの\nやめてくれないか？ name={user} 
+message text={user}くんはすーぐ\n顔に出るから。分かりやすいんだよ、ふふ\nよーし。予習したこと、沢山試すぞ～…… name=伊吹渚 
+message text=ん？　予習……？\nなんの話だ……？ name={user} 
+message text=なんでもなーい！\nあ！　あのお店、ぬいぐるみが一杯あるよ！\n可愛いな～。ねぇねぇ、行ってみようよ！ name=伊吹渚 
+message text=そ、そんなに引っ張るなって……！ name={user} 
+message text=見て見て！　この熊のぬいぐるみ\n眠そうなところが\n{user}くんに似てる！ name=伊吹渚 
+message text=俺、そんな顔してるか……？\nというか、大分混んでるから\nあんまり一人で先に行くとはぐれるぞ？ name={user} 
+message text=じゃ……じゃあ……腕を組んで……\nぎゅっと抱きついてみたり……とか\nど、どうかな……？ name=伊吹渚 
+message text=渚……！？　その、なんていうか……\nち、近過ぎないか……？ name={user} 
+message text=近いけど……これならはぐれないし\n……ダメ、かな？ name=伊吹渚 
+message text=ダ、ダメじゃないけど……歩き辛くないか？ name={user} 
+message text=ふふ、大丈夫\nこれでミッションクリアだね name=伊吹渚 
+message text=渚？　なんか言ったか？ name={user} 
+message text=なんでもないよ！　全然へーきだし\nむしろ歩きやすいくらいだよ～\nえへへ～、嬉しいな～ name=伊吹渚 
+message text=渚がいいならいいけど……万が一\nクラスのやつらに見られて\n本当に付き合ってるって思われたら…… name={user} 
+message text=………………私は……\nそう思われてもいいんだけどな……\n{user}くんは？ name=伊吹渚 
+message text=え？　俺は…… name={user} 
+message text=な～んて、嘘だよ。ふふ\nわ～、あのワンピース可愛い！\n次はあそこの洋服屋さんに行こ！ name=伊吹渚 
+message text=あ、あぁ、そうだな name={user} 

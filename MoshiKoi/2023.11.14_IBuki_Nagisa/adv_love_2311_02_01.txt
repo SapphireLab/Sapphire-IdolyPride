@@ -1,0 +1,81 @@
+title title=2話
+narration text=――体育の授業中 
+message text=お疲れ。一試合しかしてないのに\n随分バテてるな name=鈴木 
+message text=運動部でもないのに\nいきなりバスケの試合に出たら\nそりゃバテるって name={user} 
+message text=お疲れ様！\n{user}くんも鈴木くんも\nさっきの試合、すっごく頑張ってたね name=伊吹渚 
+message text=最後の{user}くんの\nシュート、カッコ良かったな～\n鈴木くんに止められてたけど name=伊吹渚 
+message text=う、うるさいな～\nおかげで足がつりそうなんだよ…… name={user} 
+message text=そうなの？　じゃあ、マッサージして\nあげよっか？　私得意なんだよ！\nお母さんにも上手って褒められるんだから name=伊吹渚 
+message text=俺のことなんかどうでもいいよ\n渚こそさっき試合中にこけてたけど\n大丈夫なのか？ name={user} 
+message text=……よく見てるね？\nもし痛くなったらすぐに保健室に行くし\n……心配してくれてありがとう name=伊吹渚 
+message text=じゃあ、私次の試合あるから行くね！\n……痛っ name=伊吹渚 
+message text=無理するなって\n鈴木、先生に伝えておいてくれ\n渚を保健室に連れてくよ name={user} 
+message text=お、おう……分かった name=鈴木 
+message text=立ってるのは辛いだろ？\nとりあえず、ベッドに腰掛けたらどうだ？ name={user} 
+message text=う、うん……ありがとう……\n誰も……いないね…… name=伊吹渚 
+message text=そうだな。すぐに冷やした方がいいんだろう\nけど……俺がやるのも……\n保健の先生が戻ってくるのを待つか name={user} 
+message text=ねえ……私、{user}くんに\n手当てしてほしい name=伊吹渚 
+message text=そんなに痛むのか……\n分かった。氷を探してくるよ name={user} 
+message text=お待たせ。氷、持ってきたよ\n足首は……少し腫れてるな……\n……当てるぞ？ name={user} 
+message text=きゃっ……！ name=伊吹渚 
+message text=ご、ごめん！　痛かったか？\nじゃあ、自分で当ててくれ\n湿布もここに置いておくから name={user} 
+message text=ううん、冷たかっただけ……\n{user}くんのこと……\nちょっとだけ見直しちゃった……かも name=伊吹渚 
+message text=氷を探すことくらい誰でも出来るよ\nじゃあ俺は体育館に戻るから\n渚は痛みが引くまで安静にな name={user} 
+message text=そういうことを言ってる訳じゃないけど……\nありがとう name=伊吹渚 
+message text=伊吹さん、大丈夫だったか？ name=鈴木 
+message text=ああ、軽く足を捻っただけだったよ name={user} 
+message text=だ、大丈夫だってこれくらい\nほら、呼ばれてるぞ name={user} 
+message text=あ、本当だ！\nじゃあ二人とも頑張ってね～！ name=伊吹渚 
+message text=……なぁ、{user}は\n伊吹さんのことなんとも思ってないのか？ name=鈴木 
+message text=なんともって？\n渚とは子供の頃から一緒ってだけだよ name={user} 
+message text=それなら……言ってもいいか\n俺……伊吹さんのことが――好きなんだ name=鈴木 
+narration text=――その日の放課後 
+message text=（あいつ……渚のことが好きだったのか） name={user} 
+message text=う～ん……どうしようかなぁ…… name=伊吹渚 
+message text=（ん……渚？　何をしてるんだ？\n俺みたいに課題、って訳でもなさそうだな） name={user} 
+message text=ここでライバル登場……？　うーん、でも\nそれはありきたり過ぎるし…… name=伊吹渚 
+message text=それならここで、二人の仲を引き裂く\n事件が……うーん、これもなんだか\nテコ入れって感じで微妙だなぁ…… name=伊吹渚 
+message text=渚、何してるんだ？ name={user} 
+message text=うわぁっ！？\nもう、いきなり話しかけないでよ……！ name=伊吹渚 
+message text=そんなに驚かなくても……ん？\nこれは……小説か？ name={user} 
+message text=あ……っ！　見ちゃダメ！　違うの！\nえっと……違うこともないんだけど……\nその……なんていうか…… name=伊吹渚 
+message text=ご、ごめん、勝手に見ちゃって name={user} 
+message text=あーもー……{user}くんに\nだったらいっか……\n私……最近、小説を書き始めたんだ name=伊吹渚 
+message text=へぇ、そうなのか。凄いな\nどういうジャンルのを\n書いてるんだ？ name={user} 
+message text=それはその～……恋愛、的な？ name=伊吹渚 
+message text=恋愛小説かぁ。面白そうだな\n渚、昔から本読むの好きだもんな name={user} 
+message text=……はぁ～。そうだよね\n{user}くんはいつもそう\nだったよね。隠してた私がバカみたいだよ name=伊吹渚 
+message text=最初はスラスラと思いつくままに\n書いてたんだけど\nちょっと行き詰まっちゃって name=伊吹渚 
+message text=それで、気分を変えようと思って\n図書室でネタだけ考えて、帰ったら\nパソコンで整理するつもりだったんだよね name=伊吹渚 
+message text=そういうことだったのか\n最初からスラスラ書けるのも凄いけど……\nなんで行き詰まったんだ？ name={user} 
+message text=うーん、たぶん……今までは想像で書いて\nたんだけど、私、誰かとデートしたりとか\nお付き合いしたりしたことがないから…… name=伊吹渚 
+message text=イメージしきれないっていうか……\nどう書いたらいいか……\n分かんなくなっちゃって name=伊吹渚 
+message text=そ、そうなのか。大変だなぁ…… name={user} 
+message text=そうだ！　ねぇ、{user}くん\nにお願いがあるんだけど……\n私の恋人になってくれない？ name=伊吹渚 
+message text=え。……えぇ！？ name={user} 
+message text=しーっ！　{user}くん\n声が大きいってば！ name=伊吹渚 
+message text=……正確に言うと、恋人の『フリ』を\nしてほしいの name=伊吹渚 
+message text=な、なんだ……そういうことか\nでも、いきなりそんなことを\n言われても…… name={user} 
+message text=フリだけでも小説の参考になることが\n一杯あると思うから……お願い！\nどうしても完成させたいの！ name=伊吹渚 
+message text=分かったよ\n渚にはいつも世話になってるしな name={user} 
+message text=ほんと……！？　やった、ありがとう！ name=伊吹渚 
+message text=それじゃあ今日から……\n{user}くんは\n私の恋人、ってことで name=伊吹渚 
+message text=……あくまで、恋人の『フリ』なんだよな？ name={user} 
+message text=えっ。あ、うん……そうそう\n恋人の『フリ』だから！\n……えへへ name=伊吹渚 
+message text=（な、なんでそんな幸せそうなんだ……\n……あくまで恋人のフリ、恋人のフリ……） name={user} 
+message text=（こうして、ただの幼なじみだった俺と渚は\n演技とはいえ、恋人関係になった） name={user} 
+message text=いやいや、いくら『フリ』でも\n俺達が恋人同士になるとか変だろ name={user} 
+message text=あ……あはは、そっかそっか、そうだよね\n何言ってるんだろ、私 name=伊吹渚 
+message text=無理なこと言ってごめんね？\nそれじゃ……先に帰るね name=伊吹渚 
+message text=あ……渚……！ name={user} 
+message text=（この日以来、渚が朝起こしに来ることも\n一緒に登校することもなくなった\n学校でも避けられている気がする） name={user} 
+message text=（ある日、このままじゃいけない、と思い\n意を決して話しかけてみることにした） name={user} 
+message text=お、渚！　今日この後暇か？\n久しぶりに図書館で一緒に勉強でも―― name={user} 
+message text=ごめんなさい……今日は用事があるので…… name=伊吹渚 
+message text=なんか最近冷たくないか？\n俺は今まで通り渚と仲良くしたい―― name={user} 
+message text=仲良くなんて出来る訳ないじゃん！\n{user}くんなんて大っ嫌い！\nもう話しかけないで。バイバイ name=伊吹渚 
+message text=おお～こっぴどくフラれたなぁ～\nまぁ、俺も最近伊吹さんに告って\n同じ結果だったんだけど name=鈴木 
+message text=鈴木……乙女心って難しいな……\nううっ……俺は……渚に……\nなんで……嫌われてしまったんだ…… name={user} 
+message text=難しいよなー、ほんと\n無理しなくていいぞ。ほら、俺の胸なら\n{user}に貸してやるよ name=鈴木 
+message text=うわぁーん、鈴木……鈴木……鈴木……\n鈴木ぃぃぃっ……！！！！！ name={user} 
+message text=（俺達の友情はこの一件で固く結ばれた\nこんな青春も、悪くないのかもしれない\nお前もそう思うよな……鈴木……鈴木） name={user} 

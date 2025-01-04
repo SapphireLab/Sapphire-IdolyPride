@@ -1,0 +1,79 @@
+title title=happy
+message text=（俺と渚は東橋大学に合格し、共に充実した\n四年間を過ごした） name={user} 
+message text=（そして月日は流れ、大学を卒業してから\n数年が過ぎた頃――） name={user} 
+narration text=――文学賞受賞式 
+message text=私の小説が文学賞に選ばれるなんて……\nまだ信じられないよ。夢じゃない、よね？ name=伊吹渚 
+message text=ああ。なんだか感慨深いな……\n受賞作の『波打ち際の君と僕』は\n俺が初めて担当した作品でもあるから name={user} 
+message text=二人で、あーでもない、こーでもないって\n何回も書き直したよね name=伊吹渚 
+message text=ふふっ、あの時の取材旅行楽しかったな～\n私、まだ鮮明に覚えてるよ\n{user}くんのプロポーズ！ name=伊吹渚 
+message text=恥ずかしいからやめてくれよ……！ name={user} 
+narration text=――『波打ち際の君と僕』　取材旅行 
+message text=はぁ～温泉気持ち良かったね～\n女将さんも優しいし、ご飯も美味しいし\nいい旅館だな～ name=伊吹渚 
+message text=そうだな……\n小説に使えそうなネタは見つかったか？ name={user} 
+message text=せっかくの旅行なのに\nなんだか{user}くん\n今日ずーっとテンション低くない？ name=伊吹渚 
+message text=そ、そんなことないって！\nあくまで取材旅行なんだから\n渚だってもう少し真面目に…… name={user} 
+message text=相変わらず{user}くんは\nおかたいな～\n少しくらいゆっくりしようよ name=伊吹渚 
+message text=作家にとってはね、行き詰まってる時に\nのんびりして、頭をすっきりさせるのも\n大事な仕事のうちなの！ name=伊吹渚 
+message text=行き詰まってるのって\nラストシーン……だったよな？ name={user} 
+message text=そうだよ。構成的に\n二人が夫婦になった後の話も\n書きたいんだけど name=伊吹渚 
+message text=今まで、付き合うまでの過程を軸にした\n恋愛小説しか書いたことがなかったから\n夫婦の恋愛って分かんなくて…… name=伊吹渚 
+message text=でも、これは私にとって大きな挑戦なの\nここを書ききれば……きっとこの小説は\n間違いなく過去一番の出来になると思う！ name=伊吹渚 
+message text=ごほんっ。な、なあ、渚……\n俺達、夫婦にならないか……？ name={user} 
+message text=夫婦のフリ、か……\nなんだか、高校生の頃を思い出すね\n恋人のフリをしてもらってた時のこと name=伊吹渚 
+message text=確かに、いいアイデアが浮かぶかもだけど\n私もあの頃と比べて作家として成長したし\nもう少し自分の力で―― name=伊吹渚 
+message text=違う！　フリじゃない！ name={user} 
+message text=え……？ name=伊吹渚 
+message text=渚さん。俺と……結婚して下さい name={user} 
+message text=フリ……じゃなくて……\nほんとのほんとのプロポーズ？ name=伊吹渚 
+message text=ああ、俺と結婚して夫婦になって下さい name={user} 
+message text=ありがとう……嬉しい。ほんとに嬉しいよ\nこちらこそ……よろしくお願いします name=伊吹渚 
+message text=私が夫婦のフリだって勘違いしちゃった時の\n{user}くんの顔ってば\nふふふっ…… name=伊吹渚 
+message text=そんなに笑うなよ。あの日は朝からずっと\nいつ渚にプロポーズしようか\n一日中考えてたんだから name={user} 
+message text=そうだったの！？\nだから、なんかテンションが\n低かったんだ～？ name=伊吹渚 
+message text=はいはい。もうこの話はおしまい\n明日からまた打ち合わせと執筆が\n続くから今日はゆっくり楽しんでくれ name={user} 
+message text=うん、ありがとう name=伊吹渚 
+narration text=――翌日 
+message text=よーし、プロットの改稿完了……っと\n{user}くんに指摘された\n部分を直したら、一気に良くなったよ name=伊吹渚 
+message text=それは見るのが楽しみだな\n俺が確認している間に\n渚は次の企画を詰めておいてくれ name={user} 
+message text=ねぇ……{user}くん\nそのことなんだけど…… name=伊吹渚 
+message text=私ね……今まで書いたことのない\nジャンルにも挑戦したいなって思ってるの name=伊吹渚 
+message text=恋愛小説を書くのは楽しいし\n評価もしてもらってる name=伊吹渚 
+message text=でも、これからも作家としてやっていくなら\nいろいろと書ける方が仕事の幅が\n広がるかなって name=伊吹渚 
+message text=いいと思う。挑戦してみよう name={user} 
+message text=ほんと！？ name=伊吹渚 
+message text=あぁ。沢山の新作を走らせて\n作家として充実している今だからこそ\n挑戦する価値があると思う name={user} 
+message text=もちろん、今以上に忙しくなるけど……\n俺がしっかりスケジュールを管理して\n支えるから name={user} 
+message text=うん、うん……！\nありがとう、{user}くん\n一緒に頑張ろうね！ name=伊吹渚 
+message text=（その後、渚はミステリーや児童文学など\n様々なジャンルに挑戦し、ヒット作を連発\nドラマ化や映画化までされた） name={user} 
+narration text=――夫婦で過ごす、とある日のこと 
+message text=それじゃあ行ってきます name={user} 
+message text=あ、待って。ネクタイずれてるよ\n……これで良し、と\nふふ、私がいないと本当にダメなんだから name=伊吹渚 
+message text=ああ、そうだな name={user} 
+message text=……えへへ、そっかそっか～\n隙あり！　……んっ name=伊吹渚 
+message text=あれ～？　{user}くんってば\n顔真っ赤だよ？　あはは\nいつまで経っても慣れないよね～ name=伊吹渚 
+message text=そ、そういう渚だって……顔、真っ赤だぞ name={user} 
+message text=……だって、{user}くんの\n顔を近くで見ると、いまだに\nドキドキしちゃうんだもん name=伊吹渚 
+message text=（頬を赤らめてはにかむ表情は\n小さい頃から変わらないな……） name={user} 
+message text={user}くん\nこれからも……ずっと一緒だからね name=伊吹渚 
+message text=ああ、もちろんだ name={user} 
+message text=（幼い頃からずっとそばにいてくれた\nこの人を……これからも\nずっとずっと大切にしていこう） name={user} 
+message text=今はやめておいた方がいいかもな。今でも\nぎりぎりのスケジュールなんだし、もう少し\n落ち着いてから挑戦した方がいいと思う name={user} 
+message text=……そっか。うん、そうだよね\nよし！　まずは今書いてる小説に\n専念するぞ～！ name=伊吹渚 
+message text=（しばらくすると、渚の人気は\nほどよく落ち着き、仕事もプライベートも\n充実した日々を過ごしている） name={user} 
+message text=よしっ！　ようやく書き上がったよ！\nこれで脱稿～！ name=伊吹渚 
+message text=お疲れ様\n最後の校正は俺が今からやっておくよ\n渚はゆっくり休んでくれ name={user} 
+message text=ダメだよ、{user}くん\nまずは原稿を書き上げた作家を労うのが\n先だよ。いつものしてほしいな～ name=伊吹渚 
+message text=はいはい、分かったよ\nほら、ぎゅーーー name={user} 
+message text=ふふっ、私ね、原稿が書き終わって\nこうやって{user}くんに\nぎゅーってされてるこの時間が一番幸せなの name=伊吹渚 
+message text=これからもずーっとずーっと\n私と一緒に居てね\n大好きだよ、{user}くん name=伊吹渚 
+message text=そういえば、新しく出来た出版社から\nオファーがあったな。そこの編集者の方が\n渚の大ファンらしいんだ name={user} 
+message text=「恋愛ものとは違う作品で\n伊吹先生の新たな魅力を見つけたい」と\nおっしゃってたんだよ name={user} 
+message text=ほんと！？　わぁ～、嬉しいなぁ\nじゃあ新作はその出版社で書こうかな！ name=伊吹渚 
+message text=それじゃあさっそく連絡をとってみるよ name={user} 
+message text=（この時の決断を、俺達は大きく\n後悔することになる――） name={user} 
+message text=（原稿を提出しても、刊行日が決まらず\n印税も振り込まれない。問い詰めようとした\n矢先に、その出版社は倒産） name={user} 
+message text=（新作に費やした情熱と時間が無駄になり\nついに渚は倒れてしまう。結局、他の作品の\n執筆も、ままならなくなってしまった……） name={user} 
+message text=ごめんな、渚\n俺が不甲斐ないばかりに…… name={user} 
+message text={user}くんのせいじゃないよ\nあの出版社からの仕事を受けるって\n決めたのは私だもん name=伊吹渚 
+message text=それにね、この経験もきっと必要なもの\nだったんだよ。小説家にとって、人生の中で\nいらない経験なんて……一つもない name=伊吹渚 
+message text=どんなに辛いことがあっても……\nいつかは全部、小説の糧になるって\n私は信じたいんだ name=伊吹渚 

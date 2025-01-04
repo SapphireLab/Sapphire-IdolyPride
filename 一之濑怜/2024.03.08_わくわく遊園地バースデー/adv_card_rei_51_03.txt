@@ -1,0 +1,108 @@
+title title=一ノ瀬怜 3話 四六時中、夢中
+narration text=――怜の誕生日企画当日　早朝 
+message text=二人とも起きて！　もう朝よ name=一ノ瀬怜 
+message text=うう～ん……まだ五時だよぉ…… name=早坂芽衣 
+message text=怜ちゃん早起きだね……撮影開始、九時からだよ……？ name=早坂芽衣 
+message text=早くないわよ。朝の準備してたらすぐなんだから name=一ノ瀬怜 
+message text=誕生日企画はもう始まってるのよ？ name=一ノ瀬怜 
+message text=朝の準備って……怜はもう完璧に整ってますけど…… name=成宮すず 
+message text=私はこれからプランの最終チェックがあるの name=一ノ瀬怜 
+message text=はい、着替えて name=一ノ瀬怜 
+message text=あ、スタッフさんも起こした方がいいかしら？ name=一ノ瀬怜 
+message text=一緒に最後の打ち合わせとか―― name=一ノ瀬怜 
+message text=スタッフさんがびっくりしちゃうよ…… name=早坂芽衣 
+message text=時間になったら迎えに来てもらえるから大丈夫だって name=早坂芽衣 
+message text=怜は気が早いですわね……ふわぁ～…… name=成宮すず 
+message text=私、二度寝がしたいですわ name=成宮すず 
+message text=……いつもは起きるの遅いのに name=早坂芽衣 
+message text=今日の怜ちゃんは気合い入ってるね…… name=早坂芽衣 
+message text=毎朝こうでしたら、遅刻もしませんのに…… name=成宮すず 
+message text=……全部聞こえてるわよ name=一ノ瀬怜 
+message text=あと、遅刻はしたことないから！ name=一ノ瀬怜 
+message text=もう、くだらないこと言ってないで早く準備して name=一ノ瀬怜 
+message text=あ、そろそろスタッフさんのこと迎えに行こうかしら name=一ノ瀬怜 
+message text=怜ちゃん待ってぇ……さすがにもうちょっと name=早坂芽衣 
+message text=後にしよう？　まだ起きて一分しか経ってないから…… name=早坂芽衣 
+message text=芽衣、すず、今日は思いっきり楽しむわよ！ name=一ノ瀬怜 
+message text=わ！　見て！　キャストさんがパフォーマンスしてる！ name=一ノ瀬怜 
+message text=でも、まずはエントランスで撮影よね！ name=一ノ瀬怜 
+message text=ぬいぐるみも持ってるし！　写真、お願いしまーす name=一ノ瀬怜 
+message text=この後はジェットコースター乗る？　あ！ name=一ノ瀬怜 
+message text=ねえねえ、美味しそうなアイスのショップもあるわよ！ name=一ノ瀬怜 
+message text=怜ちゃん、よっぽど楽しみだったんだろうね name=早坂芽衣 
+message text=テーマパーク入ってから、ずーっと笑顔だよ name=早坂芽衣 
+message text=芽衣達が頑張って笑顔を引き出さなきゃーとか name=早坂芽衣 
+message text=しなくても大丈夫そうだね name=早坂芽衣 
+message text=ええ。すでに怜の自然な笑顔が沢山出てますもの name=成宮すず 
+message text=怜が楽しそうで何よりですわ name=成宮すず 
+message text=もー、二人とも置いてくわよ！　早く早くー！ name=一ノ瀬怜 
+message text=スタッフさんも！　こっちでーす！ name=一ノ瀬怜 
+message text=あはは、分かったよー name=早坂芽衣 
+message text=あ！　芽衣、あそこのポップコーン食べたいかも！ name=早坂芽衣 
+message text=あっ、ちょっと芽衣！？ name=成宮すず 
+message text=最新のアトラクションにも乗りたいけど……あ！ name=一ノ瀬怜 
+message text=あっちに限定グッズがあるみたい！　見てくるわね！ name=一ノ瀬怜 
+message text=すずはベンチに座って待ってて！ name=一ノ瀬怜 
+message text=終わったら戻ってくるから！ name=一ノ瀬怜 
+message text=怜まで！？　もう、まとまって行動してくださいまし！ name=成宮すず 
+narration text=――二十分後 
+message text=二人とも、全然戻って来ないですわ！ name=成宮すず 
+message text=はぁ～……なんで私がこんな目に…… name=成宮すず 
+message text=まずは芽衣から探しましょう……あ、芽衣！ name=成宮すず 
+message text=なんで一人でキャラクターと写真撮ってるんですの！ name=成宮すず 
+message text=ごめんね。ポップコーンを買った後、帽子をかぶった name=早坂芽衣 
+message text=猫のニャップさんが歩いてたからついー……えへへ name=早坂芽衣 
+message text=ずるいですわ！　自分ばっかりニャップさんと…… name=成宮すず 
+message text=ではなく、ばらばらに行動しないでくださいまし！ name=成宮すず 
+message text=まったく……後は怜ですね。どこにいるんでしょう name=成宮すず 
+message text=電話は……出ませんわね name=成宮すず 
+message text=グッズを見てくるって言ってましたけど name=成宮すず 
+message text=同じようなショップが沢山あって分からないですわ name=成宮すず 
+message text=そうだ！　こういう時は―― name=早坂芽衣 
+message text=ちょっと！　迷子アナウンスなんて頼まないでよ！ name=一ノ瀬怜 
+message text=すっごく恥ずかしかったんだから！ name=一ノ瀬怜 
+message text=東京都からお越しの一ノ瀬怜さん name=一ノ瀬怜 
+message text=お連れ様がお待ちです……じゃないわよ！ name=一ノ瀬怜 
+message text=そもそも迷子にならないでくださいまし！ name=成宮すず 
+message text=はしゃぐのはいいですけど、電話には出ること！ name=成宮すず 
+message text=そ、それは悪かったわ……つい夢中になっちゃって…… name=一ノ瀬怜 
+message text=ごめんなさい name=一ノ瀬怜 
+message text=あはは。いつもこういう時はすずにゃんが name=早坂芽衣 
+message text=怒られるのに、今日は逆だー name=早坂芽衣 
+message text=芽衣、あなたも！　今日はお仕事なんですから name=成宮すず 
+message text=勝手に動き回らないこと！ name=成宮すず 
+message text=時間が過ぎるのってあっという間ね name=一ノ瀬怜 
+message text=記念パレードがそろそろ始まるわ……あ、来たわよ！ name=一ノ瀬怜 
+message text=あそこにいるダンサーさん、私の憧れの人だわ！ name=一ノ瀬怜 
+message text=やっぱりキレが違う……！　ずっと観ていたいなぁ…… name=一ノ瀬怜 
+message text=本当に綺麗……手先やつま先までエネルギーに name=一ノ瀬怜 
+message text=溢れてて……観てると元気がわいてくる……！ name=一ノ瀬怜 
+message text=確かに、怜が見惚れるのも分かりますわ name=成宮すず 
+message text=目を引きつけて離さないパフォーマンスですもの name=成宮すず 
+message text=怜ちゃん、観れて良かったね name=早坂芽衣 
+message text=うん。私の誕生日に、三人で観れて name=一ノ瀬怜 
+message text=本当に良かった……！ name=一ノ瀬怜 
+message text=無事、撮影も終わりましたわね name=成宮すず 
+message text=きっと、素敵な記事になること間違いないですわ！ name=成宮すず 
+message text=スタッフさんともバイバイしたし name=早坂芽衣 
+message text=芽衣達も帰ろっか……怜ちゃん？ name=早坂芽衣 
+message text=さっきの振り、きっとこうやって表現してるのね…… name=一ノ瀬怜 
+message text=ターンを持ってくれば、綺麗に見えるのか……うん name=一ノ瀬怜 
+message text=……あ、ごめん。さっき見た振りを私達のダンスに name=一ノ瀬怜 
+message text=組み込めないかなって、考えてて name=一ノ瀬怜 
+message text=私、帰ったらダンスの練習したい！ name=一ノ瀬怜 
+message text=今なら、振り付けを一杯生み出せる気がする！ name=一ノ瀬怜 
+message text=ふふ。怜ちゃんは、本当にダンスが好きなんだね name=早坂芽衣 
+message text=ちょとだけなら、芽衣も踊るよ！ name=早坂芽衣 
+message text=ありがとう、芽衣！ name=一ノ瀬怜 
+message text=三人でやってみたいダンスがあって―― name=一ノ瀬怜 
+message text=……え、三人って、私も！？ name=成宮すず 
+message text=ふ、二人とも正気ですの！？ name=成宮すず 
+message text=私は一日中撮影してくたくたですわ～！ name=成宮すず 
+message text=勘弁してくださいまし～！ name=成宮すず 
+message text=（こんなに素敵な誕生日を過ごすのは、初めてだわ） name=一ノ瀬怜 
+message text=（お仕事を忘れちゃうくらい浮かれるなんて） name=一ノ瀬怜 
+message text=（それに、憧れのダンサーさんを観れて、周りを笑顔に） name=一ノ瀬怜 
+message text=（したり活力を与えるダンスの力を、改めて感じられた） name=一ノ瀬怜 
+message text=（私も……アイドル一ノ瀬怜のダンスで） name=一ノ瀬怜 
+message text=（今以上に、もっと沢山の人を笑顔にしてみせるわ！） name=一ノ瀬怜 

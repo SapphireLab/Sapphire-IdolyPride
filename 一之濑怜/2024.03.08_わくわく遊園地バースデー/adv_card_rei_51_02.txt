@@ -1,0 +1,84 @@
+title title=一ノ瀬怜 2話 前乗りテーマパーク
+narration text=――怜の誕生日企画前日　放課後 
+message text=中等部のみなさん、失礼します name=一ノ瀬怜 
+message text=すず、いるわよね？　一緒に帰るわよ！ name=一ノ瀬怜 
+message text=ちょ、ちょっとなんなんですの！？ name=成宮すず 
+message text=教室では静かにしてくださいまし！ name=成宮すず 
+message text=すずの声の方が大きいわよ！ name=一ノ瀬怜 
+message text=ほら、それより早く帰る準備して name=一ノ瀬怜 
+message text=あと十数時間後には、テーマパークに入るんだから name=一ノ瀬怜 
+message text=忘れ物がないように、しっかり準備を整えないと name=一ノ瀬怜 
+message text=気合いは分かりましたけど、落ち着いてくださいまし name=成宮すず 
+message text=そんなに焦っても集合時間まで全然余裕が…… name=成宮すず 
+message text=何事も早め早めに動くことが肝心なの name=一ノ瀬怜 
+message text=早めに動くことは大切ですが、さすがに早過ぎますわ！ name=成宮すず 
+message text=怜が楽しみな気持ちは十分伝わりましたから name=成宮すず 
+message text=……一週間前からずっとカウントダウンしてましたし name=成宮すず 
+message text=当日のテンションはもっと凄いことになりそうですわね name=成宮すず 
+message text=何か言った？　喋ってたら三分もロスしちゃったわよ name=一ノ瀬怜 
+message text=芽衣も迎えに行くんだから。ほら、早く name=一ノ瀬怜 
+message text=ちょっと、そんなに急かさないで…… name=成宮すず 
+message text=お待ちなさい、廊下を走ったらダメですわよー！？ name=成宮すず 
+message text=今日明日と二日間の撮影になりますが name=一ノ瀬怜 
+message text=よろしくお願いします！ name=一ノ瀬怜 
+message text=こんなに素敵なホテル、それに料理やケーキも用意して name=一ノ瀬怜 
+message text=下さり、本当にありがとうございます name=一ノ瀬怜 
+message text=良かったですわね、怜 name=成宮すず 
+message text=……さあ、カメラマンさん、準備はよろしいでしょうか name=成宮すず 
+message text=実は、芽衣達からもお祝いがありまーす！ name=早坂芽衣 
+message text=いくよ、すずにゃん！　せーのっ…… name=早坂芽衣 
+message text=お誕生日おめでとう！！ name=一同 
+message text=すず、芽衣！　ありがとう！ name=一ノ瀬怜 
+message text=二人で選んだプレゼントもあるんだ name=早坂芽衣 
+message text=はい、どーぞ！　開けてみて開けてみてー name=早坂芽衣 
+message text=……これ、テーマパークのマスコットキャラの name=一ノ瀬怜 
+message text=ぬいぐるみじゃない！　しかも周年バージョンだわ！ name=一ノ瀬怜 
+message text=明日、この子と一緒にテーマパークに行けたら name=早坂芽衣 
+message text=怜ちゃん嬉しいだろうなーって思って name=早坂芽衣 
+message text=ええ、凄く嬉しいわ！ name=一ノ瀬怜 
+message text=前の日からこんなに嬉しい誕生日は初めてよ！ name=一ノ瀬怜 
+message text=はぁ～、今日の撮影、とっても楽しかったわ……！ name=一ノ瀬怜 
+message text=満足そうで良かったですわ name=成宮すず 
+message text=明日もあるし、そろそろ寝ましょうか name=成宮すず 
+message text=そうだね。おやすみ～ name=早坂芽衣 
+message text=明日は、久々のテーマパークなんだし name=一ノ瀬怜 
+message text=悔いが残らないように楽しみたいわね name=一ノ瀬怜 
+message text=ふわぁ～。怜ちゃんが笑顔だと芽衣達も嬉しいよ…… name=早坂芽衣 
+message text=……ふふふ！　明日が待ちきれないわ！ name=一ノ瀬怜 
+message text=最初はエントランスで撮影よね、その後は―― name=一ノ瀬怜 
+message text=あっ！　もらったぬいぐるみも name=一ノ瀬怜 
+message text=絶対忘れないようにしなきゃ name=一ノ瀬怜 
+message text=怜ちゃん、明日起きれなくなっちゃうよ～……？ name=早坂芽衣 
+message text=大丈夫。今のうちに出来ることはやっておきたいの name=一ノ瀬怜 
+message text=寝る前に持ち物の最終確認しておくわ name=一ノ瀬怜 
+message text=お財布……よし。ハンカチ、ある。スマホも、あるわ name=一ノ瀬怜 
+message text=ガイドブックも、スケジュールを書いたメモも、よし！ name=一ノ瀬怜 
+message text=スマホの予備バッテリー、よし！　パレードは name=一ノ瀬怜 
+message text=一度きりだもの、一秒も逃すことなく撮影しなきゃね name=一ノ瀬怜 
+message text=そもそも、パレードの場所取りをした方がいいのかしら name=一ノ瀬怜 
+message text=それならプランをもう一度見直さないと！ name=一ノ瀬怜 
+message text=……怜、それは明日の朝でもいいでしょう？ name=成宮すず 
+message text=寝ますわよ name=成宮すず 
+message text=分かったわ。プランの見直しは明日の朝ね……あ！ name=一ノ瀬怜 
+message text=念のためライブ衣装を持ってきた方が良かったかしら name=一ノ瀬怜 
+message text=怜ちゃんは踊らないから大丈夫だよ…… name=早坂芽衣 
+message text=雑誌の撮影だし必要かなって思ったけど……いらないか name=一ノ瀬怜 
+message text=そうだ！　みんな、チケットなくしてないわよね！ name=一ノ瀬怜 
+message text=明日スタッフさんから渡してもらえるよ…… name=早坂芽衣 
+message text=そうだったわね。間違って捨てたりしたら大変だから name=一ノ瀬怜 
+message text=預かってもらったのよね。そうそう、明日の撮影だけど name=一ノ瀬怜 
+message text=明日のことは、起きてから考えよう……？ name=早坂芽衣 
+message text=芽衣、もう眠いよー…… name=早坂芽衣 
+message text=ご、ごめんね、芽衣。でも、確認しておかないと name=一ノ瀬怜 
+message text=起きてからバタバタするのも良くないじゃない name=一ノ瀬怜 
+message text=三人でポーズとか合わせたいわね、こういうのは―― name=一ノ瀬怜 
+message text=……あれ、二人とも、もう寝た？ name=一ノ瀬怜 
+message text=……もうっ！　寝ましたわ！ name=成宮すず 
+message text=怜もいい加減にしないと、明日に響きますわよ name=成宮すず 
+message text=寝不足よりも元気な方が沢山楽しめるよ name=早坂芽衣 
+message text=しっかり寝ようよ、怜ちゃーん…… name=早坂芽衣 
+message text=……二人の言う通りね name=一ノ瀬怜 
+message text=体調管理もお仕事の一つだし、今度こそちゃんと寝るわ name=一ノ瀬怜 
+message text=二人とも、明日は寝坊しないでね！ name=一ノ瀬怜 
+message text=どの口が言うんでしょうか…… name=成宮すず 
+message text=怜、あなたが一番心配ですわ…… name=成宮すず 

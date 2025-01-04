@@ -1,0 +1,98 @@
+title title=一ノ瀬怜 1話 楽しさ三倍の誕生日企画
+narration text=――放課後 
+message text=高等部のみなさん、怜はいますでしょうか！ name=成宮すず 
+message text=怜！　一緒に帰りますわよ！ name=成宮すず 
+message text=ねえ、いつも言ってるけど name=一ノ瀬怜 
+message text=大声で私の名前を叫ばないで name=一ノ瀬怜 
+message text=こうでもしないと怜は私に気付かないでしょう？ name=成宮すず 
+message text=教室には沢山の生徒がいらっしゃる訳ですし name=成宮すず 
+message text=気付くわよ！　高等部の中に中等部の制服の子が name=一ノ瀬怜 
+message text=混じってるんだから…… name=一ノ瀬怜 
+message text=それでは、大声はやめて差し上げます name=成宮すず 
+message text=次からは校内放送で呼び出しますわね！ name=成宮すず 
+message text=もっと却下。普通に呼びなさいよ、まったく…… name=一ノ瀬怜 
+message text=……え、妹？　違う違う、この子は同じ事務所なだけで name=一ノ瀬怜 
+message text=私のことをご存じない！？ name=成宮すず 
+message text=ならば教えて差し上げましょう、二代目星降る奇跡―― name=成宮すず 
+message text=はいはい。私は先に帰るわね name=一ノ瀬怜 
+message text=なっ！　迎えに来たのに置いてかないでくださいまし！ name=成宮すず 
+message text=あはは、猫ちゃん、楽しいかにゃー？　うりうりー name=早坂芽衣 
+message text=あっ、怜ちゃんとすずにゃん！　一緒に遊ぼー name=早坂芽衣 
+message text=遊ぼうって、芽衣、仕事は？ name=一ノ瀬怜 
+message text=今日はオフになったんだ。二人もオフだったよね？ name=早坂芽衣 
+message text=寄り道して帰ろーよ！　芽衣、パフェ食べに行きたーい name=早坂芽衣 
+message text=ええ。構いませんわ name=成宮すず 
+message text=それでは、参りましょうか name=成宮すず 
+message text=放課後にカフェに寄るなんて久々かも name=一ノ瀬怜 
+message text=何にしようかしら……どれも美味しそうで迷うわね name=一ノ瀬怜 
+message text=ここの猫ちゃんパフェおすすめだよ。 name=早坂芽衣 
+message text=猫の形のクッキーが乗ってて……芽衣これにきーめた！ name=早坂芽衣 
+message text=可愛い……！　私もそれにしようかな name=一ノ瀬怜 
+message text=でも、こっちのマカロンセットも捨てがたい…… name=一ノ瀬怜 
+message text=そういえば、次の『ミラクル☆アイドルバースデー！』 name=成宮すず 
+message text=怜でしたよね。何をするか決まっていますの？ name=成宮すず 
+message text=ミラクル……あぁ、アイドルのやりたいことを name=一ノ瀬怜 
+message text=なんでも叶えてくれる、雑誌の誕生日企画ね name=一ノ瀬怜 
+message text=すぐに決まったわ。テーマパークに遊びに行くつもり name=一ノ瀬怜 
+message text=そろそろ、周年をお祝いするイベントが始まるのよ name=一ノ瀬怜 
+message text=テーマパーク！！ name=一同 
+message text=ええ。記念パレードに、私がずーっと憧れてるダンサー name=一ノ瀬怜 
+message text=さんが出るって教えてもらって、行くことにしたの！ name=一ノ瀬怜 
+message text=それに、久々にテーマパークで遊ぶから name=一ノ瀬怜 
+message text=今から凄く楽しみで……！ name=一ノ瀬怜 
+message text=撮影しながらだけど、一日中好きなルートで遊ばせて name=一ノ瀬怜 
+message text=もらえるし。前日から近くのホテルに泊まれるのよ！ name=一ノ瀬怜 
+message text=しかも、予約半年待ちのスイートルームを取って name=一ノ瀬怜 
+message text=もらったんだから！　起きてすぐパークで楽しめるわ！ name=一ノ瀬怜 
+message text=それなら朝が弱い怜でも安心ですわね name=成宮すず 
+message text=他に誰か一緒に行く人はいるんですの？ name=成宮すず 
+message text=私とスタッフさん数人で行く予定よ name=一ノ瀬怜 
+message text=このお話自体、私へのオファーだし name=一ノ瀬怜 
+message text=ええっ！　せっかくのお誕生日の企画だよ？ name=早坂芽衣 
+message text=お手伝いしてくれる友達とか呼ばないの？ name=早坂芽衣 
+message text=特に呼んでないわ。撮影するだけだもの name=一ノ瀬怜 
+message text=付き合ってもらうのも悪いしね name=一ノ瀬怜 
+message text=羨ましいですわ～！ name=成宮すず 
+message text=私をお友達枠として連れて行ってくださいまし！ name=成宮すず 
+message text=楽しい場所に一人で行くなんてもったいないよ～ name=早坂芽衣 
+message text=すずにゃんを連れて行くなら芽衣も行きたーい！ name=早坂芽衣 
+message text=別に一人でも十分楽しめるわよ name=一ノ瀬怜 
+message text=アトラクションに、パレードに、盛り沢山じゃない name=一ノ瀬怜 
+message text=そんなことないですわ！　一人より三人の方が name=成宮すず 
+message text=楽しさは三倍、いえ、何倍にもなるんですのよ！！ name=成宮すず 
+message text=そうだよ。みんなで一緒の方が絶対楽しいもん name=早坂芽衣 
+message text=だから、芽衣達も連れてって連れてってー！！ name=早坂芽衣 
+message text=もう、静かにしなさい！ name=一ノ瀬怜 
+message text=確かに、大人数での楽しみ方もあると思うけど name=一ノ瀬怜 
+message text=きっとファンも見たいはずですわ！ name=成宮すず 
+message text=友達と楽しむ中で生まれる、怜の自然な笑顔を！ name=成宮すず 
+message text=怜の自然体を引き出すなら、お友達枠として name=成宮すず 
+message text=私達が一番ぴったりだと思いません？ name=成宮すず 
+message text=そ、それはそうかもだけど…… name=一ノ瀬怜 
+message text=芽衣、怜ちゃんとすずにゃんとみんなで一緒に name=早坂芽衣 
+message text=テーマパークを沢山楽しむ自信ある！ name=早坂芽衣 
+message text=私もですわ！　テーマパークを一緒に楽しみましょう！ name=成宮すず 
+message text=……しょうがないわね。分かったわよ name=一ノ瀬怜 
+message text=そこまで言うなら、連れて行ってもいいわ name=一ノ瀬怜 
+message text=やったーー！！ name=一同 
+message text=ねえねえ、それなら三人とも制服で行こうよ！ name=早坂芽衣 
+message text=放課後おでかけの延長っぽい感じで name=早坂芽衣 
+message text=いいんじゃないかしら name=一ノ瀬怜 
+message text=そうだ。三人でお揃いの帽子とかかぶるのはどう？ name=一ノ瀬怜 
+message text=ふふ、怜も意外と乗り気ですわね name=成宮すず 
+message text=あんなに渋ってたのに name=成宮すず 
+message text=し、渋ってた訳じゃないわよ。せっかくみんなで name=一ノ瀬怜 
+message text=行くんだから、きちんと詳細まで決めておきたいの name=一ノ瀬怜 
+message text=あはは。怜ちゃんの好きなこと沢山しようよ name=早坂芽衣 
+message text=誕生日なんだし name=早坂芽衣 
+message text=そうね。友達枠の二人には私のやりたいことに name=一ノ瀬怜 
+message text=とことん付き合ってもらおうかしら name=一ノ瀬怜 
+message text=あ。二人が来ること、スタッフさんに確認しておくわ name=一ノ瀬怜 
+message text=急な話だし、ホテルは一緒の部屋になるかも name=一ノ瀬怜 
+message text=修学旅行みたいで楽しそう！ name=早坂芽衣 
+message text=むしろ、芽衣はみんなで一緒のお部屋がいいなー！ name=早坂芽衣 
+message text=ふふ、ますます楽しみになってきたわ name=一ノ瀬怜 
+message text=当日まで、うきうきが止まらないかも name=一ノ瀬怜 
+message text=怜、何か言いました？ name=成宮すず 
+message text=なんでもないわ。じゃあ早速、当日のプランを name=一ノ瀬怜 
+message text=考えましょう。まずは―― name=一ノ瀬怜 

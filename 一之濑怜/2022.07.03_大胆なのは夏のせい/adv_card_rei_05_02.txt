@@ -1,0 +1,74 @@
+title title=一ノ瀬怜 2話 真夏の障害物競走
+narration text=――夏フェス当日 
+message text=そろそろ衣装に着替えたらどうだ？ name={user} 
+message text=いえ、出番までまだ時間がありますから…… name=一ノ瀬怜 
+message text=まさか本番ギリギリまで衣装を着ないつもりか？ name={user} 
+message text=そ、そんなことはありません name=一ノ瀬怜 
+message text=ちゃんと着替えるので心配しないで下さい name=一ノ瀬怜 
+message text=だがリハでは、ダンスにいつものキレがなかったぞ name={user} 
+message text=本当は衣装が気になってるんじゃないのか？ name={user} 
+message text=それは……確かに、新しい衣装のことを考えていて name=一ノ瀬怜 
+message text=集中出来なかったことは認めます name=一ノ瀬怜 
+message text=どうしてそんなに衣装が気になるんだ？ name={user} 
+message text=ひょっとして、また…… name={user} 
+message text=またって、なんのことですか？　はっ、もしかして私が name=一ノ瀬怜 
+message text=カロリー計算に失敗した時のことを思い出して…… name=一ノ瀬怜 
+message text={user}さん……最低ですね name=一ノ瀬怜 
+message text=すまない、今のは失言だった name={user} 
+message text=だから冷たい目で見ないでくれ name={user} 
+message text=体型はちゃんと維持してます name=一ノ瀬怜 
+message text=毎日カロリー計算して太らないようにしてますから name=一ノ瀬怜 
+message text=計算に失敗しないように気をつけろよ…… name={user} 
+message text=でも、ならどうしてそんなに着替えを嫌がるんだ？ name={user} 
+message text=それは…… name=一ノ瀬怜 
+message text=どうしても言わなくちゃダメですか？ name=一ノ瀬怜 
+message text=心配なんだ。頼む、教えてくれ name={user} 
+message text=仕方ないですね…… name=一ノ瀬怜 
+message text=実は、肌を露出した姿を見られるのが恥ずかしいんです name=一ノ瀬怜 
+message text=グラビアのお仕事もやってきたので name=一ノ瀬怜 
+message text=見られることには慣れてるつもりだったんですけど…… name=一ノ瀬怜 
+message text=この間の試着の時、{user}さんに name=一ノ瀬怜 
+message text=水着姿を見られるのが恥ずかしくなっちゃって…… name=一ノ瀬怜 
+message text=それ以来、人目が気になるようになってしまって name=一ノ瀬怜 
+message text=自分でも困ってるんです name=一ノ瀬怜 
+message text=（アイドルとはいえ年頃の女の子だ） name={user} 
+message text=（人目を意識して恥ずかしくなるのも無理ないか……） name={user} 
+message text=今日の夏フェスは特に観客が多いですし name=一ノ瀬怜 
+message text=最近はサニピにも凄く注目が集まってるから…… name=一ノ瀬怜 
+message text=大勢の人が私の水着姿を目に焼き付けるんだと思ったら name=一ノ瀬怜 
+message text=緊張して体がこわばってしまって…… name=一ノ瀬怜 
+message text=このままじゃいけないのは自分でも分かってます name=一ノ瀬怜 
+message text=でも意識すればするほど恥ずかしさが増して…… name=一ノ瀬怜 
+message text=（困ったな、何か意識を変えるきっかけを作れると） name={user} 
+message text=（いいんだが……） name={user} 
+narration text=――十分後 
+message text=……え？　障害物競走への参加ですか？ name=一ノ瀬怜 
+message text=あぁ、今回の夏フェスではライブの他に name={user} 
+message text=アイドル同士が対決する企画もあるんだ name={user} 
+message text=それに星見プロからも出場してほしいって name=一ノ瀬怜 
+message text=頼まれたんですか？ name=一ノ瀬怜 
+message text=でも、ライブ前にビーチで障害物競走って…… name=一ノ瀬怜 
+message text=どうかしてるんじゃないですか name=一ノ瀬怜 
+message text=気持ちは分かるが、アイドルが水着で障害物競走を name={user} 
+message text=するのは古くからある伝統的な企画だそうだ name={user} 
+message text=昔は夏になると name={user} 
+message text=テレビ番組でもやっていたらしいぞ name={user} 
+message text=私が生まれる前の話じゃないですか name=一ノ瀬怜 
+message text=ちなみにバンプロからは『フィジカルお化け』の name={user} 
+message text=異名を持つアスリート系アイドルが参加するらしい name={user} 
+message text=……！ name=一ノ瀬怜 
+message text=それって、ダンサーとしても人気のアイドルだ…… name=一ノ瀬怜 
+message text=だが、運動神経のいい怜でもさすがに自信がないか name={user} 
+message text=負けて恥をかくくらいなら不戦敗の方がマシだよな name={user} 
+message text={user}さん……私が出ます name=一ノ瀬怜 
+message text=え？　でもライブ前に怪我をされても困るし name={user} 
+message text=やめておいた方がいいんじゃないか？ name={user} 
+message text=条件は他のアイドルも一緒です！ name=一ノ瀬怜 
+message text=戦わずに逃げるなんて、そんなの嫌です！ name=一ノ瀬怜 
+message text=私が障害物競走でトップに立ってみせます！ name=一ノ瀬怜 
+message text=分かった name={user} 
+message text=エントリーしておくが無理はしないでくれよ name={user} 
+message text=はい！　ライブバトルと同じ様に全力で頑張ります！ name=一ノ瀬怜 
+message text=そうと決まれば、早く着替えて準備しないと！ name=一ノ瀬怜 
+message text=（怜の負けず嫌いに火がついたみたいだな） name={user} 
+message text=（これがきっかけになってくれるといいが……） name={user} 

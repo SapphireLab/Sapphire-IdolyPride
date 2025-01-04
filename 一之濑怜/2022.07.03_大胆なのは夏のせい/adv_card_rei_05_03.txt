@@ -1,0 +1,103 @@
+title title=一ノ瀬怜 3話 頼りになる人
+message text=盛り上がった障害物競走もいよいよ大詰めだ name={user} 
+message text=ゴール目前で、怜はトップと僅差の二位…… name={user} 
+message text=だが先頭との距離が縮まらない……！ name={user} 
+message text=このままじゃ逆転は難しいぞ、頑張れ怜！ name={user} 
+message text=はぁはぁ……次が最後の障害……！ name=一ノ瀬怜 
+message text=最後は、借り物競走……！ name=一ノ瀬怜 
+message text=カードをめくって書いてある物を持ってゴールへ…… name=一ノ瀬怜 
+message text=私のカードは……えっ！？　これは…… name=一ノ瀬怜 
+message text=怜のやつ、立ち止まって何を探しているんだ？ name={user} 
+message text=あ、走り出した。こっちに向かって来て…… name={user} 
+message text={user}さん！　私と一緒に来て下さい！ name=一ノ瀬怜 
+message text=俺が！？　カードにはなんて書いてあったんだ？ name={user} 
+message text=『頼りになる人』です！　だから私と来て下さい！ name=一ノ瀬怜 
+message text=それで俺の所に…… name={user} 
+message text=よし、行こう！　絶対一位を取るぞ！ name={user} 
+message text=はい！！ name=一ノ瀬怜 
+narration text=――障害物競走終了後 
+message text=久しぶりの全力疾走はキツかったな…… name={user} 
+message text=でも、最後に逆転出来て良かったよ name={user} 
+message text=おかげで一位になれました name=一ノ瀬怜 
+message text=ありがとうございます name=一ノ瀬怜 
+message text=それにしても、怜が俺を頼りになる人だと name={user} 
+message text=思ってくれていたとはね。嬉しいよ name={user} 
+message text=からかわないで下さい……。とっさに顔が name=一ノ瀬怜 
+message text=思い浮かんだんだから仕方ないじゃないですか name=一ノ瀬怜 
+message text=あはは…… name={user} 
+message text=それで、もう大丈夫なのか？ name={user} 
+message text=ん？　何がですか？ name=一ノ瀬怜 
+message text=だから、衣装を着て人前に出ても平気になったのか？ name={user} 
+message text=あ、そういえばそうでした…… name=一ノ瀬怜 
+message text=勝負に夢中ですっかり忘れてました name=一ノ瀬怜 
+message text=朝からずっと緊張してたのに、レースが始まったら name=一ノ瀬怜 
+message text=集中してて視線も気になりませんでした name=一ノ瀬怜 
+message text=最初の一歩を踏み出すのは勇気がいるが name={user} 
+message text=思い切って飛び込んでみれば意外と出来たりするものさ name={user} 
+message text=そうですね name=一ノ瀬怜 
+message text=今はあんなに恥ずかしかったのが不思議なくらいです name=一ノ瀬怜 
+message text=……もうすぐサニピの出番です name=一ノ瀬怜 
+message text=私達の新衣装もステージも、見ていて下さい！ name=一ノ瀬怜 
+message text=みんな、こんにちは！ name=一ノ瀬怜 
+message text=今日は私達のライブを観に来てくれてありがとう！ name=一ノ瀬怜 
+message text=（リハの時の硬さがなくなって） name={user} 
+message text=（堂々としているな……） name={user} 
+message text=どうですか、この衣装！ name=一ノ瀬怜 
+message text=今日のために新しく作ったんです！ name=一ノ瀬怜 
+message text=水着みたいでちょっと恥ずかしいけど…… name=一ノ瀬怜 
+message text=夏のビーチでいつもより大胆になってしまいそうです name=一ノ瀬怜 
+message text=あ、だからってじろじろ見ちゃダメですよ name=一ノ瀬怜 
+message text=そんなことする人は通報しますからね name=一ノ瀬怜 
+message text=それでは！ name=一ノ瀬怜 
+message text=今日は私達と一緒に夏を存分に楽しんでいってね！ name=一ノ瀬怜 
+message text=俺にはいやらしい目で見るなって言ったくせに…… name={user} 
+message text=まぁ夏の海だし、今日くらいは開放的になってもいいか name={user} 
+narration text=――夏フェス終了後 
+message text=ここ……綺麗な砂浜なのに、あまり人がいませんね name=一ノ瀬怜 
+message text=穴場を教えてもらったんだ name={user} 
+message text=ここならみんなも思い切り羽を伸ばせるだろ？ name={user} 
+message text=そうですね、さくら達も海に入って name=一ノ瀬怜 
+message text=あんなに楽しそうにはしゃいで…… name=一ノ瀬怜 
+message text=ライブが終わったから海で遊びたいなんて name=一ノ瀬怜 
+message text=みんな子供ですよね name=一ノ瀬怜 
+message text=怜もせっかく夏らしい格好をしてるんだから name={user} 
+message text=一緒に海で遊んだらどうだ？ name={user} 
+message text=そうですね…… name=一ノ瀬怜 
+message text=でも、その前にお礼を言わせて下さい name=一ノ瀬怜 
+message text=今日は障害物競走に誘ってくれて name=一ノ瀬怜 
+message text=ありがとうございました name=一ノ瀬怜 
+message text=私、大勢の人に水着姿を見られるんだと思ったら name=一ノ瀬怜 
+message text=変に意識しちゃって凄く恥ずかしくなって…… name=一ノ瀬怜 
+message text=だけど、{user}さんに乗せられて name=一ノ瀬怜 
+message text=絶対勝つぞって気持ちでスタートラインに立ったら name=一ノ瀬怜 
+message text=それまで感じてた気持ちが name=一ノ瀬怜 
+message text=嘘みたいに吹き飛んだんです name=一ノ瀬怜 
+message text=俺は少し手助けしただけだ name={user} 
+message text=感謝されるほどのことじゃないよ name={user} 
+message text=それだけじゃありません。走ってる最中も name=一ノ瀬怜 
+message text=私を応援するみんなの声が聞こえてきて…… name=一ノ瀬怜 
+message text=ファンと、星見プロのみんなと name=一ノ瀬怜 
+message text={user}さんの声に私は励まされたんです name=一ノ瀬怜 
+message text=応援ありがとうございます name=一ノ瀬怜 
+message text=おかげで羞恥心を克服して一位を取れました name=一ノ瀬怜 
+message text=あの、{user}さん…… name=一ノ瀬怜 
+message text=これからも私のこと、応援してくれますか？ name=一ノ瀬怜 
+message text=もちろんだ。俺はこれからもずっと怜を応援するよ name={user} 
+message text=ありがとうございます！ name=一ノ瀬怜 
+message text=顔が熱くなってきました name=一ノ瀬怜 
+message text=えーっと、やけに日差しが強いですね！　今日！ name=一ノ瀬怜 
+message text=怜のやつ、顔を真っ赤にして海に飛び込んだけど…… name={user} 
+message text=まだ水着が恥ずかしいのか？ name={user} 
+message text=みんな、ライブが終わったからって name=一ノ瀬怜 
+message text=羽目を外し過ぎ――きゃっ！ name=一ノ瀬怜 
+message text=やったわね～！　おかえしよ、それっ！ name=一ノ瀬怜 
+message text=ふふ……夏の海って楽しいわね name=一ノ瀬怜 
+message text=水着で海に飛び込みたくなる気持ちが分かるわ name=一ノ瀬怜 
+message text={user}さん、冷たくて気持ちいいですよ！ name=一ノ瀬怜 
+message text=こっちに来て私達と水遊びしませんか？ name=一ノ瀬怜 
+message text=やれやれ……結局、怜もはしゃいでるじゃないか name={user} 
+message text=何してるんですか！　早く早く！ name=一ノ瀬怜 
+message text=ノリが悪い人には……それっ！ name=一ノ瀬怜 
+message text=うわっ、勘弁してくれ！　こっちはスーツなんだぞ name={user} 
+message text=ビーチは楽しまないと損ですよ！ name=一ノ瀬怜 
+message text=ほら、水着になって一緒に夏の思い出を作りましょう！ name=一ノ瀬怜 

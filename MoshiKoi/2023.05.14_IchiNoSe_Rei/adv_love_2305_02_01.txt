@@ -1,0 +1,78 @@
+title title=2話
+narration text=――高校三年生　五月　学校　昼休憩 
+message text={user}さん。あの、これ……\nお礼というかお弁当作り過ぎてしまったので\n良かったら name=一ノ瀬怜 
+message text=いいんですか！　ありがとうございます\n一ノ瀬さんのお弁当は……？ name={user} 
+message text=私の分も、もちろん作ってきま……\nあれ？　ない…… name=一ノ瀬怜 
+message text=良ければ俺のパン、どうぞ\nお弁当もらったし、交換ということで name={user} 
+message text=遠慮しておきます。昼食ぐらい一日抜いても\n大丈夫……あ…… name=一ノ瀬怜 
+message text=ふふっ、お腹鳴っちゃいましたね\n今から中庭で一緒に食べませんか？ name={user} 
+narration text=――学校　中庭 
+message text=……このブリの照焼とっても美味しいです！\nこっちのブリ大根も、ブリの竜田揚げも name={user} 
+message text=あ、ありがとうございます……\nなんだか嬉しいです。自分の料理を\n誰かに食べてもらうのは、初めてなので name=一ノ瀬怜 
+message text=高校を卒業したら家を出よう\nと思っているので身の回りのことは\n自分でするようにしているんです name=一ノ瀬怜 
+message text=自立していて凄いなぁ\n俺も見習わないとです name={user} 
+message text=全然、まだまだですよ\nうまくいかないことばかりです name=一ノ瀬怜 
+message text=バイトでの件\n本当にありがとうございました name=一ノ瀬怜 
+message text=もう二度とあんなミスしないように\n気をつけます name=一ノ瀬怜 
+message text=気にしないで大丈夫ですよ\nブリの廃棄は免れたんですし name={user} 
+message text=でも、普段の一ノ瀬さんなら\n絶対しないミスですよね\n何かあったんですか……？ name={user} 
+message text=実は私、幼い頃からダンスをしていて……\nバイトはレッスン代を稼ぐためなんです name=一ノ瀬怜 
+message text=最近ダンスの大会で全然勝てなくて\n勝つためにレッスンを増やしたくて…… name=一ノ瀬怜 
+message text=スーパー以外にも、\n掛け持ちでいろいろとバイトを\n増やしたら寝不足が続いてしまい…… name=一ノ瀬怜 
+message text=あっ、ごめんなさい。こんな話……\n先に教室戻ります name=一ノ瀬怜 
+message text=こちらこそ、込み入った話を\n聞いてしまいすみません\nお弁当箱は洗って返します name={user} 
+message text=（教室に戻る途中\n体育館でダンスの練習をする\n一ノ瀬さんの姿を見つけた） name={user} 
+narration text=――高校三年生　六月　学校 
+message text=（いよいよ進路について真剣に考える時期\n三者面談を終え、教室を出ると――） name={user} 
+message text=さすが学年一位の\n{user}さんですね\n指定校推薦おめでとうございます name=一ノ瀬怜 
+message text=あ、一ノ瀬さん……とお父さん\n……こんにちは。確定ではないですけどね\n聞いていたんですか？ name={user} 
+message text=壁が薄いから、面談の内容丸聞こえでしたよ\nあっ……こんにちは\nクラスメイトの一ノ瀬です name=一ノ瀬怜 
+message text=あ、父さん\n一ノ瀬さんはバイト先が同じで…… name={user} 
+message text=いつもお世話になっております\n呼ばれたみたいなので……また name=一ノ瀬怜 
+message text=なんだか一ノ瀬さん元気なかったような……\nあ、教室に忘れ物 name={user} 
+message text=はあ……この成績だと進学出来ないぞ\nもっと将来を見据えた行動をしろ\n医者になるんだろ！ name=怜の父 
+message text=（一ノ瀬さんのお父さんの声……か……？） name={user} 
+message text=一ノ瀬さん、今は勉強に集中しましょう\nダンスは大学に行ったらまた出来ますし name=先生 
+message text=ダンスは成績を落とさないことを条件に\n続けさせてやってるんだぞ！ name=怜の父 
+message text=レッスン代は自分で出してるじゃない！\nお父さんに文句を言われる筋合いはないわ name=一ノ瀬怜 
+message text=生意気を言うな！\n下手くそで才能だってないくせに！ name=怜の父 
+message text=本当は二年の終わりで辞める約束だっただろ name=怜の父 
+message text=な……！　模試でいい点を取れば満足？\nそれなら文句ないわよね？ name=一ノ瀬怜 
+message text=そうだな\nじゃあ、七月の模試でB判定以上を取れ\n出来なければ今度こそダンスを辞めさせる name=怜の父 
+message text=やってみせるわ。成績も上げて、医学部にも\n合格して、次のダンス大会で優勝する name=一ノ瀬怜 
+message text=ふっ、せいぜい頑張るんだな\nその言葉忘れるなよ。私は先に帰っている name=怜の父 
+message text=……っ！？　\n{user}さん……なんで…… name=一ノ瀬怜 
+message text=すみません！　教室に忘れ物を取りに来たら\n聞こえてしまって…… name={user} 
+message text=（一ノ瀬さん……落ち込んでるな……\nどうしたらいいだろう……？） name={user} 
+message text=あー、喉が渇いてきたなー\n良かったら一緒にファミレスでも\n行きませんか？ name={user} 
+message text=……行きます name=一ノ瀬怜 
+message text=暇ならちょっと付き合ってくれませんか？\n無性に甘い物が食べたい気分なんです name=一ノ瀬怜 
+message text=わ、分かりました name={user} 
+narration text=――ファミレス 
+message text=わぁ～このパフェすっごく美味しい～！\n果物もクリームも沢山乗ってる！ name=一ノ瀬怜 
+message text={user}もどんどん食べて！\n店員さんすみませーん、\nプリンアラモードも追加で！ name=一ノ瀬怜 
+message text=一ノ瀬さん、なんだかいつもと\nキャラ違いませんか？ name={user} 
+message text=それにしても……三者面談大変そうでしたね name={user} 
+message text=怜でいいわよ\n同級生なんだし敬語もいらないわ name=一ノ瀬怜 
+message text=あまり父と仲が良くないから\nいつもあんな感じよ name=一ノ瀬怜 
+message text=父が医者だから、私にも医学部に行け\nってうるさくて。成績が下がってからは\nダンスも辞めさせられそうなの name=一ノ瀬怜 
+message text=だからレッスン費も自分で……？ name={user} 
+message text=ええ。でも……父の言う通り、今は勉強を\n頑張らなきゃいけない時期ってことも\n分かってはいるの name=一ノ瀬怜 
+message text=それでも、あんな言い方ないと思う\n俺は、一ノ瀬さ……怜を応援するよ name={user} 
+message text=しっかり信念を持って\n頑張っている怜は凄いと思う name={user} 
+message text=……あ、ありがとう\nそんなこと言われたの……初めてだわ name=一ノ瀬怜 
+message text=少し自信をなくしていたけれど、私決めた\n宣言通り、絶対にダンスでも勉強でも\n結果を残す name=一ノ瀬怜 
+message text=うん、その意気だ！\nそれで……\n今の成績はどのくらいなんだ……？ name={user} 
+message text=E判定……くらい……\nちょ、調子がいい時は\nD判定くらいは出るわよ！ name=一ノ瀬怜 
+message text=……うん、まだ大丈夫だ\nこれからしっかり勉強すればなんとかなる！ name={user} 
+message text=いいのよ、そんな無理に励まそうとしなくて\n自分自身が一番学力不足を自覚しているから name=一ノ瀬怜 
+message text=まずは、今の成績をどうにかするために\n予備校を探さないとよね name=一ノ瀬怜 
+message text=レッスン代に加えて\n予備校代も必要になるから\nまたバイトを増やさないといけないわ…… name=一ノ瀬怜 
+message text=（頑張る怜のために何かしてあげたい\n俺に出来ることは……） name={user} 
+message text=バイト探し手伝おうか？\n一緒に求人情報誌を見るよ name={user} 
+message text=ありがとう\n隙間時間で稼げるバイトはないかしら…… name=一ノ瀬怜 
+message text=あっ！\nそういえば{user}\n勉強得意よね？ name=一ノ瀬怜 
+message text=俺で良ければ勉強教えるよ\n一緒にお父さんを納得させよう name={user} 
+message text=本当！？　\nでも、{user}の勉強時間を\n奪ってしまうのは申し訳ない気も…… name=一ノ瀬怜 
+message text=気にしないで\n人に教えることで自分も勉強になるし\n怜が嫌だったらやめるけど…… name={user} 
+message text=ううん。……嬉しい。ありがとう name=一ノ瀬怜 

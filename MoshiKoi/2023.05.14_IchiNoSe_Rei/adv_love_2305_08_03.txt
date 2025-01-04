@@ -1,0 +1,33 @@
+title title=bad
+narration text=――三月八日　高校卒業式の日 
+message text=（怜からのテーマパークの誘いを断ってから\n俺達は学校でも全く会話をしなくなった） name={user} 
+message text=（俺、なんかしてしまったかな……） name={user} 
+message text=（卒業したらもう会うこともなくなるし……\n話し掛けてみるか） name={user} 
+message text=おい、怜。久しぶり！\n最近どう？ name={user} 
+message text=別に……普通よ name=一ノ瀬怜 
+message text=普通って……卒業後の進路はどうするんだ？ name={user} 
+message text=再オーディション、ダメだったんだろ？ name={user} 
+message text=自分に才能が無いことは分かったし\nキャストになる夢は諦めることにしたわ name=一ノ瀬怜 
+message text=東橋大学は落ちてしまったし\n滑り止めで受かった地方の医学部に\n行くつもり name=一ノ瀬怜 
+message text={user}は？　どうするの？ name=一ノ瀬怜 
+message text=俺は推薦で受かった東橋大学に行く name={user} 
+message text=そう、おめでとう\n受験勉強見てくれてありがとう\nそれに関してはとても感謝してるわ name=一ノ瀬怜 
+message text=それじゃあ……さようなら\nまたいつかどこかで、会うことがあったら name=一ノ瀬怜 
+message text=（どうしてこんなに\n冷たくなったんだろうか……？\n心当たりが全くないぞ……） name={user} 
+message text=（このままで俺はいいのか……？） name={user} 
+message text=好きです、付き合って下さい name={user} 
+message text=え……突然何……？ name=一ノ瀬怜 
+message text=俺、やっぱり怜のことが\n好きなんだなって思って\n前みたいに仲良くしてほしい name={user} 
+message text=ごめんなさい、無理よ\nその言葉、もう少し早く聞きたかったわ…… name=一ノ瀬怜 
+message text=私も{user}のこと\n好きだったわ\nでも、恋ってタイミングが一番大事なの name=一ノ瀬怜 
+message text=今の私は\nもうこれっぽっちもあなたに好意はない\nさようなら name=一ノ瀬怜 
+message text=ああ、それじゃあ、また…… name={user} 
+message text=（俺は、怜の背中を静かに見送った\n勉強は得意なはずなのに……） name={user} 
+message text=（怜の心を取り戻す方程式の解は\n見つからなかった。どこでミスを\nしたのかさえ……分からない……） name={user} 
+message text=（ただ一つだけ、確信したことがある\n今の怜は俺が嫌いだってこと） name={user} 
+message text=俺達、なんでこんなことに\nなっちゃったんだろうな\n結構いい感じだったじゃないか…… name={user} 
+message text=は……？　何言ってるの？ name=一ノ瀬怜 
+message text=テーマパーク行ったりとか\n一緒に勉強したりとか……\n楽しかったじゃないか…… name={user} 
+message text=あなたは楽しかったかもしれないけれど\n私は別に……楽しくなかったわ name=一ノ瀬怜 
+message text=そ、そんな…… name={user} 
+message text=何を勘違いしていたのか知らないけれど……\nもう行くわね。さようなら name=一ノ瀬怜 

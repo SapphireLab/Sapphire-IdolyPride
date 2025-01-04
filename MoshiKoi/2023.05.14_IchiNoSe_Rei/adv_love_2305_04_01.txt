@@ -1,0 +1,88 @@
+title title=4話
+narration text=――高校三年生　八月前半　学校 
+message text=（いよいよ今日は\n七月に受けた模試の返却日。自己採点通りの\n結果なら怜はB判定以上のはずだ） name={user} 
+message text=（お父さんとの関係も\n少しは良くなるといいけど……） name={user} 
+message text={user}\n模試の結果はどうだった？ name=一ノ瀬怜 
+message text=まぁ、いつも通りだったよ name={user} 
+message text=あーあ、いつも通りA判定なんて羨ましいわ\nでも、ほぼ推薦確定なのに\nなんでまだ勉強しているの？ name=一ノ瀬怜 
+message text=勉強するのが癖になってしまっているから\nしないとなんだか落ち着かないんだ name={user} 
+message text=はーあ、そんなセリフ私も言ってみたい\nあ、先生に呼ばれたからもらってくるわ name=一ノ瀬怜 
+message text=怜、模試の結果は……？ name={user} 
+message text=あ……うん……まあまあいい感じ\n自己採点通りだったわよ name=一ノ瀬怜 
+message text=（B判定が出ていたなら\n絶対報告してくるはず。それなのに\n何も言ってこないということは……） name={user} 
+message text=何そんな心配そうな顔してるの？\n大丈夫よ！ name=一ノ瀬怜 
+message text=復習したいから、今日は先に帰るわね\nじゃあ、またバイトで…… name=一ノ瀬怜 
+message text=（やっぱり怜の様子がおかしい\nきっと模試の結果が\nあまり良くなかったのだろう……） name={user} 
+message text=怜、模試の結果\n良くなかったんじゃないのか……？ name={user} 
+message text=……っ name=一ノ瀬怜 
+message text=大丈夫だ。まだ受験まで四ヶ月もある\n五月と比べると、出来ることも増えてきた name={user} 
+message text=学力は確実に伸びているし\nこのまま頑張ろう\n俺も一緒に模試の見直しをするよ name={user} 
+message text=（何か声を掛けたかったが\n一人で復習したいようだし\nそっとしておこうかな……） name={user} 
+message text=こんな結果、絶対お父さんに言えない……\nバレたらダンスを辞めさせられるわ…… name=一ノ瀬怜 
+message text=何点だったんだ……？ name={user} 
+message text=点数どうこうって話じゃないの\nマークミスをしていたみたいで…… name=一ノ瀬怜 
+message text=でも、全部あってたとしてもC判定\n全然足りないわ name=一ノ瀬怜 
+message text=今回の模試は全体的に平均点が高かった\nいつもだったらB判定くらいは\n出ていたはずだ name={user} 
+message text=だから、そんなに落ち込まなくても―― name={user} 
+message text=いいえ、約束は約束よ\nそんなこと言っても\n聞き入れてくれる人ではないわ name=一ノ瀬怜 
+message text=このまま隠し通すことも出来ないだろ？\nちゃんと話したら\nきっと分かってくれるはずだ name={user} 
+message text=……分かった、バイト先から電話してみるわ name=一ノ瀬怜 
+message text=そうだね、俺も横にいるよ name={user} 
+message text=ありがとう、心強いわ name=一ノ瀬怜 
+narration text=――数時間後　バイト先 
+message text=怜ちゃん！　\nそんな不安そうな顔しなくて大丈夫よ！\n私達も隣にいるんだから name=佐伯遙子 
+message text=三ヶ月勉強を教えていたのは俺だし\nこの結果は怜だけの責任ではないよ name={user} 
+message text={user}君\nカッコいいこと言うわね～ name=佐伯遙子 
+message text=怜、何かあったら電話は俺がかわる\n任せてくれ name=佐伯遙子 
+message text=ちょっ、遙子さん！？\nそんなことは……なくもないな\nかわってほしくなったらいつでもかわるぞ name={user} 
+message text=ふふっ、ありがとう\n……少しずつ落ち着いてきました\nよし、今ならお父さんに話せる気がする name=一ノ瀬怜 
+message text=電話……掛けてみるね name=一ノ瀬怜 
+message text=もしもし……お父さん\n模試の結果……なんだけど…… name=一ノ瀬怜 
+message text=連絡を待っていたよ\nもちろんB判定以上は取れたんだろうな？ name=怜の父 
+message text=D判定……\nで、でもね、マークミスしてなかったら\nCだったの name=一ノ瀬怜 
+message text=復習もちゃんとして、間違えた個所も\nどうすれば解けるか分かったし name=一ノ瀬怜 
+message text=言い訳は聞きたくない\n約束通りダンスは辞めろ\nダンスシューズも捨てておくからな name=怜の父 
+message text=待って！　それだけはやめて！　\n絶対に捨てないで！\nねえってば……お父さん、聞いてる？ name=一ノ瀬怜 
+message text=ダンスなんて\n受験から逃げるための口実だろう？ name=怜の父 
+message text=職に出来るほどの実力もないくせに\n時間の無駄だ name=怜の父 
+message text=っ！？　そっちがその気なら\n……もう家には帰らない！\nあなたには何も頼らないわ name=一ノ瀬怜 
+message text=ち、ちょっと怜ちゃん！　\n帰らないだなんてそんな……\nし、深呼吸して少し落ち着きましょう！ name=佐伯遙子 
+message text=だって、ダンスを辞めさせるだけでなく\nシューズまで捨てるとか\n言い出したんですよ！？ name=一ノ瀬怜 
+message text=もうあんな家、一生戻りません！\nはあ……でも……これからどうしよう…… name=一ノ瀬怜 
+message text=ごめん……\n俺がお父さんなら分かってくれるって\n言ったせいで…… name={user} 
+message text=いいえ、{user}の\nせいじゃないわ\nずっと隠し通すことなんて出来ないし name=一ノ瀬怜 
+message text=怜ちゃん、今日はうちに泊まりなさい\nほとぼりが冷めるまで\n好きなだけ居ていいわ name=佐伯遙子 
+message text=本当ですか……！？　ありがとうございます\nでも、その、彼氏とか……\n大丈夫ですか……？ name=一ノ瀬怜 
+message text=怜ちゃん～\n私に彼氏がいないことを知ってて\nわざと言ってるわね？ name=佐伯遙子 
+message text=あはははっ\n遙子さん、く、くすぐらないで下さい！\nわざとじゃ、あはは、ないですって！ name=一ノ瀬怜 
+message text=ふふっ、これで笑顔になったわね！\nでも、お母さんにはちゃんと\n連絡しておくこと！ name=佐伯遙子 
+message text=きっと怜ちゃんのこと\n心配していると思うから\nいいわね？ name=佐伯遙子 
+message text=はい、分かりました\n本当に……ありがとうございます name=一ノ瀬怜 
+message text=（俺も怜のために何かしたい\n出来ることはないだろうか……） name={user} 
+message text=嫌よ。今は顔も見たくないもの name=一ノ瀬怜 
+message text=（本気で嫌がられてしまった……\nそれなら、買い物にでも誘ってみるか） name={user} 
+message text=なぁ、怜。今週の土曜、時間あるかな？\n新しいダンスシューズを買いに行かない？ name={user} 
+message text=え、ええ。空いてるわよ\nちょうど新しいシューズが\nほしいと思ってたの name=一ノ瀬怜 
+message text=じゃあ決まりだな\nショッピングモールに行こう name={user} 
+message text=きゃ～\n{user}君やるじゃない！\n怜ちゃん、デート楽しんで来てね！ name=佐伯遙子 
+message text=ちょっと、遙子さん！　\n冷やかさないで下さい。デ、デートとか\nそういうんじゃないんですからね name=一ノ瀬怜 
+narration text=――その週の土曜日 
+message text=綺麗な靴……\nでもちょっとヒールが高過ぎるかしら name=一ノ瀬怜 
+message text=履いてみればいいんじゃないか？ name={user} 
+message text=やめておくわ\nこういう靴に憧れはあるんだけれど……\nなんだかちょっと恥ずかしくて name=一ノ瀬怜 
+message text=見て！\nこのダンスシューズ、デザインがいいわね\nすっごく軽いし、踊りやすそう！ name=一ノ瀬怜 
+message text=あ、こっちのブルーのラインが\n入ってるのもいいわね\n今までと同じメーカーだし足には合うのよね name=一ノ瀬怜 
+message text=（楽しんでくれているみたいだな\n少しは気分転換になればいいんだけど……） name={user} 
+message text=ねえ。{user}は\nどっちがいいと思う？ name=一ノ瀬怜 
+message text=（あれから両親とはどうなったんだろう……\nずっと遙子さんの家に\n居候しているのかな……） name={user} 
+message text=おーい、私の話聞いてる？ name=一ノ瀬怜 
+message text=あ、ごめん。聞いてるよ！\nえっと……なんて言ってたっけ……？ name={user} 
+message text=はあ……？　全然聞いてないじゃない\n何か考え事でもしてたの？ name=一ノ瀬怜 
+message text=……いや、大丈夫なのかなって思って\nいろいろと…… name={user} 
+message text=大丈夫よ、ありがとう\n今日は、心配して誘ってくれたんだよね？ name=一ノ瀬怜 
+message text=お母さんには、お父さんを止められなくて\nごめんなさいって謝られたわ name=一ノ瀬怜 
+message text=あなたの好きにしなさいって言われたけれど\nいつまでも遙子さんの家に\nいることは出来ないし name=一ノ瀬怜 
+message text=お父さんとはあれ以来一度も喋ってないわ\nあーあ……実家には帰りたくないなぁ…… name=一ノ瀬怜 
+message text=それなら一人暮らしを\n始めてみるのはどうだろう？ name={user} 
+message text=あ、やっぱり忘れてくれ\n勝手なこと言ってごめん name={user} 
+message text=一人暮らしか……\n考えたことなかったけどアリかも\nしっかり考えてみるわね name=一ノ瀬怜 

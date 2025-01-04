@@ -1,0 +1,59 @@
+title title=3話
+narration text=――高校三年生　七月　学校 
+message text=（俺達は来週行われる\n七月の全国模試に向けて勉強に励んでいた） name={user} 
+message text=ここはXをYに代入してそのまま―― name={user} 
+message text=ほんとだ、解けた……\n少しずつだけど、公式の使い方が\n分かってきた気がする name=一ノ瀬怜 
+message text=理解が早いね\nこれだったら次の模試で\nB判定も狙えるかもしれない name={user} 
+message text={user}の\n教え方が上手だからよ\n先生なんかより全然分かりやすいわ name=一ノ瀬怜 
+message text=今まで勉強に楽しさなんて\n感じたことなかったけれど\n少しずつ楽しくなってきたの name=一ノ瀬怜 
+message text={user}は夢とかないの？\n先生とか向いてると思うけど name=一ノ瀬怜 
+message text=なんとなく先生に\nなりたいなとは思っているよ name={user} 
+message text=特にないな\n先生か……考えたことなかったな name={user} 
+message text=でも、怜みたいに\nこれがやりたいっていう信念が\nある訳ではないから name={user} 
+message text=そんなまっすぐな怜を\n本当にカッコいいと思っているんだ name={user} 
+message text=ちょ、ちょっと……\nそんなまっすぐ見つめて言わないでよ…… name=一ノ瀬怜 
+message text=ごめん\n思ったことをそのまま\n言っただけなんだけど…… name={user} 
+message text=と、とりあえず来週の模試\n絶対B判定以上取るから\nよろしくね、{user} name=一ノ瀬怜 
+narration text=――高校三年生　七月　全国模試の後 
+message text=まる、まる、まる……これもまる！\n自己採点終わりーっと name=一ノ瀬怜 
+message text=お疲れ様。何点だった？ name={user} 
+message text=900点満点中……775点\n今までで一番いい点数よ！ name=一ノ瀬怜 
+message text=おめでとう\nマーク式だから結果が大きく変わる\nことはないだろうし、B判定は確実だな name={user} 
+message text=ふ～、良かった～\nとりあえず第一関門は突破出来そうね name=一ノ瀬怜 
+message text=（調子は良さそうだ\nずっと勉強詰めだった怜に\n何かしてあげられないかな……？） name={user} 
+message text=この後、時間ある？\nたまには息抜きしにどこかに出掛けない？ name={user} 
+message text=いいわよ。ちょうど私も\nどこか行きたいなって思っていたの name=一ノ瀬怜 
+message text=うわぁ……綺麗……！\n夕日が水面に反射してキラキラしてる！ name=一ノ瀬怜 
+message text=喜んでくれて良かった\n少し海岸を散歩しようか name={user} 
+message text=ええ。今まで夏はずっとダンスの\n合宿だったから。こうやって\n夏っぽいことするのは久しぶりだわ name=一ノ瀬怜 
+message text=ダンス漬けの人生だったんだな\nそういえば、最近ダンスの方はどうなんだ？ name={user} 
+message text=八月にあるダンス大会に向けて練習している\nところよ。コーチに褒められる\n回数も増えてきて、調子がいいの name=一ノ瀬怜 
+message text=このまま宣言通り、勉強もダンスも頑張って\nお父さんに認めてもらうわ name=一ノ瀬怜 
+message text=俺も応援してる。きっとお父さんも\n怜の頑張りを認めてくれるよ name={user} 
+message text=そうだと……いいな…… name=一ノ瀬怜 
+message text=今から復習をしよう\nまたすぐ次の模試があるし\n傾向と対策は大切だ name={user} 
+message text=そうよね、まだB判定だし……頑張るわ…… name=一ノ瀬怜 
+narration text=――全国高校ダンス大会当日 
+message text=会場は凄い熱気だな。怜の順番は次か name={user} 
+message text=エントリーナンバー31番\n一ノ瀬怜、よろしくお願いします！ name=一ノ瀬怜 
+message text=（素人から見ても、怜は他の応募者にはない\nオーラを持っていた） name={user} 
+message text=（怜が踊り始めると、みんなが目で追った\n俺も体の奥からぐわっと\n熱い想いが込み上げてくる） name={user} 
+message text=凄い……ダンスってこんなにも…… name={user} 
+message text=はあ、はあ……ありがとうございました！ name=一ノ瀬怜 
+narration text=――全国高校ダンス大会　結果発表後 
+message text=優勝おめでとう！\n怜が頑張っている姿を見ていたから\n自分のことのように嬉しいよ name={user} 
+message text=ありがとう……\nでも、あれだけ練習したんだもの\n優勝出来ると思っていたわ name=一ノ瀬怜 
+message text=それに……{user}も\n見に来てくれたし、コーチも今までで\n一番良かったって言ってくれたのよ！ name=一ノ瀬怜 
+message text=これでお父さんも少しは認めてくれるはず\n……よね？ name=一ノ瀬怜 
+message text=ああ、そうだな\nきっとお父さんも喜んでくれるよ name={user} 
+message text=そうよね！　それじゃあ……報告してみる name=一ノ瀬怜 
+message text=もしもし、お父さん？\n私ね、今、ダンスの全国大会で優勝したの！ name=一ノ瀬怜 
+message text=……そうか。そんなことはどうでもいいが\nダンスにかまけて勉強の方が\n疎かにはなってないよな？ name=怜の父 
+message text=っ…… name=一ノ瀬怜 
+message text=怜？　聞こえているのか？\n勉強の方は大丈夫か、と聞いているんだ name=怜の父 
+message text=ええ……もちろん！\n来週返ってくる模試も楽しみにしといて！ name=一ノ瀬怜 
+message text=その言葉、忘れるなよ name=怜の父 
+message text=私にとっては\nどうでもいいことじゃないのにな…… name=一ノ瀬怜 
+message text=怜……？　どうだった……？ name={user} 
+message text=あー、うん……\nお父さんも少しは……認めてくれたよ\n来週の模試の結果、楽しみにしてるって name=一ノ瀬怜 
+message text=そう……か……\n模試の結果、良いといいな！ name={user} 

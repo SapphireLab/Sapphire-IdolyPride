@@ -1,0 +1,93 @@
+title title=5話
+narration text=――高校三年生　九月上旬　怜の新居 
+message text={user}が手伝ってくれたから\n思ったよりも早く引っ越しが終わったわ\nありがとう name=一ノ瀬怜 
+message text=随分急だったけど……\n俺があんなこと言ったからだよな？\nごめん…… name={user} 
+message text=謝らないで\n{user}のせいじゃないわよ\nむしろ背中を押してくれて感謝しているの name=一ノ瀬怜 
+message text=あの後お母さんとしっかり話をして\n一人暮らしの許可もちゃんと取ったわ name=一ノ瀬怜 
+message text=そしたら、親戚が持っている\nアパートの一室を借りられることになったの name=一ノ瀬怜 
+message text=これでいつでもダンスが踊れるし\n勉強にも集中出来るわ name=一ノ瀬怜 
+message text=怜は凄いな\nその行動力、俺も見習いたいよ name={user} 
+message text=勉強もダンスも一人暮らしも\n全部自分で決めたことだからやり遂げたいの name=一ノ瀬怜 
+message text=そういえば怜はなんでダンスを始めたんだ？ name={user} 
+message text=幼い頃、家族でテーマパークに行った時にね\nパレードで踊っているキャストに\n心を奪われたの name=一ノ瀬怜 
+message text=笑顔で楽しそうに踊る姿が\nとてもキラキラしていて\n私もあんな風に踊ってみたいって思った name=一ノ瀬怜 
+message text=帰ってすぐにダンススクールを探して\nどうしても通いたいって両親にお願いしたわ name=一ノ瀬怜 
+message text=そこからダンスに夢中になって\n小さい頃の夢は\nテーマパークのキャストになることだったの name=一ノ瀬怜 
+message text=素敵な夢だな\n今はキャストになりたくないのか？ name={user} 
+message text=なりたくない訳ではないけれど……\nそんな簡単になれるものではないから name=一ノ瀬怜 
+message text=成長するにつれて\nどんどんキャストになる夢を\n押し殺していくようになったわ name=一ノ瀬怜 
+message text=テーマパークも\n最後に行ったのはいつだったかしら…… name=一ノ瀬怜 
+message text=怜、今から行かないか？ name={user} 
+message text=え！？　今から！？\nちょ、ちょっと待ってよ……！\n急過ぎない！？ name=一ノ瀬怜 
+message text=俺も怜の行動力を見習ってみようかなって\nさあ、行こう！ name={user} 
+narration text=――テーマパーク 
+message text=わ～～！　見て見て！　可愛い！\nこっちに手を振ってくれたわよ！！ name=一ノ瀬怜 
+message text=意外とああいうキグルミ好きだったんだな name={user} 
+message text=はぁ？　キグルミって言わないで！ name=一ノ瀬怜 
+message text=ご、ごめん\nそろそろパレードが始まる時間だ\nよく見える場所に移動しよう name={user} 
+message text=それにしても懐かしいわね\n私が幼かった頃と全然変わってない name=一ノ瀬怜 
+message text=（パレードが始まると\n怜はキラキラと目を輝かせながら\n踊っているキャストを見ていた） name={user} 
+message text=はぁ～、楽しかった～\n今日は連れて来てくれてありがとう name=一ノ瀬怜 
+message text=それは良かった。俺も久しぶりに\nテーマパークに来れて楽しかったよ name={user} 
+message text={user}のおかげで\nあの頃の気持ちを思い出すことが出来たわ name=一ノ瀬怜 
+message text=ん？　あれは……求人ポスターじゃないか？\n十年ぶりに\nパレードキャストオーディション開催決定 name={user} 
+message text=嘘でしょ……\n私がキャストに憧れたあの日から\n今まで一度も募集してなかったのに name=一ノ瀬怜 
+message text=このチャンスを逃したら\nもう次はないかもしれない\nオーディション、受けてみたらどうだ？ name={user} 
+message text=私…………受ける！ name=一ノ瀬怜 
+message text=怜なら出来るよ。俺は怜の夢を応援する！ name={user} 
+message text=ありがとう\n{user}が\n背中を押してくれたからよ name=一ノ瀬怜 
+message text=あ、でも、これまで通り\n……いや、これまで以上に\n勉強もちゃんと頑張るから name=一ノ瀬怜 
+message text=ダンスに集中した方がいいんじゃないか？ name={user} 
+message text=なんで勉強も頑張ろうと思うんだ？ name={user} 
+message text=お父さんを安心させるために\n医学部には合格したいの name=一ノ瀬怜 
+message text=私のことを心配してくれているのは\n……分かったから name=一ノ瀬怜 
+message text=お母さんから\nこの前電話で言われたんだけどね name=一ノ瀬怜 
+message text=お父さん\nダンスシューズ捨ててないんだって name=一ノ瀬怜 
+message text=そっか…… name={user} 
+message text=私が出て行ってから、どうやって謝ろうか\n毎日お母さんに相談してるらしいのよ name=一ノ瀬怜 
+message text=素直になれないところは\n私も似ているから……\nなんだかんだ嫌いになれないのよね name=一ノ瀬怜 
+message text=だから、難しいのは分かっているけれど\n医学部にもオーディションにも受かって…… name=一ノ瀬怜 
+message text=お父さんに胸を張って\nキャストになる夢を叶えたい name=一ノ瀬怜 
+message text=案外いいお父さんなんだな name={user} 
+message text=それはどうかしら……？\nでね、一つ相談なんだけど\n私、志望校変えようと思ってて…… name=一ノ瀬怜 
+message text=どこにするんだ？ name={user} 
+message text=東橋大学 name=一ノ瀬怜 
+message text=そこって……俺が推薦をもらう予定の\n大学だよな？　確かに医学部はあるけど……\n相当難しい気が…… name={user} 
+message text=なんで突然変えようと思ったんだ？\n今のままの志望校でも…… name={user} 
+message text=……{user}が行く\n大学だからよ。大学行くなら一緒に通い……\nな、なんでもない！ name=一ノ瀬怜 
+message text={user}だって\n自分が勉強している\n過去問を教える方が楽でしょ name=一ノ瀬怜 
+message text=確かに、大学ごとにクセはあるけど……\nでも、怜は本当にそれでいいのか？ name={user} 
+message text=ええ、もちろん。私なりにいろいろ考えた\n結果よ。それとも……志望校を同じにしたら\n迷惑かしら……？ name=一ノ瀬怜 
+message text=もし、大学に通うなら\n{user}と一緒の方が\n楽しいだろうな name=一ノ瀬怜 
+message text=……って思ったんだけど name=一ノ瀬怜 
+message text=正直言って、東橋大学合格は怜には\n厳しいと思う。ダンスオーディションにも\n挑戦するんだし…… name={user} 
+message text=そんなこと言わなくてもいいじゃない\n……バカっ\n全部分かったうえで言ったのに…… name=一ノ瀬怜 
+message text=ご、ごめん！　そうだよな……\n出来る限りサポートするから\n一緒に合格しよう name={user} 
+message text=そうだね、俺も一緒に通えたら嬉しい！\n怜の弱点は分かっているし、勉強頑張ろう！ name={user} 
+narration text=――高校三年生　九月下旬　バイト先 
+message text=怜ちゃん、{user}君\n休憩時間よ～ name=佐伯遙子 
+message text=はーい。ありがとうございます\nやっと休憩だな\n怜、何か飲み物買ってこようか？ name={user} 
+message text=ごめん、ダンスの練習したいから\n少し外行ってくるね\n休憩が終わるまでには戻ってくるから name=一ノ瀬怜 
+message text=あ、おい！　無理し過ぎるなよ\n体調を崩してしまったら元も子もないし name={user} 
+message text=全然大丈夫よ\n最近、どれだけ練習しても\n足りないって感じなの name=一ノ瀬怜 
+message text=オーディションはいよいよ今週末だし\n今頑張らないで、いつ頑張るの！ name=一ノ瀬怜 
+message text=少しは休憩しないと……\nあ……行ってしまった…… name={user} 
+message text=怜ちゃん、本当に頑張り屋さんよね name=佐伯遙子 
+message text=うちに居候していた時も、早起きして\n練習して。バイトから帰ってきた後も\nずっと練習して…… name=佐伯遙子 
+message text=学校の休み時間もですよ\n最近はバイトの休憩時間も\n練習してますし…… name={user} 
+message text=帰宅後は\n深夜まで受験勉強をしてるんですよ\n体調を崩したりしないか心配になります name={user} 
+message text=そうねぇ……でも、今が頑張り時なのかも\nオーディション、なんとしてでも\n受かってほしいわね name=佐伯遙子 
+message text=……俺、怜に飲み物渡してきます name={user} 
+narration text=――テーマパークキャスト\nオーディション会場 
+message text=いよいよオーディション当日だな\nやれることはやったんだし\n力を出し切って頑張れ！ name={user} 
+message text=……もちろんよ\n絶対に受かって、夢を叶えるわ name=一ノ瀬怜 
+message text=あんなに練習してきたんだ\n怜なら大丈夫だよ。でも……\nなんだか少し、顔色が悪くないか？ name={user} 
+message text=……そう？　きっと緊張してるからよ name=一ノ瀬怜 
+message text=そんなに心配そうな顔しないで。本当に\n大丈夫だから。それじゃあ、行ってくる！\nちゃんとそこで見ていてね name=一ノ瀬怜 
+message text=ああ、分かった。見ているよ\n頑張ってな name={user} 
+message text=エントリー番号81番、一ノ瀬怜です！\nよろしくお願いします！ name=一ノ瀬怜 
+message text=（いい感じに踊れているな\nキレもいいし、体全体で音楽を\n表現しているようだ） name={user} 
+message text=（他の参加者達も怜のダンスに\n釘付けだ。後半もこのまま……） name={user} 
+message text=（あれ……なんだか怜の様子がおかしいぞ？\n重心がブレてきている気が……） name={user} 
+message text=なん……で……\n体が動かない……\n視界も……クラクラしてきて…… name=一ノ瀬怜 
+message text=怜ーーーーーっ！！！！！！！ name={user} 

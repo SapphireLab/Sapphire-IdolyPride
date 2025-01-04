@@ -1,0 +1,101 @@
+title title=6話
+narration text=――テーマパーク　医務室 
+message text=（オーディション中に倒れた怜は\nすぐにテーマパーク内の医務室に運ばれた） name={user} 
+message text=（命に別状はなく\n過労と寝不足によるものだった\nしかし、一向に目を覚ます気配はなく――） name={user} 
+message text=よほど疲れていたんだろうな\nお疲れ様、怜 name={user} 
+narration text=――数時間後 
+message text=こ、ここは……？ name=一ノ瀬怜 
+message text=良かった……目が覚めたみたいだな\nテーマパークの医務室だよ\n体調はどうだ？ name={user} 
+message text=体調は全然平気だけど……\nなんで私医務室に…… name=一ノ瀬怜 
+message text=オーディションの最中に……倒れたんだ name={user} 
+message text=倒れた……？　オーディションは！？\nオーディションはどうなったの！？ name=一ノ瀬怜 
+message text=…………きっとまた、次がある\n今はゆっくり寝て、体調を戻して―― name={user} 
+message text=私の気持ちも知らないで\n勝手なこと言わないで……！ name=一ノ瀬怜 
+message text=今回のオーディションだって\n十年ぶりだったのよ？ name=一ノ瀬怜 
+message text=次があるかなんて分からないじゃないっ！\nもう、ないかもしれないのに…… name=一ノ瀬怜 
+message text=……そうだよな\n怜の気持ちを考えられていなかった、ごめん name={user} 
+message text=あっ……いえ……私こそ……\n{user}はずっと\n私のことを考えてくれて name=一ノ瀬怜 
+message text=応援もしてくれて……それなのに……私……\nもっと、もっと……\n頑張っていれば…… name=一ノ瀬怜 
+message text=体調管理は……\n大事だって分かってたのに……\nうっ……うぅ……うわーーん name=一ノ瀬怜 
+message text=今まで頑張ってきたこと……ぐすん……\n全部、全部……\nうっ……無駄だったのかな…… name=一ノ瀬怜 
+message text=怜…… name={user} 
+message text=ごめんなさい……\n自分で決めたことなのに……\n泣いている場合じゃないわよね…… name=一ノ瀬怜 
+message text=（家を出てから……\nいや、それよりもずっと前から\n一人で不安を抱えてきたんだろう） name={user} 
+message text=（泣いている怜に対して、俺はなんて言葉を\n掛けたらいいんだろうか……？） name={user} 
+message text=怜の言う通り、今は泣いている場合じゃない\n次に向けて頑張るしかないだろ name={user} 
+message text=……っ。そんなこと分かってるわよ\nこっち見ないで。もう十分頑張ったよ…… name=一ノ瀬怜 
+message text=頑張って、頑張って\n頑張った結果がこれよ……\n私、どうすれば良かったのかしら name=一ノ瀬怜 
+message text=俺にも分からない\nでも、ここで泣いていたって\n何も前には進まないだろ name={user} 
+message text={user}に\n言われなくたって……\nそんなこと私が一番分かってるわよ name=一ノ瀬怜 
+message text=今は一人で考えたいから、もう出て行って！\nあなたと話したくない name=一ノ瀬怜 
+message text=でも―― name={user} 
+message text=出てって…… name=一ノ瀬怜 
+message text=分かった。ごめん…… name={user} 
+message text=（どうやら俺の気持ちは\n怜に伝わらなかったようだ\n大人しく部屋を出ていこう……） name={user} 
+message text=泣くの我慢しなくていいよ\n泣きたい時はしっかり泣けばいい name={user} 
+message text={user}が\nそんな優しいこと言うから……\nまた涙が……うっ……うわぁぁん…… name=一ノ瀬怜 
+message text=ズルいよ……いつもいつも……ぐすん\n私が落ち込んでると……\nそうやって優しくするんだもん name=一ノ瀬怜 
+message text=そんなことされたら……私……\n{user}のこと……バカ…… name=一ノ瀬怜 
+message text=わ、えっと、ご、ごめん……？ name={user} 
+message text=バカバカバカバカッ……謝るなぁ～っ……\n{user}のばかぁ～！\nもう知らないもん name=一ノ瀬怜 
+message text=人の気持ちを弄んで……ぐすっ……\n楽しんでるのかぁっ……ううっ…… name=一ノ瀬怜 
+message text={user}が\n悪いんだからねっ……！\nその気にさせて……優しくして……うわぁん name=一ノ瀬怜 
+narration text=――数十分後 
+message text=と、取り乱してしまってごめんなさい……\nこんな風に人前で泣いたの……\n初めてだわ…… name=一ノ瀬怜 
+message text=気にしなくていいんだよ\nどう？　泣いたらすっきりした？ name={user} 
+message text=う、うん……ありがと……\nはあ……これからどうしよう…… name=一ノ瀬怜 
+message text=まずは体調を回復させて\nこれからのことは一緒に考えていこうか name={user} 
+narration text=――高校三年生　十一月　自宅 
+message text=あのオーディション以来\n全然怜と会話出来ていないな…… name={user} 
+message text=なんとなく\n声を掛け辛くなってしまったけれど…… name={user} 
+message text=怜を元気付けるために\n何か出来ないかな…… name={user} 
+message text=何かしてあげたいけれど\n何も思いつかない……\nとりあえず、テーマパークに誘ってみるか name={user} 
+message text=この前誘った時も喜んでくれたし\nきっと今回も喜んでくれるだろう name={user} 
+message text=……もしもし、怜か？\n急なんだけど\n明日一緒にテーマパークに行かないか？ name={user} 
+message text=ごめん……今、そんな気分じゃないの\nオーディションにも落ちたし\n入試に向けて勉強しないと name=一ノ瀬怜 
+message text=そうか……悪かったな……ごめん\nどうすれば良かったんだろうか…… name={user} 
+message text=なんとか再オーディションを受けさせて\nもらう方法は……あっ、そうだ！ name={user} 
+message text=……はい、分かりました\nありがとうございます！\nすぐ本人に伝えます！ name={user} 
+message text=もしもし、怜。話があるんだけど…… name={user} 
+message text=バイトの話、よね？　私が休んでいる間\nかわりに入ってくれてありがとう name=一ノ瀬怜 
+message text=迷惑ばかり掛けちゃって、ごめんなさい\n来週からはちゃんと行くから…… name=一ノ瀬怜 
+message text=その話じゃないよ。実は、もう一度\nオーディションを\n受けられることになったんだ！ name={user} 
+message text=え……どういうこと……？ name=一ノ瀬怜 
+message text=再オーディションの日程は一月だから\n受験と被ってしまうんだけど……どうかな？ name={user} 
+message text=ちょ、ちょっと待って！？\nだからどういうことなの？\n全然理解出来ないんだけど name=一ノ瀬怜 
+message text=怜に再オーディションを\n受けさせてほしいって\nお願いに行ったら快諾してくれたんだ！ name={user} 
+message text=とりあえず\nテーマパークのキャストになるっていう\n夢はまだ諦めなくていいってこと！ name={user} 
+message text={user}……ありがとう……\n本当に……ありがとう…… name=一ノ瀬怜 
+message text=喜んでくれて良かった。じゃあまたバイトで name={user} 
+narration text=――バイト　休憩中 
+message text=怜、今日からバイト復帰しましたけど\nなんだか様子がおかしくないですか……？ name={user} 
+message text=何もない所で転んでいたり\n俺が話し掛けても凄くそっけなくて name={user} 
+message text=学校でもなんだか避けられていて\n全然喋れないんです\n俺、なんかしちゃいましたかね…… name={user} 
+message text=ふふっ、怜ちゃん\n可愛いところあるじゃない name=佐伯遙子 
+message text=可愛いとかではなく心配なんですが……\n何かしてあげられることはないですかね？ name={user} 
+message text=そうねぇ。そういうのは私じゃなくて\n直接怜ちゃんに聞いた方が\nいいんじゃないかしら？ name=佐伯遙子 
+message text=確かにそうですね\n休憩に戻ってきたら直接聞いてみます name={user} 
+message text=休みの日に二人で遊びに行くとかは\nどうかしら？　きっと楽しいと思うわよ name=佐伯遙子 
+message text=確かに、いい考えかもですね name={user} 
+message text=あ、怜ちゃん！　そんな所で何してるの？\n入ってらっしゃいよ name=佐伯遙子 
+message text={user}と遙子さんが\n楽しそうに話しているので\n邪魔したら悪いかなあって思って name=一ノ瀬怜 
+message text=邪魔……？　何を言ってるんだ？ name={user} 
+message text=別に。私には関係ないことなので\nどうぞ二人で楽しくやってて下さい name=一ノ瀬怜 
+message text=この間はあんなこと言ってきたくせに……\n遙子さんにも手を出してるなんて、最っ低 name=一ノ瀬怜 
+message text=あー、私この後用事あるんだったー！\nお先に失礼しまーす！ name=佐伯遙子 
+message text=ちょ、ちょっと、遙子さん……！\n怜、俺の話を聞いてくれ name={user} 
+narration text=――数分後 
+message text=ごめんなさい、勝手に勘違いしてしまって name=一ノ瀬怜 
+message text=分かってくれて良かった。体調はどう？\n最近全然喋れてなかったから、心配で…… name={user} 
+message text=もう元気よ\nいろいろ気に掛けてくれてありがとう name=一ノ瀬怜 
+message text=その、今までのお礼を\n{user}にしたくて name=一ノ瀬怜 
+message text=……もし良かったら、今週の土曜日\n一緒にテーマパークに行かない？ name=一ノ瀬怜 
+message text=別に行きたくなかったら\n全然断ってくれていいのよ。私がたまたま\n偶然、暇だから誘っただけだし…… name=一ノ瀬怜 
+message text=いいね\n俺も一緒に行きたいなって思ってたんだ name={user} 
+message text=ほ、ほんと……！？\n良かった……断られるかと思ったわ name=一ノ瀬怜 
+message text=断る訳ないだろ\n土曜日、楽しみにしているよ name={user} 
+message text=ごめん、行けない\n今は遊んでいる場合じゃないだろ\n受験が終わったら遊びに行こう name={user} 
+message text=そ、そうよね……\n受験生なのに……ごめんなさい\n迷惑だったよね name=一ノ瀬怜 
+message text=まだキャストのオーディションに\n合格した訳でもないし\n勉強も頑張っていこう name={user} 
+message text=…………ええ、そうね name=一ノ瀬怜 
+message text=（この日から\n俺は怜にどこにも誘われなくなった\n遊びやご飯、そして勉強まで……） name={user} 

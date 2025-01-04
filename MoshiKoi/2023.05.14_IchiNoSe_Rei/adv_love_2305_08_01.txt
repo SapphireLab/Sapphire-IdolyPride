@@ -1,0 +1,100 @@
+title title=happy
+narration text=――高校三年生　三月\n大学受験合否　発表日 
+message text=いよいよね……ねえ、{user}\n……私のかわりに先に見てきてくれない？ name=一ノ瀬怜 
+message text=一緒に見に行く約束だっただろ\nもしかして、緊張しているのか？ name={user} 
+message text=そ、そんな訳ないでしょ！\n出来る限りの努力はしたし、悔いはないわ name=一ノ瀬怜 
+message text=よし、それなら一緒に見に行こう！ name={user} 
+message text=うう……やっぱり\n……少し緊張してるかも……\n手……握ってもいい……？ name=一ノ瀬怜 
+message text=ああ、いいよ name={user} 
+message text=308……308……308……\nあ、あった！\nえ、私……本当に……合格してる……？ name=一ノ瀬怜 
+message text=見間違えじゃないわよね！？\n{user}も確認して name=一ノ瀬怜 
+message text=あ、あ、あったぞ！！\n308番！！！　308番！！\n怜！！！　一ノ瀬怜！！　合格だ！！！！！ name={user} 
+message text=本当に……受かったんだ……私……\nぐすっ……嬉しい……頑張って良かった…… name=一ノ瀬怜 
+message text={user}\n本当にありがとう……うう……これで……\n少しはお父さんも喜んでくれるかな…… name=一ノ瀬怜 
+message text=きっと喜んでくれる。大丈夫だ\n同級生としてよろしくな name={user} 
+message text=そっか\nまた同じ学校に通えるんだ\nなんだか……嬉しいな。よろしくね name=一ノ瀬怜 
+message text=ねえ、あの、さ\n春休み……\n良かったら一緒に遊びに行かない？ name=一ノ瀬怜 
+message text=あ、でも、入学準備とかで忙しかったら\n無理にとは言わないんだけど…… name=一ノ瀬怜 
+message text=行こう。俺も怜のこと誘おうと思ってたんだ name={user} 
+narration text=――高校三年生　三月　春休み 
+message text=あー、楽しかった～！\n久しぶりにこんなに買い物したわ name=一ノ瀬怜 
+message text=可愛い服もアクセサリーも買えて満足よ！\n{user}も\nいい服買えて良かったわね～ name=一ノ瀬怜 
+message text=選んでくれてありがとう\nそういえば\n再オーディションの結果って…… name={user} 
+message text=あ……えっと……実は……\nそろそろ合否の電話が\n掛かってくる時間なの…… name=一ノ瀬怜 
+message text=なるほど。だから急に買い物を切り上げて\n喫茶店に入ろうなんて言い出したのか name={user} 
+message text=べ、別に一人で結果を聞くのが怖いから\n{user}を\n誘った訳じゃないのよ name=一ノ瀬怜 
+message text={user}のおかげで\n再オーディションを\n受けることが出来たんだから name=一ノ瀬怜 
+message text=最後まで一緒に\n見届けてもらおうかなって思って\nあ……電話だ……出るね name=一ノ瀬怜 
+message text=もしもし、一ノ瀬怜です\n再オーディションの結果……ですよね？ name=一ノ瀬怜 
+message text=はい……え……本当ですか！？\nありがとうございます！　それでは、また！ name=一ノ瀬怜 
+message text=結果は……？ name={user} 
+message text=合格よ……！！ name=一ノ瀬怜 
+message text=おめでとう！　今日までよく頑張ったよ name={user} 
+message text={user}に\n出会っていなかったら\nきっと幼い頃の夢も心に秘めたままだった name=一ノ瀬怜 
+message text={user}がいたから\n私は夢を叶えることが出来たの\n本当に今までありがとう name=一ノ瀬怜 
+message text=俺は何もしてないよ\n怜が一生懸命頑張って掴んだ夢だ name={user} 
+message text=そんなことないわ\n再オーディションを頼みに行ってくれたのは\n{user}だもの name=一ノ瀬怜 
+message text=ただ……大学に通うかキャストになるか\nしっかり決めないといけないわね name=一ノ瀬怜 
+message text=両方は無理なのか？ name={user} 
+message text=キャストになったら\n今以上に練習をしなきゃだし\n平日にもテーマパークのパレードはある name=一ノ瀬怜 
+message text=医学部の授業だって単位取得は簡単じゃない\n中途半端なことはしたくないから\n決めようと思うの name=一ノ瀬怜 
+message text=初めはお父さんを\n納得させるために頑張っていた受験だけど name=一ノ瀬怜 
+message text={user}のおかげで\n勉強も楽しくなってきて…… name=一ノ瀬怜 
+message text=あなたと一緒に大学に通うのも\n本当に楽しいと思う\n私、どうしたらいいかな？ name=一ノ瀬怜 
+message text=（人生の大きな選択を迫られている怜に\n俺はなんて言葉を\n掛ければいいだろう……？） name={user} 
+message text=大学に行かないか？\nあんなに勉強も頑張ったんだ\n俺は怜と一緒に大学に通いたい name={user} 
+message text=嬉しい……{user}が\nそんな風に思ってくれていただなんて name=一ノ瀬怜 
+message text=一年間、勉強を教えてくれて\n本当にありがとう\n勉強以外にも、あなたからは沢山学んだわ name=一ノ瀬怜 
+message text=そんなこと……\n俺だって怜からいろいろ学んだよ name={user} 
+message text={user}の言葉も踏まえて……\nもう一度しっかり考えてみる name=一ノ瀬怜 
+message text=また迷った時は相談させてね name=一ノ瀬怜 
+message text=ああ、いつでも声を掛けてくれ name={user} 
+narration text=――四月　大学　入学式 
+message text=はあ、はあ……{user}！\n入学おめでとう\n……スーツ……似合っているわね name=一ノ瀬怜 
+message text=怜っ！？　……進路決まったんだな name={user} 
+message text=うん。沢山相談に乗ってくれてありがとう\nそれから……こんなにギリギリまで\n悩んでごめん name=一ノ瀬怜 
+message text=私は……キャストになる name=一ノ瀬怜 
+message text=だから{user}と\n一緒に大学には通えない。あなたのおかげで\n合格出来たのに本当にごめんなさい name=一ノ瀬怜 
+message text=大学に受かってお父さんとも仲直り出来て\nあんなに一生懸命面倒を見てくれたのに―― name=一ノ瀬怜 
+message text=いいんだよ。謝らないで、顔を上げて\n怜はきっとその選択を\nするんだろうなって思ってたよ name={user} 
+message text=俺は……これからもずっと\n一番の怜のファンで味方だ\nだから、頑張って……一生応援しているから name={user} 
+message text=ありがとう……\n別々の道を進むことになったけれど\n今まで通り、これからもよろしくね name=一ノ瀬怜 
+message text=私がキャストデビューする日が決まったら\nまた報告するわね name=一ノ瀬怜 
+message text=その……\n私の一番のファンの{user}が\n観に来てくれたら嬉しいな……なんて name=一ノ瀬怜 
+message text=ああ、もちろん！　絶対に観に行くよ name={user} 
+message text=怜の中で\nもう答えは出ているんじゃないか？ name={user} 
+message text=怜は、キャストになるべきだ\nそのためにずっと頑張ってきたんだろ name={user} 
+message text={user}……ありがとう\nあなたにそう言ってもらえて\nとっても嬉しいわ name=一ノ瀬怜 
+message text=あなたに背中を\n押してほしかっただけなのかも\n私は……キャストになりたい name=一ノ瀬怜 
+message text=キャストデビューする日は\n必ず一番前で観に来てね name=一ノ瀬怜 
+message text=ああ、もちろんだよ。必ず行く\n返事、早くした方がいいんじゃないか？ name={user} 
+message text=ええ、そうね\n今から直接テーマパークに行って\n伝えてくるわ name=一ノ瀬怜 
+message text=（俺は嬉しそうにかけていく\n怜の後ろ姿を見送った） name={user} 
+message text=（本当は一緒に大学通いたかったな……\nでも、俺の選択は間違ってないよな……） name={user} 
+narration text=――数ヶ月後 
+message text=すー……すー……むにゃむにゃ…… name=一ノ瀬怜 
+message text=おーい！　怜～、聞こえてるか～？\nそろそろ起きなきゃいけない\n時間じゃないのか？ name={user} 
+message text=うるさいなぁ……何？　まだ眠いの……\n放っておいてよ……すぴー…… name=一ノ瀬怜 
+message text=はいはい、それで昨日遅刻しそうに\nなっただろ？　今日はなんと言われようと\n起きてもらうぞ name={user} 
+message text=はっ！？　{user}！？\nやっぱりまだ、\n同じ布団で眠るのは慣れないわね…… name=一ノ瀬怜 
+message text=最近ちゃんと眠れてるか？\n寝不足なら、やっぱり別々に寝た方が…… name={user} 
+message text=それは……イヤ……\n忙しくてあんまり一緒にいられないから name=一ノ瀬怜 
+message text=寝る時くらい……\n好きな人とずっと一緒がいいの\n……ダメ、かな？ name=一ノ瀬怜 
+message text=怜……ダメな訳ないだろ\n俺も怜のことが大好きだよ name={user} 
+message text=ふふふっ\n私も{user}のことが大好き name=一ノ瀬怜 
+message text=で、でもちょっと顔が近いわね……！\n少し離れて……！\nそ、そういえば今日の授業は？ name=一ノ瀬怜 
+message text=ご、ごめん……！\n三コマ目からだから\nもう少し時間に余裕があるんだ name={user} 
+message text=ふふっ。そっか\n夜のパレードは観に来れそう？ name=一ノ瀬怜 
+message text=もちろん。テーマパークの年パスを\n買ったからな。今日のパレードは\nお父さんも観に来てくれるんだろう？ name={user} 
+message text=うん、最近はダンスのことも私のことも\n少しずつ認めて\n尊重してくれるようになったの name=一ノ瀬怜 
+message text=医学部入学を蹴ってキャストになった時は\nまた少し揉めたけれど\n……だいぶ仲は改善されたわ name=一ノ瀬怜 
+message text=それは良かった\n今晩ご両親に会ってもいいか？\nそろそろ俺もちゃんと挨拶しておかないと name={user} 
+message text=え、それってどういう…… name=一ノ瀬怜 
+message text=この話はまた後で\nほら、とりあえず早く布団から出て\nテーマパークまで車で送って行くから name={user} 
+message text=ごめん……俺には分からない……\nこれは怜が決断すべきことだと思うから name={user} 
+message text=俺の意見ではなく自分で決めてほしい\n他人の人生に口出しはしたくないんだ name={user} 
+message text=……っ！　なんでそんなこと言うの？\n私は{user}にとって\n他人だったのね name=一ノ瀬怜 
+message text=少し意見が聞きたくて\n相談しただけなのに……あなたになんか\n聞かなければ良かった。さようなら name=一ノ瀬怜 
+message text=あ、おいっ！！\n待ってくれ！　怜っっっ！！！\nそういうつもりじゃ……！ name={user} 
+message text=（その日から、怜との連絡は途絶えた\nメッセージを送っても、\n既読がつくことはない） name={user} 
+message text=（後日、テーマパークを訪れた際に\n怜そっくりのキャストを見たような\n……気がした） name={user} 

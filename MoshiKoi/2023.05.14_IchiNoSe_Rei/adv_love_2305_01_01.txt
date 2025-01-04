@@ -1,0 +1,74 @@
+title title=1話
+narration text=――高校二年生　三月　バイト先 
+message text=（推薦がほぼ確定した俺は\n一人暮らしの資金を貯めるため\nバイトを始めることにした） name={user} 
+message text=（人生初めてのバイト\n緊張しながらも期待を胸に初出勤\nしたのだが……） name={user} 
+message text=こんにちは。本日からアルバイトに\n入りました{user}です！\nよろしくお願いします！ name={user} 
+message text=……よろしくお願いします、一ノ瀬怜です name=一ノ瀬怜 
+message text=（この人、どこかで見たことが\nあるような……） name={user} 
+message text={user}君\nよろしくお願いします！\nちょうど人手不足だったから嬉しいな～ name=佐伯遙子 
+message text=私はバイトリーダーの佐伯遙子、十七歳！\n遙子ちゃんとか\n遙子さんって呼んで下さいね！ name=佐伯遙子 
+message text=バイトリーダーなんて凄いです！\nよろしくお願いします、遙子さん！ name={user} 
+message text=遙子さん、新人騙すのそろそろ\nやめたらどうですか？\nどう見たって遙子さんは高校生じゃないし name=一ノ瀬怜 
+message text=酷いわ、怜ちゃん！\n私なりにみんなと仲良くなろう\nと思って考えた渾身のギャグなのに……！ name=佐伯遙子 
+message text=はいはい。早く持ち場につかないと\n店長来ちゃうので、私はもう行きますね name=一ノ瀬怜 
+message text=待って！\n怜ちゃんには{user}君の\n教育係をお願いしようと思ってて name=佐伯遙子 
+message text=なっ……！\nそんな面倒くさい仕事……\n押し付けないで下さい name=一ノ瀬怜 
+message text=他人の面倒見るくらいなら\nまだレジ締めの方がマシです name=一ノ瀬怜 
+message text=まあまあ、そんなこと言わずに～\n教育係が出来ないと給料上がらないわよ～？ name=佐伯遙子 
+message text=……はあ、分かりましたよ\nついてきて下さい\n{user}さん name=一ノ瀬怜 
+message text=は、はい！\nよろしくお願いします！ name={user} 
+message text=それでは\n一通り業務の説明は終わったので\nここのお肉を並べておいて下さい name=一ノ瀬怜 
+message text=私は魚売り場にいるので\n何か分からないことがあれば\n聞きに来て下さい name=一ノ瀬怜 
+message text=分かりました。頑張ります！ name={user} 
+message text=（一ノ瀬さん、凄いなぁ……\n自分の仕事をこなしながら\n周りの手助けも……） name={user} 
+message text=（少しでも役に立てるように\n一ノ瀬さんみたいに頑張るぞ） name={user} 
+message text=（これは、普通に並べればいいのか？\n質問したいけど……\nまあ、上から置けばいいか） name={user} 
+message text=一ノ瀬さん、全部並べ終えました\n確認してもらってもいいでしょうか？ name={user} 
+message text=思ったより早かったですね、確認します name=一ノ瀬怜 
+message text=……って、これだと廃棄が増えてしまいます\n古いものは上、新しいものが下\n基本ですよね name=一ノ瀬怜 
+message text=分からないことがあれば\nいつでも聞いて下さいって\n言いましたよね？ name=一ノ瀬怜 
+message text=（あの時質問していれば良かった\nどうしよう、なんて言おうか……？） name={user} 
+message text=一ノ瀬さんが忙しそうだったので\n質問出来ず…… name={user} 
+message text=はあ……人のせいにするんですか？\n私に聞くのが嫌なら\n少しは自分で考えて下さい name=一ノ瀬怜 
+message text=（怒らせてしまった……\n素直に謝れば良かったな） name={user} 
+message text=ごめんなさい\nちゃんと質問していれば良かったです name={user} 
+message text=……最初に説明しなかった私にも\n責任はあります name=一ノ瀬怜 
+message text=話し掛け辛いかもしれませんが\n気にせず話し掛けていただいて大丈夫です name=一ノ瀬怜 
+message text=とりあえず、並べ直しましょう\n私も手伝うので name=一ノ瀬怜 
+message text=（一ノ瀬さん、意外と優しい人\nなのかも……？） name={user} 
+narration text=――高校三年生　四月　学校 
+message text=（新学期はやっぱり緊張するな\n知り合いがいるといいけど……） name={user} 
+message text=（俺の隣の席は……一ノ瀬さん！？\nどこかで見たことあると\n思っていたけれど……） name={user} 
+message text=同じ学校だったんですね\n今日から、よろしくお願いします！ name={user} 
+message text=え、なんで……。よろしくお願いします\n学校ではあまり話し掛けないで下さい name=一ノ瀬怜 
+message text=え！？　は、はい。分かりました\nなんかすみません…… name={user} 
+narration text=――高校三年生　五月　バイト先 
+message text=おつかれ～！\n品出し手伝ってくれてありがとう name=佐伯遙子 
+message text={user}君も\nバイトに慣れてきたわね name=佐伯遙子 
+message text=遙子さんと一ノ瀬さんが\n教えてくれたおかげです name={user} 
+message text=早くお二人みたいに手際よく出来るように\n頑張ります！ name={user} 
+message text=慣れてきた時が一番ミスしやすいんです\nあまり調子に乗らないようにして下さい name=一ノ瀬怜 
+message text=アドバイスありがとうございます！\nあ、そのダンボール俺が運んでおくので\n大丈夫ですよ name={user} 
+message text=ありがとうございます……\nあ、店長！\nまた売上の合計金額がズレていましたよ name=一ノ瀬怜 
+message text=最近細かいミスが多いので気をつけて下さい\n……店長？　私の話聞いてますか？ name=一ノ瀬怜 
+message text=…………あの\n今日のブリ、発注した人は誰かな？ name=スーパーの店長 
+message text=私ですけど、どうかしたんですか？\nいつも通り10匹注文しましたよ name=一ノ瀬怜 
+message text=10匹のブリ？\n届いたのは1000匹のブリだよ name=スーパーの店長 
+message text=1000匹の……ブリ……ブリ…… name={user} 
+message text=冷蔵庫にはもちろん入りきらない\n売れ残りは全て処分、大赤字だ name=スーパーの店長 
+message text=はあ、近隣のスーパーに協力を要請するか\nとりあえず、一ノ瀬さんは\n売れるだけ売ってきて下さい name=スーパーの店長 
+message text=分かりました\n本当にすみませんでした…… name=一ノ瀬怜 
+message text=（一人であれだけのブリを\n売り切れる訳がない……\n一体どうすれば……） name={user} 
+message text=一ノ瀬さんだけの責任じゃないと思います\n俺も、ブリ売りしてきます name={user} 
+message text=オトク、オトク、イマダケオトク\nブリブリブリ、ゴワリビキ……！！！ name=一ノ瀬怜 
+message text=一ノ瀬さん、俺も手伝います\n二人で売った方が早いと思いますし name={user} 
+message text=これは私の責任なので、関わらないで下さい\n気を使っていただかなくて大丈夫です name=一ノ瀬怜 
+message text=一ノ瀬さんのためではなく、ブリのためです\n食材が売れ残ったら\nもったいないじゃないですか name={user} 
+message text=それは……。ありがとうございます\nそれでは、ブリのために、頑張りましょう name=一ノ瀬怜 
+message text=オトク、オトク、イマダケオトク\nブリブリブリ、ゴワリビキ……！！！ name=一同 
+message text=（近隣のスーパーからの協力もあり\n四日目の夕方、俺達はようやくブリから\n解放されたのだった） name={user} 
+message text=（新人バイトの俺に出来ることなど何もなく\n淡々と通常業務をこなした） name={user} 
+message text=（隣の売り場で「オトク、オトク」と\n一人叫び続ける一ノ瀬さん） name={user} 
+message text=（お願いだ、みんな今日は肉ではなく魚を\n食ってくれ！ と心の中で願っていたが\nそんな願い空しく……） name={user} 
+message text=（一週間後、倉庫にあった大量のブリと共に\n一ノ瀬さんはバイト先から消えた） name={user} 
+message text=（一ノ瀬さんと大量のブリの行方を\n俺が知る術はなかった） name={user} 

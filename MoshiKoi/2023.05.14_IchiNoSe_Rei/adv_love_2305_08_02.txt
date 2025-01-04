@@ -1,0 +1,41 @@
+title title=normal
+narration text=――三月八日　高校卒業式の日 
+message text=卒業まで、あっという間だったわね。特に\n{user}と過ごしたこの一年は name=一ノ瀬怜 
+message text=寂しいか？ name={user} 
+message text=ううん、あんまり\nだって、私達\n同じ大学に通うじゃない name=一ノ瀬怜 
+message text=そうだったな。\n改めて、医学部合格おめでとう\nお父さんも少しは認めてくれたか？ name={user} 
+message text=ええ、とても喜んでくれたわ\nダンスを勝手に辞めさせたことも\n謝ってくれたの name=一ノ瀬怜 
+message text=お父さんの口から\n「今まで悪かった」って言葉を\n聞いた時は、とても気持ちが良かったわ name=一ノ瀬怜 
+message text=それは良かった\nこれからもダンスは続けるのか？ name={user} 
+message text=テーマパークの再オーディションには\n落ちてしまったけれど…… name=一ノ瀬怜 
+message text=やっぱりダンスは好きだから\n医者になるための\n勉強もしながら続けようと思っているわ name=一ノ瀬怜 
+message text=ダンスを続けるって聞けて安心したよ\nそういえば今日誕生日だったよな\nおめでとう name={user} 
+message text=覚えてくれていたのね！　ありがとう name=一ノ瀬怜 
+message text=はい、これ。プレゼント\n何にしようかなって\nいろいろ悩んだんだけど…… name={user} 
+message text=えっ、プレゼントまで……！？　嬉しい！\n開けてみてもいいかしら？ name=一ノ瀬怜 
+message text=靴……？　\nこれってまさか……買い物に行った時の\nなんで私の欲しいものが分かったの！？ name=一ノ瀬怜 
+message text=それは、まぁ……この一年ずっと\n怜のことを見てきたからな name={user} 
+message text=ふふっ、そうね\nこの一年ずーっと隣に居てくれたわよね name=一ノ瀬怜 
+message text=（俺はこれからも彼女の隣にいたい\nそのためには……） name={user} 
+message text=好きです、付き合って下さい name={user} 
+message text=えっ、と、突然……！？　\nあ、ありがとう…… name=一ノ瀬怜 
+message text=ああ、ずっと怜のことが好きだったんだ\n友達としてではなく\n恋人としてこれからも一緒にいたい name={user} 
+message text=私も{user}のことが……\nだ、大好きよ。だから……好きって\n言ってくれて、本当に嬉しい name=一ノ瀬怜 
+message text=きっと{user}と付き合ったら\n毎日が楽しくて幸せだと思う name=一ノ瀬怜 
+message text=でも……\n今はキャストになる夢を叶えたい気持ちが\n一番強いから付き合うことは出来ない name=一ノ瀬怜 
+message text=そっか……うん、そうだよな\n困らせるようなこと言っちゃってごめ―― name={user} 
+message text=夢が叶った時には……\nちゃんと気持ちを伝えるから\n今度は私から告白する name=一ノ瀬怜 
+message text=好きです、{user}\n付き合って下さいって name=一ノ瀬怜 
+message text=ははっ、じゃあ、早く付き合えるように\nこれからも怜のそばで\nしっかりサポートしないとだな name={user} 
+message text=ええ、これからも、これまで以上に\nよろしく頼むわ name=一ノ瀬怜 
+message text=これからもよろしくな name={user} 
+message text=ええ、よろしくね\n一緒の大学に通えるの、楽しみだわ name=一ノ瀬怜 
+message text=大学生になっても\n勉強を教えてくれる……？ name=一ノ瀬怜 
+message text=医学部の授業は\n高校に比べて難しくなりそうだけど\n俺に出来る範囲でサポートするよ name={user} 
+message text=ありがとう！\nキャストになる夢はまだ諦めていないけれど name=一ノ瀬怜 
+message text=医者になって、趣味でダンスを続けるのも\nアリかな～って少しだけ思い始めたの name=一ノ瀬怜 
+message text=どんな選択をしても\n怜ならきっと大丈夫だよ\n自分で選んだ道をしっかり進んでいける name={user} 
+message text={user}が\nそう言ってくれるなら\nなんでも出来る気がしてきたわ name=一ノ瀬怜 
+message text=これからも……ずっと私の隣に居てよね\n……好きよ name=一ノ瀬怜 
+message text=え……今なんて？ name={user} 
+message text=ふふっ。なんでもなーい\nファミレスでも寄って帰りましょー！ name=一ノ瀬怜 

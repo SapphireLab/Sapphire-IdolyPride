@@ -1,0 +1,88 @@
+title title=7話
+narration text=――高校三年生　十二月　テーマパーク 
+message text=この間はパレードしか見れなかったから\n今日は思いっきり遊ぶわよ～！ name=一ノ瀬怜 
+message text=ん？　どうしたの、{user}？\nジッと私のことを見てるけど\n何か変かしら……？ name=一ノ瀬怜 
+message text=いや、今日の怜\nいつもと雰囲気が違うなって思って\nその……とっても可愛いよ name={user} 
+message text=あ、ありがとう\n実はこの服今日のために――なんでもないわ\n早く何か乗りに行きましょ！ name=一ノ瀬怜 
+message text=メリーゴーランドなんて久しぶりに乗ったよ\n次は何に乗ろうか？ name={user} 
+message text=あの大きなジェットコースターがいい！\n屋外だから景色も見えるし\n楽しそうじゃない？ name=一ノ瀬怜 
+message text=凄い悲鳴が聞こえてくるけど\n……怜は絶叫系強いのか？ name={user} 
+message text=小さい頃に乗ったきりだから覚えていないわ\nでも、あまり怖かった記憶もないから\nきっと大丈夫よ name=一ノ瀬怜 
+message text={user}が怖くて\n乗りたくないなら、他の\nアトラクションに変えてあげてもいいわよ name=一ノ瀬怜 
+message text=いや、大丈夫だ。乗ろう name={user} 
+message text=ふふっ、強がらなくていいのに\nそれじゃあ行こう！ name=一ノ瀬怜 
+narration text=――ジェットコースター乗車後 
+message text=おーい、怜、大丈夫か？　\n顔色が悪いけど…… name={user} 
+message text=ぜ、全然大丈夫よ\n私、小さい頃は得意だったはずなのに…… name=一ノ瀬怜 
+message text=あっ、もしかして……\nこのジェットコースター\n私が子供の頃より怖くなった？ name=一ノ瀬怜 
+message text=そんなことはないと思うよ name={user} 
+message text=でも、こんなに怖かった記憶が\nないんだもの……怖過ぎて記憶から\n消してしまっていたのかしら？ name=一ノ瀬怜 
+message text=ははっ、凄い声で叫んでたよ\nスーパーで特価品を宣伝してる時の\n声量だった name={user} 
+message text=ううっ……{user}も\n叫んでたじゃない\n日頃のストレスが発散されて良かったわね name=一ノ瀬怜 
+message text=なっ……俺は別にそんなに怖くなかったけど\n隣の怜につられて\n声を出してしまっただけで…… name={user} 
+message text=ふふっ、声が枯れてるくせに\nよくそんなこと言えるわね\n嘘はつかなくていいのよ？ name=一ノ瀬怜 
+message text=……少し休憩しよう\nあそこの売店で飲み物を\n買って来るよ。何がいい？ name={user} 
+message text=私も一緒に行くわ name=一ノ瀬怜 
+narration text=――テーマパーク　売店 
+message text=いらっしゃいませ～\n冷えた体には熱々のホットココアが\nおすすめですよ～ name=佐伯遙子 
+message text=ホットココア二つください\n……って、遙子さん！？\nなんでこんな所に……！ name={user} 
+message text=えっ！　{user}君と\n怜ちゃん！？\nとうとうそういう関係になったのね～！ name=佐伯遙子 
+message text=いつ付き合うのかな～って\nずっとソワソワしてたのよ！\nおめでとう、怜ちゃん、良かったわね！！ name=佐伯遙子 
+message text=いや、これは、そういうのではなくて……\nというか遙子さん何言ってるんですか！？ name=一ノ瀬怜 
+message text=ね、{user}君！\nほんとのところどーなのよ？ name=佐伯遙子 
+message text=（遙子さん！？　突然俺に振るなんて……\n付き合ってはいないけれど\nなんて答えよう……？） name={user} 
+message text=付き合ってませんよ！\n俺と怜が付き合う訳ないじゃないですか～！ name={user} 
+message text=あはは……遙子さんもおかしなこと言うな～\nな、怜！　\n俺達がそんな関係になる訳ないよな？ name={user} 
+message text=……もうっ\nそんなに否定しなくてもいいじゃない name=一ノ瀬怜 
+message text=ん？　なんか言ったか？ name={user} 
+message text=別に……何も言ってないわ\n私達はそんな関係ではないし name=一ノ瀬怜 
+message text=あ……そうだったの。ホットココア\n二つどうぞ。なんだか変なことを\n言ってしまってごめんなさいね name=佐伯遙子 
+message text=ありがとうございます\n怜、あっちのベンチで飲もうか name={user} 
+message text=いやー。遙子さんの冗談にはびっくりしたよ\n俺達が付き合うとかないよな～ name={user} 
+message text=ココアも飲み終わったし\n次はどこに行こうか\nお化け屋敷とかどうだ？ name={user} 
+message text=……ごめんなさい。用事思い出しちゃって\nそろそろ帰ろうかな…… name=一ノ瀬怜 
+message text=え？　まだ閉園まで時間もあるし\n夜のパレードも見てないのに？ name={user} 
+message text=うん、ごめんね\nお母さんと夕飯食べる約束してて\n……それじゃあ name=一ノ瀬怜 
+message text=（なんだか怜の機嫌が悪い気が……\n俺、何かしてしまったかな……？） name={user} 
+message text=まだ付き合っていませんが、ゆくゆくは\n付き合えたらいいなって、俺は思っています name={user} 
+message text=あらあら、これは甘酸っぱい公開告白ね\n怜ちゃんも真っ赤になっちゃって可愛いわ～ name=佐伯遙子 
+message text=べ、別に赤くなんかなっていません！\n{user}、もう行こう！ name=一ノ瀬怜 
+message text=あ、ああ\n遙子さん、ココアありがとうございました name={user} 
+message text=（うわぁぁぁあああ\n俺はなんて恥ずかしいことを\n言ってしまったんだあ） name={user} 
+narration text=――テーマパーク　夜のパレード 
+message text=見て！　センターで踊っているキャスト\nこの前のオーディションで\n審査員してた人よ！ name=一ノ瀬怜 
+message text=（子供みたいに、表情をコロコロ変えて\n可愛いな） name={user} 
+message text=何度見ても素敵だわ\nあの衣装を着て、私もここで踊りたい……！ name=一ノ瀬怜 
+message text=怜ならなれるよ、絶対に\n俺はずっと応援しているから name={user} 
+message text=（俺は、ずっと怜の隣で、一番近くで\n彼女が頑張る姿を見ていたいと思った） name={user} 
+message text=怜\n俺は怜のことが好きだ。付き合って下さい name={user} 
+message text=えっ……ええっ！？　と、突然どうしたの？ name=一ノ瀬怜 
+message text=これからも、怜のことを\nずっと側で見ていたいと思ったんだ name={user} 
+message text=……ありがとう。その気持ちは凄く嬉しい\n私も{user}に\nずっと隣で見ていてほしいし name=一ノ瀬怜 
+message text=あなたのことがす……き、嫌いじゃないわ name=一ノ瀬怜 
+message text=でも……まだ受験も……\n終わってない name=一ノ瀬怜 
+message text=だから\n今は恋愛している時期じゃないと思うの\nごめんね name=一ノ瀬怜 
+message text=でも……もし、全部終わって、結果も出て\nその時も私のことが好きだったら\nもう一度その言葉を聞かせてほしいな name=一ノ瀬怜 
+message text=分かった、ありがとう\nそう言ってもらえて嬉しいよ\n時期がきたらまた伝える name={user} 
+message text=こちらこそありがとう\nその時はちゃんと返事、するからね name=一ノ瀬怜 
+message text=怜っ！ name={user} 
+message text=ん？　どうしたの？ name=一ノ瀬怜 
+message text=（この気持ちを伝えてしまいたいけど……） name={user} 
+message text=いや、やっぱりなんでもない\n頑張ろうな！ name={user} 
+message text=あはっ、何それ！\nもちろん頑張るに決まってるでしょ！ name=一ノ瀬怜 
+message text=合格してやるんだから\nちゃんと見ててよね！ name=一ノ瀬怜 
+narration text=――高校三年生　二月　学校 
+message text=まる、まる、まる……凄いじゃないか！\n過去問は\n安定して70点が取れるようになってきたな name={user} 
+message text=もちろんよ。それだけ勉強しているし\n私の{user}先生は\n優秀だからね name=一ノ瀬怜 
+message text=今まで苦手意識のあった教科も\n分かるようになってきて\n少しだけ勉強も楽しいの name=一ノ瀬怜 
+message text=それは良かった\nこの調子で最後まで頑張ろう name={user} 
+message text=そんなことより怜！\n昨日の再オーディションはどうだったんだ？ name={user} 
+message text=終わってすぐにメッセしたじゃない\n今の自分が出来る最高の\nパフォーマンスが出来たわ name=一ノ瀬怜 
+message text=やっぱり直接話、聞きたくて\nでも、なんで再オーディションの\n日程を教えてくれなかったんだ？ name={user} 
+message text=俺もついて行きたかったのに name={user} 
+message text={user}なら\n絶対そう言うと思ったからよ\n昨日はあなたも推薦入試があったでしょ？ name=一ノ瀬怜 
+message text=私のことを心配してくれるのは嬉しいけれど\n自分のことに集中してほしかったから name=一ノ瀬怜 
+message text=そうだったのか。ありがとう\nいい結果が届くといいな name={user} 
+message text=たとえ落ちてしまったとしても……\n大学に通いながらダンスは続けるつもりよ name=一ノ瀬怜 
+message text=結果は三月くらいに届くらしいから\nまた報告するわね name=一ノ瀬怜 
+message text=ああ、楽しみにしているよ name={user} 

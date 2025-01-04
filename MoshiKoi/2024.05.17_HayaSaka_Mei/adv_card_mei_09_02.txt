@@ -1,0 +1,114 @@
+title title=早坂芽衣 2話 みんなのことが大好き
+message text=芽衣、この前書いてもらったアンケートなんだが…… name={user} 
+message text=出来れば書き直してほしいって連絡があったよ name={user} 
+message text=そっか……ごめんね～、{user}さん name=早坂芽衣 
+message text=芽衣がうまく答えられなくて…… name=早坂芽衣 
+message text=俺の方こそ、うまく伝えられなくてすまない name={user} 
+message text=内容は、先方にお任せすることも出来るが name={user} 
+message text=俺も一緒に考えるから、もう一度挑戦してみないか？ name={user} 
+message text=うん。ありがとう、{user}さん！ name=早坂芽衣 
+message text=芽衣ね、あれからも恋愛のこと、考えてみてるの name=早坂芽衣 
+message text=学校の友達に聞いたりもしたんだけど name=早坂芽衣 
+message text=「胸がぎゅーって締め付けられたりする」って言ってた name=早坂芽衣 
+message text=でも、どういうことだろう。嬉しくって、誰かを name=早坂芽衣 
+message text=ぎゅ～ってしたい時はあるけど、多分違うんだよね name=早坂芽衣 
+message text=言葉で説明するのは難しいが……恋愛ドラマを観て name={user} 
+message text=感覚を想像したり、勉強してみてもいいかもな name={user} 
+message text=後は、全体的な方向性だが……芽衣は、「一緒に楽しい name={user} 
+message text=ことをする」っていうのを大事にしていたな name={user} 
+message text=うん。恋愛とは違うかもしれないけど name=早坂芽衣 
+message text=芽衣は、一杯遊びたい name=早坂芽衣 
+message text=怜ちゃんや渚ちゃんのゲームをプレイしてた時もね name=早坂芽衣 
+message text=芽衣、一緒にお出かけするシーンが大好きだったんだ name=早坂芽衣 
+message text=プレイしてる芽衣も楽しい気持ちになって、幸せだった name=早坂芽衣 
+message text=から。芽衣も、みんなをそういう気持ちにしてあげたい name=早坂芽衣 
+message text=あ！　ずーっと夏休みとかでもいいかも！ name=早坂芽衣 
+message text=そしたら沢山遊べるし！ name=早坂芽衣 
+message text=芽衣ね、小学校の頃は、夏休みになると田舎の name=早坂芽衣 
+message text=おばあちゃんちに行って遊んでたんだ～ name=早坂芽衣 
+message text=それならゲームの舞台は『田舎の夏休み』なんてどうだ name={user} 
+message text=ここに恋愛の要素を入れないとだが…… name={user} 
+message text=恋愛……あ、そうだ！　じゃあさ、芽衣と一緒に name=早坂芽衣 
+message text=恋愛を勉強出来るゲームにするのはどうかな？ name=早坂芽衣 
+message text=恋愛を勉強出来る？　どういうことだ？ name={user} 
+message text=えっとね、ゲームの中の芽衣も、今の芽衣と一緒で name=早坂芽衣 
+message text=恋愛がどういうものなのか分かんないの！ name=早坂芽衣 
+message text=それで、ゲームの中で芽衣も恋愛のことを勉強して～ name=早坂芽衣 
+message text=……あれ？　こんがらがってきたよ～！？ name=早坂芽衣 
+message text=つまり、『恋を知らなかったゲームの中の芽衣が name={user} 
+message text=主人公と一緒に恋を学んでいく』ということか name={user} 
+message text=芽衣っぽいストーリーだし、いい案かもしれないな name={user} 
+message text=その案で先方に提案してみるよ name={user} 
+message text=やったー！　じゃあ、お返事が返ってくるまでに name=早坂芽衣 
+message text=芽衣も恋愛について、しっかり勉強しなきゃ！ name=早坂芽衣 
+message text=恋愛ドラマを観たり、沢山話を聞いたり！ name=早坂芽衣 
+message text={user}さんも、芽衣に一杯教えてね！ name=早坂芽衣 
+message text=あぁ、分かった。といっても、俺が出来るのはせいぜい name={user} 
+message text=教材を渡すぐらいだけどな。明日までにまとめておくよ name={user} 
+message text=わーい！　十分過ぎるよ！　 ありがとう！ name=早坂芽衣 
+narration text=――数日後 
+message text=芽衣の提案に先方も賛成してくれたよ name={user} 
+message text=芽衣らしい特別感があって良さそう、ってな name={user} 
+message text=ただ、細かい内容を決めていくためにも name={user} 
+message text=アンケートは改めて書いてほしいと言われたよ name={user} 
+message text=そっか～。とりあえずこれで、一歩前進だね！ name=早坂芽衣 
+message text=芽衣も、用意してくれたリストに載ってた name=早坂芽衣 
+message text=映画とドラマで、しっかり恋愛を勉強してきたよ！ name=早坂芽衣 
+message text=それでね、{user}さんに質問なんだけど name=早坂芽衣 
+message text=恋人同士でご飯を食べさせ合うのってドキドキするの？ name=早坂芽衣 
+message text=さ、さあ……でも恋愛物では name={user} 
+message text=定番のシチュエーションではあるんじゃないのか name={user} 
+message text=へ～。じゃあ、芽衣が{user}さんに name=早坂芽衣 
+message text=同じことをしたらドキドキしちゃう？ name=早坂芽衣 
+message text=俺達は恋人同士じゃないだろ name={user} 
+message text=そもそもやろうとしないでくれ name={user} 
+message text=えー。やってみないと分からないこともあるよ name=早坂芽衣 
+message text=ちょうど、芽衣が家から持って来たクッキーもあるし！ name=早坂芽衣 
+message text=何事もまず行動するべき、って name=早坂芽衣 
+message text=ドラマのヒロインも言ってたよ！　ほら、あ～ん！ name=早坂芽衣 
+message text=教材から、変なことを学んでしまった…… name={user} 
+message text=……えい、隙あり！ name=早坂芽衣 
+message text=隙はありません name={user} 
+message text=勝手に他人の口にクッキーを入れようとするな name={user} 
+message text=ざんねーん name=早坂芽衣 
+message text=キュンキュンするかどうか試したかったんだけどな～ name=早坂芽衣 
+message text=あ、そうだ！　ねえねえ、芽衣のもし恋の舞台は name=早坂芽衣 
+message text=『田舎の夏休み』に決まったんだよね？ name=早坂芽衣 
+message text=じゃあせっかくだし、芽衣達も田舎に行ってみようよ！ name=早坂芽衣 
+message text=そしたら芽衣も恋愛のドキドキが分かるかもだし！ name=早坂芽衣 
+message text=このままだと、ドキドキが分からないままだよ～ name=早坂芽衣 
+message text=ほらほら、{user}さん早く準備して～！ name=早坂芽衣 
+message text=えっ、今から行くのか！？　天気予報では午後から雨が name={user} 
+message text=……ちょ、腕を引っ張らないでくれ！ name={user} 
+narration text=――とある田舎町 
+message text=着いた～！　わ～、空気が綺麗だね～ name=早坂芽衣 
+message text=凄い！　次にバスが来るのは二時間後なんだって name=早坂芽衣 
+message text=まさか本当に連れて来られるとは…… name={user} 
+message text=それに天気もだいぶ怪しいが…… name={user} 
+message text=芽衣、バスの中でいろいろやりたいこと考えてたんだ～ name=早坂芽衣 
+message text=川遊びとか、釣りとか～、暑いしアイスも食べたいな name=早坂芽衣 
+message text=どれも恋愛とは関係ない気が…… name={user} 
+message text=恋愛のドキドキを知るために来たんだよな？ name={user} 
+message text=うん、そうだよ！　じゃあまずはお散歩しよっか name=早坂芽衣 
+message text=って思ったけど…… name=早坂芽衣 
+message text=あはは……雨、降ってきちゃったね name=早坂芽衣 
+message text=事務所を出る前から言っていたじゃないか name={user} 
+message text=ここで雨宿りするしかないな name={user} 
+message text=えへへ、ごめんね。そういえば芽衣達 name=早坂芽衣 
+message text=前にも一緒に雨宿りしたことあるよね name=早坂芽衣 
+message text=あの時は楽しかったな～ name=早坂芽衣 
+message text=芽衣、ウエディングドレスなんて初めて着たよ name=早坂芽衣 
+message text=芽衣ね、{user}さんとこうして雨宿り name=早坂芽衣 
+message text=するの、好きだな。なんていうか、凄く落ち着くの name=早坂芽衣 
+message text=些細なことでも、好きになれるところは name={user} 
+message text=芽衣の長所かもしれないな name={user} 
+message text=えへへ、だからかな？　芽衣ね、好きなことが name=早坂芽衣 
+message text=たーっくさんあるんだ。聞いてくれる？ name=早坂芽衣 
+message text=まずね、いつも芽衣のことを応援してくれる name=早坂芽衣 
+message text=ファンのみんなのことが大好き name=早坂芽衣 
+message text=だから、やっぱり大好きなみんなと name=早坂芽衣 
+message text=ゲームの中で一杯遊べたら、凄く楽しいと思うんだ name=早坂芽衣 
+message text=例えばね、せっかく田舎にいるんだから name=早坂芽衣 
+message text=一緒に川で遊んだりとか～。他にはねー name=早坂芽衣 
+message text=（今回のもし恋は、こういう芽衣の『好き』を） name={user} 
+message text=（入れ込んでもらうのがいいかもしれないな） name={user} 

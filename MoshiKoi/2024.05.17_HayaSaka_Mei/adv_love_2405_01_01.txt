@@ -1,0 +1,63 @@
+narration text=――高校一年生　八月　とある田舎町 
+message text=（夏休み直前に、足を怪我して陸上の大会に\n出られなくなった俺は母の提案で田舎の\n祖母の家に遊びに来ていた） name={user} 
+message text=（せっかくの夏休みだし、毎日ぼーっと\n家にいるだけなのも良くないよな……\n少し外を散歩してみるか） name={user} 
+message text=見て愛ちゃん！\nあの子誰だろう？　転校生かな？ \n芽衣、ちょっと声掛けてくる！ name=早坂芽衣 
+message text=ちょっと、芽衣ちゃん！　待ってよ～\n突然走り出さないで～ name=小美山愛 
+message text=愛ちゃんも早く早くー！\n走って、走ってー！ name=早坂芽衣 
+message text=（こっちに走って来るのは\nこの町に住んでいる子たちか？\n同年代ぐらいに見えるな……） name={user} 
+message text=……やっぱり見たことない子だ！\nはじめまして！　芽衣だよー！\nあそこの高校に通ってるんだ name=早坂芽衣 
+message text=ねえねえ、君はどっから来たの？\n高校生？　それとも大学生？　名前は？\nあ、こっちは親友の愛ちゃん！ name=早坂芽衣 
+message text=はぁ……はぁ……\n芽衣ちゃん、走るの早いよ……\nはっ、はじめまして。小美山愛です name=小美山愛 
+message text=は、はじめまして……\n俺は{user}と言います\n高校一年生です name={user} 
+message text=芽衣と同い年だー！\n{user}君、よろしくねー！ name=早坂芽衣 
+message text=それでそれで、どうしてこの町に来たの？\n転校生？　転校して来たの？\nもしかして二学期からクラスメイト？ name=早坂芽衣 
+message text=いや、学校は関東の方だよ\nあそこがおばあちゃんちだから\n遊びに来たんだ name={user} 
+message text=大した理由じゃないよ\nおばあちゃんちがこの辺りだから…… name={user} 
+message text=この辺りってどの辺！？\n芽衣のお家もここら辺なんだよ！ name=早坂芽衣 
+message text=えっと……あそこら辺……かな name={user} 
+message text=え～！　きみ、あそこのおばあちゃんちの子\nだったの！？　芽衣のお家とすっごく近い！\nご近所さんだったんだね～ name=早坂芽衣 
+message text=でも、同年代の子がこの町に\n来るなんてめずらしいよね\nそうだ、せっかくだし一緒に遊ぼうよ！ name=早坂芽衣 
+message text=は？　いや、別にいいって name={user} 
+message text=遠慮しないでいいよ\nみんなで遊んだ方が楽しいし！\nね、愛ちゃんも一緒に遊びに行こうよ name=早坂芽衣 
+message text=うん、行く！　……って言いたいところ\nなんだけど、実はこの後、家のお手伝いが\nあって。また明日遊ぼう！ name=小美山愛 
+message text=そっかー、うん、分かった。ばいばーい！\nじゃあ{user}君\n芽衣と二人で遊ぼっか！　れっつごー！ name=早坂芽衣 
+message text=一体どこに行くんだ……？\nあ、おい！　そんなに引っ張るなって！ name={user} 
+message text=川だよ！　早く行かないと暗くなっちゃうし\n遊ぶ時間も減っちゃうでしょ？\nほら、早く早くー！ name=早坂芽衣 
+message text=（自然に手を握られてるけど……\n田舎の子ってこういうの\nあんまり気にしないのか……？） name={user} 
+message text=到着ー！\nこの川はね、芽衣達のお気に入りの\n遊び場なんだよ～ name=早坂芽衣 
+message text=川で何をして遊ぶんだ？ name={user} 
+message text=いろんな遊び方が出来るよ\n水遊びしたり、魚を上から眺めたり\n後は～……飛び込んだり！　とぅっ！ name=早坂芽衣 
+message text=あはは、つめたーい！\n{user}君も早く来なよ！　\n一緒に遊ぼ！　冷たくて気持ちいいよ？ name=早坂芽衣 
+message text=そこまで言うなら……\n少しだけ遊んでもいいかな name={user} 
+message text=うんうん！　そうこなくっちゃ～\n見て見て、手で水鉄砲作ったの！\nほら、えいっ！ name=早坂芽衣 
+message text=つめたっ\nあ、でも、少し気持ちいいかもな name={user} 
+message text=でしょ～？　もっと涼しくしてあげる！\nそれそれ～っ！ name=早坂芽衣 
+message text=わっ！　ふ、服に水をかけるのはやめろって\nせっかく濡れないようにしてたのに……\nこのっ……やり返してやる！ name={user} 
+message text=嫌だよ。濡れたくないし、一人で遊びな name={user} 
+message text=残念。でも無理やりは良くないよね\nじゃあそこで見ててね！\n魚を取ってあげるから…… name=早坂芽衣 
+message text=あ、おい！\nそこ気を付けないと、滑りそうだぞ name={user} 
+message text=大丈夫、大丈夫！\nこうやって川の端の方に魚を追い込んで\n手ですくえば……わぁっ！？ name=早坂芽衣 
+message text=危ない！　……大丈夫か？ name={user} 
+message text=ご、ごめんね？　足が滑っちゃった\n{user}君が支えてくれた\nおかげで頭は打たなかったけど…… name=早坂芽衣 
+message text=芽衣のせいで{user}君も\n濡れちゃったね……\n嫌がってたのに、ごめんね？ name=早坂芽衣 
+message text=気にしなくていいよ\nこうなったらとことん遊ぶか\nほら、えいっ！ name={user} 
+message text=きゃっ！　あはは！\nじゃあ芽衣も本気出しちゃうよ～！\nそれーっ！ name=早坂芽衣 
+message text=わぷっ……この、やったな……っ！？\n顔は反則だろ！　えいっ！ name={user} 
+message text=わぁっ！？　あははっ、いいねいいね！\nよーし、芽衣も負けないぞ～\n両手に沢山水をすくって……えいっ！ name=早坂芽衣 
+message text=よっ、と……わわっ！？ name=早坂芽衣 
+message text=……大丈夫か？ name={user} 
+message text=（俺は転びそうになった芽衣の腕を掴み\n自分の方へと引き寄せた\n芽衣は驚いたように目を見開いている） name={user} 
+message text=ご、ごめんね。助けてくれて、ありがとう\n{user}君がいなかったら\nお尻からどぼーんってなってたよ name=早坂芽衣 
+message text=あ、いつまでもくっついちゃってごめんね\n自分で立てるから、もう離して大丈夫だよ name=早坂芽衣 
+message text=（そういうのは気にしないのかと\n思っていたけど……\n案外気にするタイプなのか？） name={user} 
+message text={user}君、どうしたの？ name=早坂芽衣 
+message text=……いや、なんでもない\nそれよりも風が出て冷えてきたな\nそろそろ帰らないか？ name={user} 
+message text=確かに、ちょっと寒くなってきたかも\n……くしゅんっ！ name=早坂芽衣 
+message text=そのままだと風邪引きそうだし……\nおばあちゃんち、すぐそこだから\n体ぐらい乾かしていきなよ name={user} 
+message text=ほんと！？　ありがと～！\nじゃあ、お言葉に甘えさせてもらうね！ name=早坂芽衣 
+message text=ふー、すっきりしたー！\nシャワーだけじゃなくて乾燥機まで\n貸してくれてありがと name=早坂芽衣 
+message text=お礼は明日しっかりするからね！\n楽しみにしてて！ name=早坂芽衣 
+message text=明日って……何か約束でもしてたっけ？ name={user} 
+message text=ううん、まだしてないよ！　今するの！\n明日も遊ぼうね！　約束！\n{user}君を迎えに行くから name=早坂芽衣 
+message text=わー、もう外暗くなっちゃってる！\n今日は遊んでくれてありがとう！\nまた明日ね、ばいばーい name=早坂芽衣 
+message text=（……芽衣だったっけ\nなんだか嵐のような子だったな） name={user} 

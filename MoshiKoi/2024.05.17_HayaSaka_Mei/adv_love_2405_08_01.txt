@@ -1,0 +1,96 @@
+narration text=――高校一年生　九月 
+message text=（俺が実家に帰ってから芽衣とは\n遠距離でやり取りを続けている\n芽衣は今頃何をしてるんだろうか……） name={user} 
+message text=（そんなことを考えながら\n花火大会で芽衣と撮った写真を\n眺めていると、着信音が鳴った） name={user} 
+message text=もしもし{user}君？\n芽衣だよー！　今大丈夫～？ name=早坂芽衣 
+message text={user}君の声が\n聞きたくなって思い切って電話しちゃった！ name=早坂芽衣 
+message text=最近どう？　芽衣はねー\n昨日愛ちゃんと一緒に\n近所の田んぼの作業を手伝ったよ～！ name=早坂芽衣 
+message text=こっちは最近は勉強ばかりだな\n後は……リハビリをやってるよ\nそろそろ走っても大丈夫らしい name={user} 
+message text=そうなんだ！？　良かった～！\n芽衣、走ってる君を見てみたいな～\n今からでも行っちゃおうかな？ name=早坂芽衣 
+message text=気持ちは嬉しいけど……\nお互い勉強もしなきゃだろ\n冬休みには会いに行くから少しの辛抱だ name={user} 
+message text=分かってるけど、早く会いたいんだもん～\nあーあ、寝て起きたら\n冬休みになってたらいいのにな～ name=早坂芽衣 
+narration text=――高校一年生　十月 
+message text=（最近、芽衣からメッセージも電話も\nこない……何かあったのか？\n前に忙しいとは言っていたけど……） name={user} 
+message text=（既読のつかないメッセージを眺めながら\nホームルームが始まるのを待っていると\n教室のドアが勢いよく開いた――） name={user} 
+message text=こんにちは！　芽衣だよー！\n今日から転校してきました！\nみんな、これからよろしくね！ name=早坂芽衣 
+message text=め、芽衣がどうしてここにいるんだ！？ name={user} 
+message text=えへへ……ビックリした？\n{user}君に会いたくて\n転校してきちゃった name=早坂芽衣 
+message text=あはは、先生ごめんなさ～い！\nそういえば、自己紹介の途中だったっけ\n{user}君、また後でね！ name=早坂芽衣 
+narration text=――放課後 
+message text=やっと授業が終わった～\n久しぶりだね、{user}君\nはぁ～会いたかったよ～ name=早坂芽衣 
+message text=まさか転校してくるなんて……\nもしかして最近連絡がつかなかったのは\nこれで忙しかったのか？ name={user} 
+message text=うん。思ってたよりも準備が大変だったし\nせっかくなら秘密にしておいて\n当日に驚かせようかなって思ったの！ name=早坂芽衣 
+message text=あ、でも勝手に来た訳じゃないよ！\nお父さんの転勤先がこの近くだったから\nラッキーって思って付いて来たの！ name=早坂芽衣 
+message text=君と同じ学校でクラスまで一緒って\n知った時は芽衣もビックリしたけどね～！\nえへへ、これも恋の力なのかな～？ name=早坂芽衣 
+message text=これから芽衣と一緒に高校生活を\n送れるなんて俺も嬉しいよ\nあのさ、芽衣に言いたいことが…… name={user} 
+message text=ねぇ、{user}君\nそろそろ部活の時間……だよね\n陸上は……続けるの？ name=早坂芽衣 
+message text=いや、陸上はやらないよ\n俺は……残りの高校生活を\n芽衣と過ごすために使いたい name={user} 
+message text=夏に出来なかったことや新しいことを\n残りの二年間を使って沢山やっていきたい name={user} 
+message text={user}君……そっか……うん\n芽衣も君と一緒に楽しい\n高校生活を送りたいな！ name=早坂芽衣 
+message text=だって、そのためにこっちに\n転校してきたんだもん！ name=早坂芽衣 
+message text=芽衣ね、行きたい場所があるの！\nえっと……スマホで調べてて……ここの\n期間限定サツマイモドーナツが食べたい！ name=早坂芽衣 
+message text=あ、このチョコドーナツも美味しそ……\nわわっ……{user}君から\n手、繋いでくれるの……嬉しい！ name=早坂芽衣 
+message text=よし、じゃあ行こうか！ name={user} 
+message text=（俺達は手を繋いで校門を出た。好きな人が\n隣にいる幸せを嚙みしめながら、ずっと\nこんな日々が続くことを願って――） name={user} 
+message text=……俺はどうしたらいいと思う？\n正直、自分でもまだ迷っているんだ name={user} 
+message text=芽衣は{user}君が走る姿を\n見てみたいかな～ name=早坂芽衣 
+message text=そっか……実は陸上部から\n戻って来ないかって誘われてるんだ name={user} 
+message text=それなら絶対陸上部に戻った方がいいよ！\n芽衣も応援する！ name=早坂芽衣 
+message text=そうだ！　芽衣、マネージャーとか\nやってみようかな。そしたらずっと\n{user}君のそばにいられるし name=早坂芽衣 
+message text=（陸上部に復帰した俺は同じく\nマネージャーとして部に入った芽衣と\n二人三脚で努力を重ねた） name={user} 
+message text=（その結果、全国大会に出場\n惜しくも敗れるが、強豪大学からの\nスポーツ推薦を獲得することが出来た） name={user} 
+message text=（一般入試で同じ大学に入った\n芽衣に支えられながら日々を過ごし\n俺は駅伝のレギュラーに選ばれた） name={user} 
+narration text=――駅伝大会 
+message text=頑張れ～！　{user}くーん！\nあと少しでトップだよ～！ name=早坂芽衣 
+message text=いけいけ～！　……やった～！\n{user}君、凄い凄い！\n優勝しちゃったよ～！！ name=早坂芽衣 
+message text=ありがとう……芽衣が\n応援してくれたおかげだよ name={user} 
+message text=そんなことないよ～！\n{user}君が頑張ったから\n優勝出来たんだよ～！ name=早坂芽衣 
+message text=みんなでお祝いしなくっちゃ～！\nばんざーい！　ばんざ……え？\nインタビュー？　二人の関係……？ name=早坂芽衣 
+message text=えっと、この人は……俺が結婚を\n前提にお付き合いしている女性です name={user} 
+message text=うんうん、結婚を……えー！？ name=早坂芽衣 
+message text=優勝したら言うつもりだったんだ\n早坂芽衣さん、俺と結婚して下さい name={user} 
+message text=……え？　そんなの……\nもちろんOKだよー！\n{user}君、大好きー！！ name=早坂芽衣 
+message text=ちょっ、カメラの前だから……\nだ、抱きつくのは、恥ずかしいって！ name={user} 
+message text=そんなこと言うならもっとぎゅーって\nしちゃうよ！　これからも芽衣とずーっと\n一緒に居てね！　大大だーい好きだよ！ name=早坂芽衣 
+message text=俺は陸上部に戻ろうと思ってる\n一度諦めてしまった夢だけど\nどうしても、もう一度追いかけたいんだ name={user} 
+message text=賛成！　芽衣もそっちの方がいいと思う！\n{user}君が走ってるところ\n見てみたいなーってずっと思ってたんだ～ name=早坂芽衣 
+message text=芽衣がもし良ければ……\n陸上部のマネージャーをしてくれないか？\n芽衣と一緒なら頑張れる気がする name={user} 
+message text=マネージャー！？　楽しそう！\n{user}君のことしっかり\nサポート出来るように芽衣、頑張るよ！ name=早坂芽衣 
+narration text=——高校一年生　十一月 
+message text=（芽衣のサポートのおかげもあり俺は順調に\n調子を戻し、以前のような走りが\n出来るようになってきた） name={user} 
+message text={user}君、お疲れ様！\nだいぶタイムが縮んできたね！　これなら\n十二月の大会で、入賞も狙えるんじゃない？ name=早坂芽衣 
+message text=頑張ってみるけど\nさすがに入賞はまだ厳しいと思うよ name={user} 
+message text=えー、弱気になってるの～？\nじゃあ久しぶりに芽衣と勝負しない？ name=早坂芽衣 
+message text=次の大会で君が入賞したら芽衣の勝ち！\n入賞出来なかったら\n{user}君の勝ち！ name=早坂芽衣 
+message text=ルールはいつもと同じで\n負けた方が勝った方の言うことを\nなんでも聞くこと！　どうかな？ name=早坂芽衣 
+message text=待て待て、入賞した場合は\n俺の勝ちなんじゃないか……？ name={user} 
+message text=ううん、芽衣の勝ちだよ！\nだって負けた{user}君を見て\nやったーって思えないし name=早坂芽衣 
+message text=それに、芽衣は{user}君が\n入賞出来るって信じてるから\n君が入賞したら芽衣の勝ちだよ！ name=早坂芽衣 
+message text=よく分からない理論だけど……\n分かった、その勝負受けて立つよ name={user} 
+message text=わーい、やったー！　じゃあ……\n{user}君、もし君が入賞して\n芽衣がこの勝負に勝ったら…… name=早坂芽衣 
+message text=クリスマスは芽衣とデートすること！\nあとは……芽衣のお願い事を聞いて\nもらおっかな～ name=早坂芽衣 
+narration text=——高校一年生　十二月二十五日 
+message text=はぁ～今日はクリスマスデート楽しかったな\nふふん、やっぱり勝負は\n芽衣の勝ちだったね！ name=早坂芽衣 
+message text=改めて{user}君\n八位入賞おめでとう！ name=早坂芽衣 
+message text=ありがとう\n芽衣がそばで支えてくれたおかげだよ\nプレゼントは……気に入ってくれたか？ name={user} 
+message text=うん！　このお洋服可愛いくてすっごく\n動きやすいもん。えへへ、嬉しいな\nこんな服、初めて着たよ、ありがとう name=早坂芽衣 
+message text=喜んでくれて良かった。よく似合ってるよ\nそれじゃあ、もう遅いし、そろそろ帰ろうか name={user} 
+message text=待って、{user}君……！\nあの……あのね……芽衣……\n最後に一つだけお願いがあって…… name=早坂芽衣 
+message text=お願い？　ああ、そういえば前に\n言ってたよな。いいよ、俺が出来ること\nだったらなんでもするよ name={user} 
+message text=その……き…… name=早坂芽衣 
+message text=き？ name={user} 
+message text=きす……してみたいの…… name=早坂芽衣 
+narration text=——高校二年生　夏休み 
+message text=（俺は芽衣と一緒に田舎に戻り\n祖母の家で花火を見上げていた） name={user} 
+message text=やっぱり花火は綺麗だね～\n{user}君、ちゃんと見てる？\nさっきから芽衣の顔ばっかり見てるような name=早坂芽衣 
+message text=気のせいじゃないよ。花火もいいけど\n芽衣を見てる方が俺は楽しいから\n浴衣……すっごく似合ってるよ name={user} 
+message text=えへへ……嬉しいな……\n去年、{user}君が\n芽衣の浴衣姿見たいって言ってたでしょ？ name=早坂芽衣 
+message text=だから君のために着て来たんだ～\nでもそんなにじーっと見られたら\n芽衣、ちょっとだけ恥ずかしいな～ name=早坂芽衣 
+message text=ごめんごめん\n花火もちゃんと見てるから name={user} 
+message text=そうそう。芽衣と花火を両方とも\nちゃーんと見ててね！ name=早坂芽衣 
+message text=芽衣、こうして君と一緒に\n花火を見るの、好きだな～\nすっごく幸せな気持ちになるの name=早坂芽衣 
+message text=ねぇ、来年も今年みたいに一緒に花火を\n見ようね。その来年も、その次も……\nずっと一緒だよ、約束 name=早坂芽衣 
+message text=ああ、約束だ name={user} 
+message text={user}君…… name=早坂芽衣 
+message text=（芽衣はそう言うと、静かに目を閉じた……\nかと思うと、俺が顔を近づけた瞬間\nいたずらっ子のように目を開け微笑む） name={user} 
+message text=だーい好き……んっ…… name=早坂芽衣 
+message text=（大輪の花が咲き誇る下で\n俺は芽衣と口づけを交わした） name={user} 

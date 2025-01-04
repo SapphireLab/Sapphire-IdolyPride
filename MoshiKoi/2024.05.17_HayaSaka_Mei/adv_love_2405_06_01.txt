@@ -1,0 +1,59 @@
+narration text=――夏休み終了まであと五日 
+message text=（祖母からの頼みで近所の子供の\n遊び相手をすることになった俺は\n近所の空き地に来ていた） name={user} 
+message text=お疲れ様ですー！　もしかして\n{user}さんも\nこの子達の相手を頼まれたんですか？ name=小美山愛 
+message text=ああ。暇なら手伝ってくれって言われて\n愛さんも誰かに頼まれたの？ name={user} 
+message text=私はボランティアとして参加してるんです\n芽衣ちゃんも部活が終わったら\n参加するって言ってましたよ name=小美山愛 
+message text=ここで待ってれば会えるかもです\nところで、{user}さんは\n芽衣ちゃんのことが好きなんですか？ name=小美山愛 
+message text=な、なんでそれを……！？\nって、芽衣から聞いたのか。気持ちは\n伝えたけどあれから特に進展もないよ name={user} 
+message text=芽衣ちゃんから聞いた感じ\n結論が出なかったそうですけど\nまだ諦めてはいないんですよね？ name=小美山愛 
+message text=芽衣に恋を教えることになったからな。俺の\n好きが伝わるかは分からないが……ちゃんと\n答えをもらうまでは頑張るつもりだよ name={user} 
+message text=そんなに芽衣ちゃんが好きなんですね\n……とっても、素敵だと思います name=小美山愛 
+message text=私は{user}さんのこと\n応援してますから\n芽衣ちゃんのこと、よろしくお願いしますね name=小美山愛 
+message text=それじゃ、子供達が呼んでいるので\n一緒に遊んできますー！ name=小美山愛 
+message text={user}さんも\n頑張って下さいね～！ name=小美山愛 
+message text=頑張って、か……\nやれるだけのことは\nしているはずなんだけどな…… name={user} 
+message text=あれ？　{user}君だ！\n{user}君もボランティアで\n子供達の遊び相手をしてたの？ name=早坂芽衣 
+message text=ああ、ばあちゃんに頼まれたんだ\n午前中は愛さんも一緒だったから\n色々と話してたよ name={user} 
+message text=そうなんだ～\n芽衣も愛ちゃんとお喋りしたかったな～\nどんなお話してたの？ name=早坂芽衣 
+message text=えっと……いや、特には name={user} 
+message text=なんで濁すの？　なんだか怪しいな～\n{user}君、怪しいぞ～？ name=早坂芽衣 
+message text=人には秘密の一つや二つあるって\nよく言うだろう？ name={user} 
+message text=え～？　一つや二つくらい\n芽衣に教えてくれてもいいのに～ name=早坂芽衣 
+message text=そ、そんなことより、俺はもう帰るけど\n芽衣はこれからどうするんだ？ name={user} 
+message text=なんか、ごまかされた気がするよー\nでもそうだね、芽衣もそろそろ帰ろうかな～\n子供達も帰っちゃったし name=早坂芽衣 
+message text=それなら俺が送っていくよ\nここからだと少し遠いし\n夜道は歩いて帰るには危ないだろ name={user} 
+message text=え？　一人で帰れるから大丈夫だよ～\n夜道には慣れてるもん name=早坂芽衣 
+message text=俺が心配だから、送って行きたいんだ name={user} 
+message text=……そっか\n……うん、そういうことならお願い！\n二人で帰った方が楽しいしね！ name=早坂芽衣 
+message text=そろそろ暗くなる時間だし\n気を付けて帰るんだぞ name={user} 
+message text=せっかくだから{user}君も\n一緒に帰ろうよ！\n二人で帰った方が楽しいよ！ name=早坂芽衣 
+message text=それもそうだな\nじゃあ、一緒に帰ろうか name={user} 
+message text=それでね、昨日は愛ちゃんと\n一緒に学校で夏休みの宿題をやったんだー name=早坂芽衣 
+message text=でもね、沢山お喋りしちゃって……\n全然宿題の終わりが見えないよー！ name=早坂芽衣 
+message text=へぇ、どんなことを話したんだ？ name={user} 
+message text=どんなこと、って……\nそりゃ君の……えーっと……\nどうしよう、言っちゃっていいのかな～ name=早坂芽衣 
+message text=俺が聞いてまずいことなら\n無理して言わなくてもいいぞ name={user} 
+message text=……ううん、大丈夫\n実はね、{user}君のことを\n話してたんだ name=早坂芽衣 
+message text=この前、一緒に花火大会に行ったでしょ？\nその時から、芽衣……ずっと君の\nことばっかり考えちゃうんだ～ name=早坂芽衣 
+message text=家でも、外でも……\nそして今も、考えちゃってるの\n{user}君のことを name=早坂芽衣 
+message text=早く会いたいなぁ、とか\nずっと一緒にいたいなぁ、とか……\nこんな気持ちになるの、初めてなの name=早坂芽衣 
+message text=芽衣……{user}君のおかげで\n恋が分かったよ\nこれが……恋なんだね？ name=早坂芽衣 
+message text=俺に聞かれても……\n芽衣の気持ちは分からないな\n芽衣はどう思うんだ？ name={user} 
+message text=芽衣は……恋かなって思ったけど\nううん……そう言われるとやっぱり\nよく分からなくなってきたよ…… name=早坂芽衣 
+message text=あ、ここまででいいよ\n家、すぐ近くだから\nまたね、{user}君 name=早坂芽衣 
+message text=ああ、またな…… name={user} 
+message text=（この時の選択を後悔した俺は\n後日、芽衣の家を訪れ改めて告白した） name={user} 
+message text=芽衣。俺は君のことが好きだ\n俺と恋人になってくれないか？ name={user} 
+message text=ごめん！　あの後考えたんだけど\nやっぱり芽衣は{user}君とは\nいいお友達でいたいかな！ name=早坂芽衣 
+message text=（結局、俺は芽衣に恋を教えることは\n出来なかったが、芽衣とは友達として\n残りの夏休みを過ごした） name={user} 
+message text=芽衣。もう一度伝えたいことがあるんだ\n俺は芽衣のことが好きだ\n恋人になりたいぐらい、大好きだ name={user} 
+message text=……嬉しい。ありがとう\n芽衣も{user}君に\n芽衣の気持ちを伝えるね name=早坂芽衣 
+message text=あの時は{user}君の好きが\n分かんなくてごめんなさい name=早坂芽衣 
+message text=だけど、{user}君と\n一緒にいるうちに\n芽衣も好きとか恋が分かるようになって…… name=早坂芽衣 
+message text=芽衣の今の好きは……\nあの時の{user}君の好きと\nおんなじ恋の好きだよ name=早坂芽衣 
+message text=芽衣……\n絶対に幸せにするから俺と付き合って下さい name={user} 
+message text=芽衣も、{user}君のことが\n好き。大大だーい好き！\nこれからよろしくお願いします！ name=早坂芽衣 
+message text=絶対に幸せにするからな！\n恋人として、これからよろしく……！ name={user} 
+message text=あ、でも……恋人って、付き合うって\nどうしたらいいんだろ……？ name=早坂芽衣 
+message text=芽衣、お付き合いするの初めてだから\n分かんないや……\n{user}君、教えてくれる？ name=早坂芽衣 
+message text=ふふっ……芽衣らしいな\n俺も詳しくはないが、もちろんだ name={user} 

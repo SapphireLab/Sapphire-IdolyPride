@@ -1,0 +1,59 @@
+narration text=――高校一年生　十一月 
+message text=（実家に戻った俺は怪我が完治した\nタイミングで陸上を再開した） name={user} 
+message text=（芽衣とは連絡を取り合っているが\n部活で忙しいこともあり\nその頻度は減っていった） name={user} 
+message text=（そんなある日、俺の元に\n一本の電話がかかってきて――） name={user} 
+message text=突然電話しちゃってごめんね！\n{user}君、元気だった～？ name=早坂芽衣 
+message text=ああ、怪我もすっかり治ったし\n最近は陸上も以前のタイムを\n取り戻せるようになってきたよ name={user} 
+message text=おお～！　凄い凄い！\nこの前は試合で勝ったって言ってたよね？\n直接応援したかったな～ name=早坂芽衣 
+message text=連絡してくれてありがとうな\n本当は俺の方から芽衣に\n電話をかけたかったんだけど…… name={user} 
+message text=ううん、気にしないで！\n……でも、久しぶりに君の声を聞けて\n芽衣、嬉しいな name=早坂芽衣 
+message text=最近はあんまりメッセージの\nやり取りも出来てなかったから……\nやっぱり、部活で忙しいよね？ name=早坂芽衣 
+message text=あぁ……ごめん…… name={user} 
+message text=そうだよね～……。遠距離恋愛って\nやっぱり難しいな～。芽衣はもっと\n君とお喋りしたいだけなのに name=早坂芽衣 
+message text=……って、ごめんね？\nこんな話がしたかったんじゃないの\nう～ん、どうしてかな～？ name=早坂芽衣 
+message text={user}君と過ごした夏休みは\nとっても楽しかったけど、恋って……\n楽しいだけじゃないんだね、知らなかったよ name=早坂芽衣 
+message text=（芽衣に寂しい思いをさせてしまってる\n俺はどうしたらいいんだろう……） name={user} 
+message text=あのさ、芽衣\n実は冬休みにそっちに行こうと\n思ってるんだ name={user} 
+message text=これからバイトをして旅費を稼ぐよ\nそれで冬休みにそっちに行って\n君と一緒に年越しをしたい name={user} 
+message text=え？　でも、部活で忙しいんじゃ…… name=早坂芽衣 
+message text=陸上部を続けながらバイトもやるよ\n冬休みだけじゃない\n長期休みの度にそっちに行くよ name={user} 
+message text=それ、いい考えだねー！\nよーっし、それじゃあ芽衣も\nお金を貯めて会いに行こうかな！ name=早坂芽衣 
+message text=こうして電話で話すよりも\n直接会った方がいいもんね～ name=早坂芽衣 
+narration text=――高校一年生　十二月 
+message text=（あれから俺は部活と勉強\nそしてバイトを両立させながら\n田舎へと向かう準備を進めた） name={user} 
+message text=（そしてついに冬休みとなり\n俺は芽衣に会うために\n田舎へとやってきたのだった） name={user} 
+message text={user}くーん！\n久しぶり～！　元気にしてたー？\n芽衣はね、とーっても―― name=早坂芽衣 
+message text=芽衣っ……！ name={user} 
+message text=わっ！　も、も～\nいきなりぎゅーってされたら\nびっくりしちゃうよ～ name=早坂芽衣 
+message text=ごめん。でも、こうして会えたのが\n本当に嬉しくて、つい…… name={user} 
+message text=芽衣も、君に会えて嬉しいよ！\n久しぶりの{user}君だ～\nぽかぽかしてて気持ちいいな～ name=早坂芽衣 
+message text=会ったら何を言おうかなって\nずーっと毎日考えてたんだけど……\n嬉し過ぎて全部忘れちゃった。あはは name=早坂芽衣 
+message text=あのさ、芽衣\n俺、君に言うことがあるんだ name={user} 
+message text=芽衣に言うこと？\nえ～？　なんだろう～？ name=早坂芽衣 
+message text=俺、高校を卒業したらこの町に\n引っ越そうと思ってる。だから……\nその時は俺と一緒に暮らしてくれないか？ name={user} 
+message text=えぇっ！？　い、一緒にって…… name=早坂芽衣 
+message text=俺は、芽衣とずっと一緒にいたい\nだ、だから……これからは\n結婚を前提に、付き合ってほしい name={user} 
+message text=……うん！　もちろんだよ～！\nすっごく嬉しい！！\n芽衣の方こそ、よろしくね？ name=早坂芽衣 
+message text=結婚、結婚かぁ\n{user}君と結婚したら\n毎日楽しいんだろうね～ name=早坂芽衣 
+message text=一緒のお家に住んで、子供もいーっぱいで\n楽しい家族にしたいな～\nあ……芽衣、いいこと思いついた！ name=早坂芽衣 
+message text=結婚って何歳から出来たんだっけ……？\n芽衣達、もう結婚って出来る！？\n今から婚姻届取りに行こうよ！ name=早坂芽衣 
+message text=あ、おい！　ちょっと、待てって！\n俺の手をそんなに強く引っ張るなって！ name={user} 
+message text=なぁ、芽衣\nやっぱりこのままじゃダメだと思うんだ name={user} 
+message text=俺のせいで芽衣が寂しい思いをするのは\n嫌なんだ。だから……俺達、もう別れよう name={user} 
+message text=芽衣は君のこと好きだよ？\n{user}君は、もう……\n芽衣のこと好きじゃない……のかな？ name=早坂芽衣 
+message text=そんなことはない！\nでも、このまま俺に付き合わせてたら\n芽衣にいつか嫌な思いをさせそうで…… name={user} 
+message text=……そっか\n{user}君だっていろいろと\n考えたんだよね name=早坂芽衣 
+message text=分かったよ\nそれじゃあ、芽衣達別れよっか？ name=早坂芽衣 
+message text=今までありがとね、{user}君\n凄く楽しかったよ。……ばいばい name=早坂芽衣 
+narration text=――高校二年生　八月 
+message text=（芽衣と別れてから約一年が経った頃\n祖母に会うために田舎を訪れた俺は\n偶然、芽衣と再会した） name={user} 
+message text=あれ？　{user}君だ～！\n久しぶり！　こっちに来てたんだね？ name=早坂芽衣 
+message text=久しぶり、芽衣\n元気そうで何よりだよ name={user} 
+message text=芽衣はいつでも元気だよー！\nそうだ！　せっかく会ったんだし\n今から遊びに行かない？ name=早坂芽衣 
+message text=ああ、いいよ\n去年みたいに川で遊ぶか？ name={user} 
+message text=いいね～。行こう行こう！　実はね……\n{user}君が戻って来た時の\nために君の釣り竿も作ってたんだよ～！ name=早坂芽衣 
+message text=芽衣……ありがとう\nじゃあ、行こうか！ name={user} 
+message text=（俺は芽衣に向かって手を差し出した\nしかし……\nその手が握られることはなかった） name={user} 
+message text=ごめんね……\n{user}君と手は繋げない\n芽衣達、もう付き合ってないから name=早坂芽衣 
+message text={user}君のおかげで恋が\n分かったから……こういうのは\n付き合ってる人としかしないって決めたんだ name=早坂芽衣 
+message text=だから……お友達からお願いします\nまたいつか……{user}君と\n手が繋げるといいな name=早坂芽衣 

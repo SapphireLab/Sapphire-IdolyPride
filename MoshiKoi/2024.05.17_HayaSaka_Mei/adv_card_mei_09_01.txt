@@ -1,0 +1,85 @@
+title title=早坂芽衣 1話 恋する少女、早坂芽衣
+narration text=――ある日の打ち合わせにて 
+message text=えー！？　芽衣がもし恋のヒロインに選ばれたの！？ name=早坂芽衣 
+message text=怜ちゃんと渚ちゃんが出てたやつだよね！？ name=早坂芽衣 
+message text=ああ。夏休み前の忙しいところ申し訳ないが name={user} 
+message text=ぜひ芽衣に協力してほしいとのことだ name={user} 
+message text=楽しそう！　芽衣にやらせて！ name=早坂芽衣 
+message text=あのゲームのヒロインになれるなんて嬉しいな～ name=早坂芽衣 
+message text=芽衣も怜ちゃんみたいに、最初は冷たいけど name=早坂芽衣 
+message text=実は優しい子っていう設定だったりして name=早坂芽衣 
+message text=渚ちゃんみたいな、幼なじみっていう設定もいいよね name=早坂芽衣 
+message text=朝から家に「おはよー」って起こしに行くの！ name=早坂芽衣 
+message text=ねえねえ、{user}さん！ name=早坂芽衣 
+message text=芽衣のお話はどんな感じになるの？ name=早坂芽衣 
+message text=そのことなんだが name={user} 
+message text=まずはこの書類に目を通してほしいんだ name={user} 
+message text=えっと、これはアンケート？ name=早坂芽衣 
+message text=恋愛観に、好きなシチュエーション…… name=早坂芽衣 
+message text=理想のデートに、告白について…… name=早坂芽衣 
+message text=これに書いたことが、そのままゲームになるの？ name=早坂芽衣 
+message text=さすがに全部とまではいかないだろうが name={user} 
+message text=芽衣の意向をなるべく尊重したいと先方は言っていたな name={user} 
+message text=そうなんだ！　よーっし、頑張って埋めちゃうよ！ name=早坂芽衣 
+message text=でも、恋愛観って何を書けばいいんだろう？ name=早坂芽衣 
+message text=こういう恋愛がしてみたい、とか name={user} 
+message text=芽衣が思う理想の恋愛について書いてくれればいいぞ name={user} 
+message text=理想の恋愛か～ name=早坂芽衣 
+message text=うーん……何かあるかなぁ…… name=早坂芽衣 
+message text=む、難しいなぁ……むむむむ…… name=早坂芽衣 
+message text=これ、寮に持って帰って、もう少し考えてみてもいい？ name=早坂芽衣 
+message text=急ぎじゃないから、それでも構わないよ name={user} 
+message text=じっくり考えてきてくれ name={user} 
+narration text=――翌日 
+message text=アンケート全部埋めてきたよ～！　理想の恋愛とか name=早坂芽衣 
+message text=理想のデートとか、しっかり書いてきたよ！ name=早坂芽衣 
+message text=ありがとう。どれどれ……ん？ name={user} 
+message text=「お菓子のお家を一緒に作る」……？ name={user} 
+message text=凄く楽しそうでしょ？　好きな人と一緒に name=早坂芽衣 
+message text=二人の大好きなお菓子を使ってお家を作るの！ name=早坂芽衣 
+message text=芽衣はドーナツで作る、と。確かに楽しそうだが…… name={user} 
+message text=これが……芽衣の考える理想の恋愛……か？ name={user} 
+message text=うん！　『理想の恋愛』って、どういうことかなーって name=早坂芽衣 
+message text=芽衣なりに、いーっぱい考えてみたんだ name=早坂芽衣 
+message text=好きな人と、楽しいことを一緒にするって恋愛っぽい name=早坂芽衣 
+message text=でしょ？　それにゲームだし、夢があったらいいなって name=早坂芽衣 
+message text=な、なるほど…… name={user} 
+message text=この「猫ちゃんの集会に参加する」というのは？ name={user} 
+message text=夜の公園で、猫ちゃん達がよく集まってるでしょ？ name=早坂芽衣 
+message text=そこに二人で参加するの！ name=早坂芽衣 
+message text=近所の公園でも、たまに集まってるのをみるんだ～ name=早坂芽衣 
+message text=そうだ！　猫ちゃんの言葉が話せたらもっと楽しいよね name=早坂芽衣 
+message text=ゲームはゲームでも、今回は恋愛ゲームだし name={user} 
+message text=もう少し恋愛要素があるといいんだが…… name={user} 
+message text=恋愛要素……？ name=早坂芽衣 
+message text=芽衣が考えた恋愛観とは、違うのかな？ name=早坂芽衣 
+message text=そうだな……アンケートに書いてくれた name={user} 
+message text=芽衣の「好き」はどんな「好き」なんだ？ name={user} 
+message text=どんな……？　友達とか家族とか月ストのみんなとか name=早坂芽衣 
+message text=ドーナツとか猫ちゃんとか……？ name=早坂芽衣 
+message text=それだと、向こうが求めているものとは name={user} 
+message text=少し違うかもしれないな name={user} 
+message text=その好きって、芽衣の好きと同じじゃないの……？ name=早坂芽衣 
+message text=二つの好きがどう違うのか、分かんないよ…… name=早坂芽衣 
+message text=怜ちゃんや渚ちゃんのもし恋で遊んでみて name=早坂芽衣 
+message text=キュンキュンはしたし、可愛いなとは思ったよ？ name=早坂芽衣 
+message text=けど……芽衣が同じようなことをしてるのは name=早坂芽衣 
+message text=あんまり想像が出来ないっていうか…… name=早坂芽衣 
+message text=ねぇ、{user}さん name=早坂芽衣 
+message text=恋愛の好きって、どんな好きなの？ name=早坂芽衣 
+message text=それは……なんて言ったらいいかな name={user} 
+message text=胸がドキドキする感覚というか…… name={user} 
+message text=ドキドキ……？　じゃあ、ライブ中とかは name=早坂芽衣 
+message text=芽衣は恋をしてる感覚になってるのかな？ name=早坂芽衣 
+message text=沢山歌って踊って、ファンのみんなと交流してたら name=早坂芽衣 
+message text=凄くドキドキするから name=早坂芽衣 
+message text=近いものはあるかもしれないが、少し違う気がするな name={user} 
+message text=それは楽しさからくるものだと思うぞ name={user} 
+message text=うぅ～……もっと分からなくなってきたよ～ name=早坂芽衣 
+message text=どうしよう……書き直した方がいいかな？ name=早坂芽衣 
+message text=いや……これが今の、ありのままの芽衣の答えなら name={user} 
+message text=まずは一度、これでアンケートを出してみよう name={user} 
+message text=（しかし、まずいことになってしまった） name={user} 
+message text=（まさかここまで苦戦するとは） name={user} 
+message text=（芽衣の案を、そのまま使う訳にはいかないだろうし） name={user} 
+message text=（何か一工夫ないと、難しいかもしれないな……） name={user} 

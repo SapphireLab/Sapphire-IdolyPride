@@ -1,0 +1,70 @@
+narration text=――夏休み終了まであと二十日 
+message text={user}君、おっはよ～！\n迎えに来たよ name=早坂芽衣 
+message text=お、おはよう\n本当に来るとは思わなかったよ name={user} 
+message text=約束したんだから当然だよ！\nそれに、{user}君は\nもう芽衣のお友達だからね name=早坂芽衣 
+message text=友達……？ name={user} 
+message text=あ、あれ……違った？\nでも、昨日一緒に川で遊んだから\nお友達だよー！ name=早坂芽衣 
+message text=一度遊んだだけで友達になるんだな……\nというか、誘うなら他の人の方が\nいいんじゃないか？ name={user} 
+message text=ここに来る前に愛ちゃんちに\n誘いに行ったんだけど、親戚が来るから\n遊べなくなっちゃったんだってー name=早坂芽衣 
+message text=それに、学校のお友達も夏休みは\nみーんな旅行に行っちゃったりしてて\nいないんだよね…… name=早坂芽衣 
+message text=だから、{user}君が\n芽衣と遊んでくれたらとっても\n嬉しいんだけど……昨日は楽しくなかった？ name=早坂芽衣 
+message text=勘違いだって。俺は別に楽しくなかったよ\n芽衣も、俺なんかと遊んでも楽しくないだろ name={user} 
+message text=う……芽衣だって{user}君と\n遊ぶより愛ちゃんと遊んだ方が\n楽しいけど……愛ちゃん用事あるんだもん name=早坂芽衣 
+message text=それは……確かに、楽しかったけど…… name={user} 
+message text=良かったー！\nそれなら芽衣と一緒に遊ぼうよ！\n昨日楽しかったならきっと今日も楽しいよ！ name=早坂芽衣 
+message text=分かった……じゃあ一緒に遊ぼう！\n今日はどこに行くんだ？ name={user} 
+message text=今日はねー、釣り！\n近くの山にいい釣り場があるんだ name=早坂芽衣 
+message text=魚が凄く沢山獲れるんだよ\n釣った魚をその場で塩焼きにすると\n美味しいんだ～ name=早坂芽衣 
+message text=釣れた魚をすぐに焼いて食べるのか\n俺はやったことないんだが\n危なくないのか……？ name={user} 
+message text=ちゃんと火を通せば大丈夫！\nほら、早く行こ～！ name=早坂芽衣 
+message text=お、おい、結構険しい山道を抜けて来たけど\nこんな所まで来て大丈夫なのか？ name={user} 
+message text=いつも来てる場所だから平気だよ！\nあ、でもでも、足元には気を付けてね？\nそこら辺とか滑りやすくなってるから name=早坂芽衣 
+message text=（地面がぬかるんでいるせいもあるけど\n怪我のせいでちょっと歩きにくい……） name={user} 
+message text=痛っ……ごめん！\nこういう道歩きなれてなくて……\nもう少しだけゆっくり進んでくれないか name={user} 
+message text=あ、芽衣が速く進み過ぎたよね\nごめんね！　あの……さ……\nううん……やっぱり何でもない name=早坂芽衣 
+message text=ん？　どうしたんだ？\n途中まで言われると気になるな name={user} 
+message text=そうだよね……。えっと……\n{user}君、足、怪我してる？ name=早坂芽衣 
+message text=いや…… name={user} 
+message text=さっきからちょっと足引きずってて\n歩き辛そうだな……って思ってたんだ\nごめんね……芽衣のせいだよね name=早坂芽衣 
+message text=昨日芽衣を助けてくれた時に\n怪我しちゃったんだよね\n今日は川遊びやめてお家帰ろっか？ name=早坂芽衣 
+message text=謝らないでくれ。そもそも\nこの怪我は芽衣のせいじゃないよ\n部活中にちょっとやっただけだから name={user} 
+message text=本当に……？ name=早坂芽衣 
+message text=ああ、だから全然大丈夫だ\nほら、早く川に行こう name={user} 
+message text=じゃあ……はい！　芽衣の手を握って\n歩き辛い所は支えてあげる！\nこれで少しは歩きやすくなるよね name=早坂芽衣 
+message text=ありがとう。助かるよ name={user} 
+message text=お礼なんていいよ～\n芽衣が誘ったんだもん！ name=早坂芽衣 
+message text=大丈夫だ\nむしろ手を繋いだ方が歩き辛くないか……？ name={user} 
+message text=あはは……そっか\nでも、無理はしないでね？\n転んじゃったら、危ないし！ name=早坂芽衣 
+message text=……実は、今日一緒に遊んで\nくれないかもって思ってたんだ name=早坂芽衣 
+message text=だから、{user}君が\n一緒に遊ぼうって言ってくれた時\nすっごく嬉しかったの name=早坂芽衣 
+message text=あ、そろそろ着くよ！\nここを登れば……到着～！ name=早坂芽衣 
+message text=うん、川も荒れてなさそう\n釣りは出来そうだね\nええっと、どこに置いてたかなぁ name=早坂芽衣 
+message text=あったあった！　見て見て！\n芽衣と愛ちゃんで作った釣り竿だよ\n二本あるから貸してあげる！ name=早坂芽衣 
+message text=釣り竿まであるのか……\n本当によく来る遊び場なんだな\nいつも釣りをしているのか？ name={user} 
+message text=うん！　どっちが沢山釣れるか勝負して\n勝った方が負けた方の言うことを\n聞くルールなんだ～ name=早坂芽衣 
+message text={user}君もやってみる？\n芽衣と釣り勝負 name=早坂芽衣 
+message text=面白そうだな。いいよ、やろう！\n日が暮れるまでに釣った魚の数で勝負とかは\nどうだ？ name={user} 
+message text=いいね！　負けないよ。芽衣が勝ったら\n{user}君にどんな命令を\nしようかな。それじゃあ……スタート！ name=早坂芽衣 
+message text=あ、早速食いついた！\nよーしよしよーし\nゆっくりこっちに持ってきて……えい！ name=早坂芽衣 
+message text=やったー！　一匹目ゲットー！\nふふ、これは勝ちはもらったかな？ name=早坂芽衣 
+message text=まだ始まったばかりだぞ\nどーせ偶然だろ name={user} 
+message text=ふっふっふ～どうかなー？\n実は芽衣、釣りは得意なんだよね\nこのまま引き離しちゃうかも name=早坂芽衣 
+message text=それはずるくないか？\n……おっ。こっちも食いついてきたけど……\nはぁ、逃げられた name={user} 
+message text=あははっ、ちゃんとお魚の気持ちに\nならないとだよ～。こうやって\n竿をお魚の逃げる方向に動かして…… name=早坂芽衣 
+message text=よしっ！　かかった！\n見て見て～二匹目ゲット！\nお魚の気持ちになるのがコツなんだよ！ name=早坂芽衣 
+message text=なるほど、そうやって竿を動かせばいいのか\n魚の逃げる方に……おおっ！\n見てくれ芽衣！　俺も釣れたぞ！ name={user} 
+message text=上手上手！　いい感じだよ！\nでも、負けないからね\n勝つのは芽衣なんだから！ name=早坂芽衣 
+message text=はぁー、今日も楽しかった～\n接戦だったけど勝負は芽衣の勝ちだね！\nどんな命令にしようかな～ name=早坂芽衣 
+message text=あ、あまり無茶な命令はやめてくれよ……？ name={user} 
+message text=んー、そうだな～\nじゃあこんなのはどう？\nまた明日も芽衣と一緒に遊ぶこと！ name=早坂芽衣 
+message text=え？　無茶なのはやめてくれと言ったけど\n本当にそんなことでいいのか？ name={user} 
+message text=うーん、それなら……\n明日だけじゃなくて夏休みの間\nいーっぱい芽衣と遊んでよ！ name=早坂芽衣 
+message text=それはそれで……俺は別にいいけど\n芽衣は、いいのか……？ name={user} 
+message text=あははっ！　芽衣が決めた命令なのに\nなんでそんなこと聞くの～？\n一緒に遊びたいからこの命令にしたんだよ！ name=早坂芽衣 
+message text=嬉しいな～\nこれで{user}君の夏休みは\n芽衣のものだ～ name=早坂芽衣 
+message text={user}君と遊ぶの楽しいし\n毎日お家まで迎えに行っちゃおうかな～\nあれれ、顔が赤いけど、どうしたの？ name=早坂芽衣 
+message text=大丈夫、何でもないから！\nそ、それより、そろそろ帰った方が\nいいんじゃないか？ name={user} 
+message text=わー、ほんとだ！　もうこんな時間！\n急がないと門限過ぎちゃうかも\nじゃあ、芽衣はもう帰るね！ name=早坂芽衣 
+message text=明日も家まで呼びに行くから！\n寝坊しちゃだめだよ？\nじゃ、またね～！ name=早坂芽衣 
+message text=ま、また明日…… name={user} 
+message text=（……俺と遊ぶのが楽しい、か\nなんか、胸が変な感じだ……\nもしかして俺、芽衣のことが……） name={user} 

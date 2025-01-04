@@ -1,0 +1,73 @@
+narration text=――夏休み終了まで十五日 
+message text=（釣り勝負をした日からほぼ毎日芽衣と遊ん\nでいた。一緒に過ごす時間が増えるほど彼女\nに対する気持ちも膨らんでいる気がする） name={user} 
+message text=いつもだったらもう芽衣が来てる\n時間だけど……今日は遅いな……\nって、何そわそわしてるんだ俺は name={user} 
+message text=お邪魔しまーす！\n遅くなっちゃってごめんね\n部活がちょっと長引いちゃって…… name=早坂芽衣 
+message text=あれ、{user}君お部屋の中を\nぐるぐる歩き回ってどうしたの？\n何か失くし物……？ name=早坂芽衣 
+message text=いや、これは……\nそろそろ芽衣が来るかなって\n思って……準備を…… name={user} 
+message text=もしかして、{user}君\n芽衣が来るの楽しみにしてくれてたの？ name=早坂芽衣 
+message text=…………ああ、楽しみにしていたよ\n俺も芽衣と遊ぶのが、楽しい、から name={user} 
+message text=だよね、だよねー！　……って、えぇっ！？\nいつも一緒に遊んでくれるのは芽衣が\n命令したからかなって思ってた…… name=早坂芽衣 
+message text=それは関係ないよ\n俺が芽衣と遊ぶのが好きだから遊んでるんだ name={user} 
+message text=えへへ、そっか～、そうだったんだ～\n{user}君、芽衣と遊ぶの\n好きなんだ～。芽衣も大好きだよ！ name=早坂芽衣 
+message text=別に楽しみにしてたとか\nそういう訳じゃないけど…… name={user} 
+message text=そっか……そうだよね\n芽衣が命令したから\n遊んでくれてるんだった…… name=早坂芽衣 
+message text=（命令……？　何か芽衣は勘違いしている\nようだけど……\nとりあえず話題を変えるか） name={user} 
+message text=そ、それで、今日は何をするんだ？ name={user} 
+message text=今日はね、バスに乗って隣町のドーナツ屋\nさんに新作ドーナツを食べに行きま～す！\n限定三十個のスイカ味の発売日なの！ name=早坂芽衣 
+message text=いっつも新作ドーナツは人気で\nすぐ売り切れちゃうんだよ！\n早く行こー！　急いで急いで！ name=早坂芽衣 
+message text=ちょ、ちょっと芽衣！　分かったから\n手を引っ張らないでくれ……！ name={user} 
+message text=いっただきまーす！　あむっ！\nん～～美味しい～～\n口の中でスイカ割りしてるみたいだよ～ name=早坂芽衣 
+message text={user}君のチョコドーナツ\nはどう？　やっぱりそっちも買えば良かった\nかな。芽衣の一番好きな味なんだよね name=早坂芽衣 
+message text=ああ、美味しいよ\nこっちも一口食べるか？ name={user} 
+message text=え、いいの～！？　やった！\nそれじゃあ一口ちょうだい\nあーん name=早坂芽衣 
+message text=……口を開けてどうしたんだ？ name={user} 
+message text=あれ？　一口もらおうと思ったんだけど\n遠かったかな？　もう少し近づくね！\nよいしょっと……あーん name=早坂芽衣 
+message text=わ、分かった\nそれ以上近づかなくて大丈夫だ\nこぼさないように……そーっと食べるんだぞ name={user} 
+message text=はむっ！　うん、やっぱり美味しい！\nそうだ、芽衣のも食べてみてよ！\nはい、あーんして name=早坂芽衣 
+message text=あ、あーん…… name={user} 
+message text=（これって……間接キスだよな？\nこういうのって付き合ってる相手とやること\nなんじゃ……芽衣は気にしないのか？） name={user} 
+message text=どう、美味しい？ name=早坂芽衣 
+message text=あ、ああ。美味しいよ\nスイカ味のドーナツってこんな感じなんだ\nなんか新しいな name={user} 
+message text=良かった～！\n今日はお小遣い持って来たから\n芽衣のオススメを沢山食べてもらうよ！ name=早坂芽衣 
+message text=ふ～、一杯食べたね～\n分けっこして食べると楽しいな～\nまた一緒にドーナツ食べに来ようね！ name=早坂芽衣 
+message text=ああ、そうだな\nなぁ、芽衣はよく……その……\nあーんとかするのか？ name={user} 
+message text=うん！　いつも愛ちゃんと一緒に来て\n食べさせ合いっこしてるよ！\nいろんな味を食べたいもん name=早坂芽衣 
+message text=そっか……そうだよな\nごめん、変なこと聞いて\nあれ……雨？　うわ、夕立だ name={user} 
+message text={user}君！　こっちこっち！\n急に降ってきちゃったね～\nバスが来るまでここで雨宿りだ～ name=早坂芽衣 
+message text=わぁ～……服もびしょびしょに\nなっちゃったよ～\nすぐ止むといいんだけどな name=早坂芽衣 
+message text=天気予報では晴れだったんだけどな\n芽衣は大丈夫？　寒くないか？ name={user} 
+message text=ちょっと寒いかも。でもこうやって\n{user}君にくっつけば……\nふふっ、ちょっと温かくなったね name=早坂芽衣 
+message text=（芽衣と俺の肩が触れ合う。途端に\nなぜか胸が熱くなるのを感じた\nやっぱり俺は、芽衣のことを……） name={user} 
+message text=ん？　{user}君どうしたの？\n芽衣の顔に何かついてるかな？ name=早坂芽衣 
+message text=いや……別になんでもないから\n芽衣の方こそ何か言いたいことが\nあるんじゃないのか？ name={user} 
+message text=凄い、超能力！？　芽衣ね大好きなんだ～\n{user}君のこと！\nだから、毎日遊んでくれて本当にありがとう name=早坂芽衣 
+message text=（ここは思い切って、芽衣に自分の気持ちを\n伝えてみよう） name={user} 
+message text=黙っちゃって、どうしたの～？\n芽衣で良ければ話を聞かせてよ name=早坂芽衣 
+message text=……分かった\n俺、芽衣のことを、その……\n好きになってしまったみたいなんだ name={user} 
+message text={user}君が？\n芽衣のことを、好き？\nありがとう。嬉しいな！　芽衣も大好き！ name=早坂芽衣 
+message text=俺のことが……好き？ name={user} 
+message text=うん！　大好き！\n愛ちゃんとか、部活のみんなと\n同じくらい大好きだよ！ name=早坂芽衣 
+message text=……うん？　ま、待ってくれ\n俺も芽衣のことが好きだけど\nそれって、どういう意味の好きなんだ？ name={user} 
+message text=どういう意味って？\n好きは好きって意味だよ！ name=早坂芽衣 
+message text=芽衣は友達も家族も\n{user}君もみーんな\n大好きってこと！ name=早坂芽衣 
+message text=それって、恋愛的な『好き』じゃなくて\nもっと周りのみんなに対しての\n『好き』だったりしないか……？ name={user} 
+message text=うーん……芽衣にはよく分かんないかも\n芽衣の好きと{user}君の\n好きは違うの？ name=早坂芽衣 
+message text=多分、違うと思う。俺の好きは\nその人のことをどんな時でも考えてしまう\n恋愛的な恋の『好き』で…… name={user} 
+message text=芽衣も友達のことはいつも考えてるよ？\n{user}君のことだって\n同じくらい考えてるし name=早坂芽衣 
+message text=はっ！？　じゃあもしかして芽衣……\n友達みんなに恋してるってこと？ name=早坂芽衣 
+message text=いや、それは芽衣が友達想い\nだからじゃないか……？ name={user} 
+message text=うーん、やっぱりよく分からないな\nそうだ！　それなら{user}君\nが芽衣に恋を教えてよ！ name=早坂芽衣 
+message text=芽衣も{user}君のことが\n大好きだから芽衣の好きと、どう違うか\nちゃんと知りたいの。ダメかな？ name=早坂芽衣 
+message text=（一体何を頼まれているんだ……\n俺が芽衣に恋を教えることなんて\n出来るのか……？） name={user} 
+message text=……分かった\n俺で良ければ、恋を教えるよ name={user} 
+message text=ありがとう、{user}君\n恋の『好き』が分かるように芽衣も頑張る！\nこれからよろしくお願いします！ name=早坂芽衣 
+message text=（こうして、俺は芽衣に\n恋というものを教えることになった） name={user} 
+message text=（といっても、俺の知識だって\n漫画やドラマで得たものぐらいしかない） name={user} 
+message text=（芽衣とどう接すれば\n俺の抱く『好き』の気持ちが伝わるのか\nこれから試行錯誤していこう） name={user} 
+message text=ごめん……\n俺は芽衣に恋を教えることは出来ない\nだって恋っていうのは…… name={user} 
+message text=恋っていうのは……？ name=早坂芽衣 
+message text=恋っていうのは……教えられるんじゃなくて\nハートが熱く燃え盛るようなものなんだ！\nこう……ブワッと！　ブワッと！ name={user} 
+message text=……ぷっ……くっ……あはははっ、何それ\nブワッと！　って言われても分かんないよ\nなんだ、君も恋を知らないんだね。あははっ name=早坂芽衣 
+message text=（恥ずかしさに耐えられなくなった俺は\n芽衣をバス停に残し\nどしゃぶりの雨の中へと駆け出した） name={user} 
+message text=（なんだ、俺の足、走れるんじゃないか\n背後に聞こえる芽衣の笑い声は俺のハートを\nブレイクさせ、一夏の恋はブワッと消えた） name={user} 
+message text=（走れることが分かった俺は、すぐに実家へ\n戻り陸上部に復帰。俺は今日も走っている\nブワッとブワッと燃えるハートを抱えて） name={user} 

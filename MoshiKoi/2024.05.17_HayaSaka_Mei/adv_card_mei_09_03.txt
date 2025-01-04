@@ -1,0 +1,77 @@
+title title=早坂芽衣 3話 顔が熱くなってきちゃった
+narration text=――『もし恋』の発売日前日 
+message text=……はぁ name=早坂芽衣 
+message text=どうした？　元気がないみたいだが…… name={user} 
+message text=もしかして体調でも悪いのか？ name={user} 
+message text=ううん、体調は大丈夫だよ name=早坂芽衣 
+message text=でも、もし恋のことが気になっちゃって…… name=早坂芽衣 
+message text=収録は頑張ったけど、どんな風に出来上がったのかな name=早坂芽衣 
+message text=って不安で……何をしててもずっと考えちゃうの name=早坂芽衣 
+message text=怜ちゃんや渚ちゃんみたいに出来なかったら…… name=早坂芽衣 
+message text=みんなをドキドキさせられなかったらどうしよう…… name=早坂芽衣 
+message text=気持ちは分かるが、まずはプレイしてみないとな name={user} 
+message text=サンプルが届いているから、今から一緒にやってみよう name={user} 
+message text=う、うん。まずはやってみないとだよね name=早坂芽衣 
+message text={user}さんと一緒なら出来る気がする！ name=早坂芽衣 
+message text=始まった……うぅ……ドキドキするよ…… name=早坂芽衣 
+message text=あれ、このドキドキってもしかして恋！？ name=早坂芽衣 
+message text=違うだろ。それは緊張のドキドキだ name={user} 
+message text=ほら、ストーリーを進めるぞ name={user} 
+message text=分かってるよ～。あ、ここの遊びに誘う時の演技凄く name=早坂芽衣 
+message text=自信があるんだよ！　収録でも一回でOKだったの！ name=早坂芽衣 
+message text=ねえねえ、やっぱり芽衣、転び過ぎじゃない？ name=早坂芽衣 
+message text=確かに川は滑りやすいけど……でも、いいシーンだね name=早坂芽衣 
+message text=（あんなに不安そうだったのに） name={user} 
+message text=（すっかりゲームに夢中になっているな） name={user} 
+message text=芽衣もしっかり楽しんでくれて良かったよ name={user} 
+message text=これならファンも喜んでくれそうだな name={user} 
+message text=うん、喜んでくれるといいな～ name=早坂芽衣 
+message text=あ、もしかしてこの次のシーンって…… name=早坂芽衣 
+message text=やっぱり！　{user}さんとの雨宿りを name=早坂芽衣 
+message text=思い出しながら、いーっぱいアンケートに書いたんだよ name=早坂芽衣 
+message text=芽衣、恋愛はよく分からないけど name=早坂芽衣 
+message text=好きな人との雨宿りは楽しいだろうな～って思って name=早坂芽衣 
+message text=芽衣の楽しい気持ちをみんなにも知ってほしくて name=早坂芽衣 
+message text=だからゲームにも入れてほしかったんだよね name=早坂芽衣 
+message text=こんなに再現してくれるなんて凄いなぁ name=早坂芽衣 
+message text=あ、あれ……？　でも、こんなにくっついてたっけ？ name=早坂芽衣 
+message text=恋愛ゲームだからな name={user} 
+message text=プレイヤーが喜ぶ描写に寄せたんだろう name={user} 
+message text=そうなんだ……そっか……あ、あれれ、どうしよう name=早坂芽衣 
+message text=なんだか不思議な気分になってきちゃった name=早坂芽衣 
+message text=胸がもやもやしてるけどあったかくて…… name=早坂芽衣 
+message text=怜ちゃん達のもし恋をプレイした時みたいな…… name=早坂芽衣 
+message text=……あの時、{user}さんと雨宿りしてた name=早坂芽衣 
+message text=芽衣も、ゲームの中の芽衣と同じ気持ちだったのかな name=早坂芽衣 
+message text=うーん、さすがに同じじゃないはず…… name=早坂芽衣 
+message text=でも、シチュエーションは同じだし…… name=早坂芽衣 
+message text=えー？　どうしよう、分かんないよ name=早坂芽衣 
+message text={user}さんどう思う！？ name=早坂芽衣 
+narration text=――もし恋発売後　イベント会場にて 
+message text=見て見て～！　プロモーション用に name=早坂芽衣 
+message text=ゲームの中の芽衣とお揃いの衣装を作ってもらったの！ name=早坂芽衣 
+message text=よく似合ってるよ。毎回思うが、もし恋のプロモは name={user} 
+message text=衣装までこだわっているよな name={user} 
+message text=本当に凄いよね！　ファンのみんなも、「ゲームの name=早坂芽衣 
+message text=中と一緒だ！」ってびっくりしてくれるといいな name=早坂芽衣 
+message text=さっき会場の様子をちょっとだけ見て来たんだけど name=早坂芽衣 
+message text=満員だったよ！ name=早坂芽衣 
+message text=芽衣のもし恋のために name=早坂芽衣 
+message text=こんなに沢山の人達が集まってくれるなんて嬉しいな～ name=早坂芽衣 
+message text=ああ、そうだな。ゲームが好評だったからだろう name={user} 
+message text=事務所に届いてる感想も読んだか？ name={user} 
+message text=もちろん！　「芽衣と一緒に夏休みを楽しめた」とか name=早坂芽衣 
+message text=「昔を思い出した」って喜んでた人もいたよ！ name=早坂芽衣 
+message text=芽衣との恋愛 name=早坂芽衣 
+message text=みんな楽しんでくれてるみたいで嬉しいな～ name=早坂芽衣 
+message text=……あ、そろそろイベントが始まる時間だ name=早坂芽衣 
+message text={user}さん、早く行こー！ name=早坂芽衣 
+message text=こ、こら、芽衣。手は繋がなくていいだろ name={user} 
+message text=あ、ごめんごめん！ name=早坂芽衣 
+message text=そういえば、もし恋にもこういうシーンあったよね name=早坂芽衣 
+message text=好きな人と手を繋いで……あ、あれ？ name=早坂芽衣 
+message text=顔が熱くなってきちゃった……ごめん、離すね～ name=早坂芽衣 
+message text=……？　そういえば結局、恋愛がどんなものなのかは name={user} 
+message text=ちゃんと理解出来たのか？ name={user} 
+message text=恋か～……うーんとね～…… name=早坂芽衣 
+message text=……ううん、分かんない name=早坂芽衣 

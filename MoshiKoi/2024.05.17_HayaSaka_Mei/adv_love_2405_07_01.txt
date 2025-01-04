@@ -1,0 +1,78 @@
+narration text=――夏休み終了まで残り三日 
+message text=（芽衣と恋人になってから\n俺達の距離は物理的にも精神的にも\nこれまでより格段に近くなった） name={user} 
+message text=えへへ……ねぇねぇ\nさっきからずーっとスマホを\n見てるけど何してるのー？ name=早坂芽衣 
+message text=わぁっ！\n突然背中に抱きついてくると危ないだろ\nせめて一言声を掛けてくれ name={user} 
+message text=えへへ、ごめんね～。でも、せっかく\n一緒にいるんだから、スマホじゃなくて\n芽衣のことを見て欲しかったんだもん name=早坂芽衣 
+message text=一緒にって……今来たばかりだろ？\n芽衣がうちに来るまでの間\n暇つぶしで漫画を読んでただけだよ name={user} 
+message text=じゃあ、もう芽衣が来たんだし\n芽衣に構って欲しいな～。漫画より\n芽衣とお喋りする方が楽しいよ～？ name=早坂芽衣 
+message text=スマホを置いて芽衣に構ってくれるまで\n{user}君の背中をぎゅーって\nするのやめないからね！　ぎゅーっ！ name=早坂芽衣 
+message text=ほらほら、早くスマホを置かないと\n芽衣がぎゅーってし過ぎて\n君がむぎゅーってなっちゃうよ～！ name=早坂芽衣 
+message text=俺がむぎゅーってなるってどんな状況なんだ\n……そういえば最近\n俺の背中によくくっついてるよな name={user} 
+message text={user}君に会うと嬉しくて\n大好きって気持ちがぶわーってなって\nすぐくっつきたくなっちゃうんだよね name=早坂芽衣 
+message text={user}君の背中は大きくて\n安心するんだ～。……なんでかな？\n何か部活とかやってたの？ name=早坂芽衣 
+message text=陸上をやってたんだ\n足を怪我して大会に出られなくなって……\n暇だったからこっちに来たんだ name={user} 
+message text=そっか……大変だったんだね…… name=早坂芽衣 
+message text=でも、こっちに来なかったら\n芽衣とは出会えてなかったし\n悪いことばかりじゃないと思うよ name={user} 
+message text=足の怪我もまだ完治はしてないけど\n普通に歩く分には問題ないし name={user} 
+message text=芽衣も{user}君と\n出会えて良かった\n怪我が治ったら、また陸上をやるの？ name=早坂芽衣 
+message text=今までみたいに走れるとは限らないし\n当分は勉強に専念するつもりだよ name={user} 
+message text=君の走る姿を見てみたかったけど\nリハビリとかもあるもんね\nしょうがないか～ name=早坂芽衣 
+message text=向こうに戻ったら少しずつリハビリは\n頑張るよ。どこまで元の走りに戻れるかは\n分かんないけど name={user} 
+message text=まだ悩んでいるけど……\nやっぱり俺はもう一度走りたいと思ってる name={user} 
+message text=わぁ～！　すっごくカッコいいんだろうな\nきっと、君のこともっと好きになっちゃうよ\n試合があったら絶対に応援に行くね！ name=早坂芽衣 
+message text=あぁ、ありがとう。頑張ってみるよ\n次の試合は十月頃かな name={user} 
+message text=あ、そっか……{user}君は\nそろそろ帰っちゃうのか……\n夏休み……終わっちゃうもんね…… name=早坂芽衣 
+message text=芽衣と会えなくなるって思うと\n寂しい気持ちになるな…… name={user} 
+message text=芽衣だってそうだよ\nこの一ヶ月、ずっと一緒だったんだから\n芽衣、君ともっとこうしていたいな…… name=早坂芽衣 
+message text=芽衣…… name={user} 
+message text={user}君と離れたくない……\nいつ向こうに帰るの？ name=早坂芽衣 
+message text=明後日の朝……だよ name={user} 
+message text=今日も入れてあと三日……\n……あはは、しんみりしちゃってごめんね\n残り三日、沢山思い出作ろう！ name=早坂芽衣 
+message text=（芽衣はそう言うと俺の背中から体を離し\n立ち上がった。そして、いつも通りの\n笑顔を見せ、俺の手を取った） name={user} 
+message text={user}君の夏休みは\n芽衣のものだからね！　最後まで一緒に\n遊んでもらうよ！　さぁ、行こう！ name=早坂芽衣 
+narration text=――夏休み終了まで残り二日 
+message text=明日向こうに帰るのに、夜遅く連れ出し\nちゃってごめんね！　あ、芽衣がいいよー\nって言うまで目は閉じてて！ name=早坂芽衣 
+message text=（夜、突然家に押しかけて来た芽衣に\n手を引かれるがまま、俺はどこかに\n連れて行かれていた） name={user} 
+message text=そろそろ目を開けてもいいか……？\nさすがに不安なんだが…… name={user} 
+message text=まだダメだよ！\nきっと{user}君も\nびーっくりするんだから！ name=早坂芽衣 
+message text=ここら辺でいいかな……\n{user}君\n目を開けていいよー！ name=早坂芽衣 
+message text=……？　うわぁ……凄い数の星だ……\n流れ星なんて初めて見たよ……\n流星群……か？ name={user} 
+message text=ふふっ、びっくりしたー？\nこっちでもここまで沢山流れ星が\n見えるのはめずらしいんだよ name=早坂芽衣 
+message text=流れ星の光が消える前に、お願い事を三回\n言うと叶うって言われてるの。でも芽衣\nそんなに早口言葉得意じゃないから…… name=早坂芽衣 
+message text=たーくさん流れ星があったらずーっと光は\n消えないでしょ？　そしたら、お願い事も\nしやすいかなーって思ったの！ name=早坂芽衣 
+message text=ふふっ、芽衣らしい考え方だな\n芽衣は流れ星に何をお願いするんだ？ name={user} 
+message text=えっとね……\n「{user}君とずっと\n一緒にいられますように」 name=早坂芽衣 
+message text=芽衣……{user}君に……\n恋、してるからね name=早坂芽衣 
+message text=大好きな人と一緒に見た方が\n芽衣の願い事が叶う気がしたんだもん name=早坂芽衣 
+message text=だから……{user}君と一緒に\n見たかったんだ name=早坂芽衣 
+message text=芽衣……\nじゃあ俺もしっかり流れ星に願わないとだな\n「芽衣とずっと一緒にいれますように」 name={user} 
+message text=えへへ、嬉しいな\n……あのさ、{user}君に\n一つだけ聞いてもいいかな？ name=早坂芽衣 
+message text=愛ちゃんが言ってたんだけど……\nえーっと、なんだっけ？\nそうそう！　遠距離恋愛！ name=早坂芽衣 
+message text={user}君が帰っちゃったら\n芽衣達は遠距離恋愛になっちゃうんでしょ？ name=早坂芽衣 
+message text=遠距離恋愛がどういう感じか\n想像つかないんだけど\n芽衣達、うまくやっていけるかなぁ？ name=早坂芽衣 
+message text=どれだけ距離が離れていても\n俺は芽衣のことを好きでいるよ\nだから、安心してほしい name={user} 
+message text=そっか……うん、そうだよね\n初めてだらけだから、不安になっちゃってた\nでも、君がそう言うなら安心だね！ name=早坂芽衣 
+message text=正直分からないけれど……\n遠距離で付き合っている恋人も沢山いるし\nなんとかなるんじゃないか？ name={user} 
+message text=う～ん、そういうのじゃなくて\n{user}君がどう思ってるのかを\n聞きたかったんだけどな～ name=早坂芽衣 
+message text=ねえねえ{user}君\nえっと……ぎゅーってしたい気分なんだけど\n背中に抱きついてもいいですか？ name=早坂芽衣 
+message text=ふふっ、ああもちろん\nでも、こういう時って自然に\n抱きついてくるもんじゃないのか？ name={user} 
+message text=ええーっ、そうなのー！？\nだって、この前抱きついた時は\n一言声掛けてって言ったじゃん！ name=早坂芽衣 
+message text=でも、もういいって言われたから\n抱きつくもんね！　えいっ！　ぎゅーっ！\nはぁ～、やっぱり落ち着くな～ name=早坂芽衣 
+message text=芽衣、{user}君のこと\nずーっと、ずーっと好きでいるから\n絶対に遠距離恋愛なんかに負けないよ！ name=早坂芽衣 
+narration text=――夏休み終了まで残り一日 
+message text=（実家に戻る日、芽衣は朝早くから\n俺の見送りに来てくれていた\n芽衣の学校は今日から新学期らしい） name={user} 
+message text=あっという間だったね！\nもっと沢山遊びたかったよ～\n……もう少しだけ、こっちに残らない？ name=早坂芽衣 
+message text=俺もそうしたいけど\n明日から学校だから難しいな name={user} 
+message text=あはは、そうだよね～\n忘れ物はない？　大丈夫？\nなんかあったら芽衣が取って来るよ name=早坂芽衣 
+message text=あ、でも忘れ物があったら\n{user}君がこっちに戻って\nくるのか。じゃあ忘れ物はそのままで…… name=早坂芽衣 
+message text=大丈夫。忘れ物なんてなくても\n冬休みになったら会いに来るから\nまたすぐに会えるよ name={user} 
+message text=芽衣こそ今日から新学期だろ？\n忘れ物しないように気を付けるんだぞ name={user} 
+message text=芽衣は……もう、一杯あるよ、忘れ物\n夏休みに{user}君と\nやりたかったのに、やり忘れちゃったこと name=早坂芽衣 
+message text=……あ、バスが来たみたい\nそれじゃあ、ばいばい！　また遊びに来てね\nばい……ばい……っ、ぅぅ…… name=早坂芽衣 
+message text=め、芽衣！？　泣いてるのか！？ name={user} 
+message text=ご……ごめんね\n笑顔でバイバイしようと\n思ってたんだけど…… name=早坂芽衣 
+message text=うぅ、やだよぉ……。もっと一緒に\nいたいよぉ……。{user}君と\n離れたくないよぉ…… name=早坂芽衣 
+message text=……また会いに来るから\n待っていてくれ name={user} 
+message text=……うん、芽衣、待ってるから\n約束だよ？ name=早坂芽衣 
+message text=もちろんだ\n絶対にまた、ここに帰ってくるよ name={user} 
+message text=（こうして、高一の夏は終わった\n俺がバスに乗った後も芽衣は姿が見えなく\nなるまで、いつまでも手を振っていた） name={user} 

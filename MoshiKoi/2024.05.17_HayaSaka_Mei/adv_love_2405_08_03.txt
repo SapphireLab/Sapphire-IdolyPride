@@ -1,0 +1,26 @@
+narration text=――大学一年生　春 
+message text=（地元へと戻った俺は部活と勉強に\n忙殺され、気づけば芽衣への\n連絡を怠っていた） name={user} 
+message text=（芽衣から連絡はきていたが\n返信を後回しにする内に\n気づけば高校生活が終わっていた） name={user} 
+message text=（そして大学へと進学した俺は\nサークルの新歓に参加した帰り道\n見知った人物に遭遇した） name={user} 
+message text=あっ、もしかして{user}君？\nこんなところで会うなんてびっくりだ～\n全然変わってないね name=早坂芽衣 
+message text=あれ……？　芽衣……？\nまさかこっちに出て来てたなんて……\nそっちの方が驚きだよ name={user} 
+message text={user}君が過ごしてる場所が\nどんな所なのかずっと気になってたんだ～ name=早坂芽衣 
+message text=だから一生懸命勉強して\nこっちの大学に進学したんだよ name=早坂芽衣 
+message text=そ、そうだったのか\n連絡くらいくれれば…… name={user} 
+message text=ふふっ、何回かしたけどね\nところで{user}君は\n今までどうしていたの？ name=早坂芽衣 
+message text=俺は、ずっと部活と勉強をしてたよ\nそれで、忙しくて…… name={user} 
+message text=（俺の怠慢で関係を断つことに\nなってしまった芽衣に\n俺はいったい何を言うべきだろうか） name={user} 
+message text=連絡出来なくて、ごめん name={user} 
+message text=いいよ、もう気にしてないから\n{user}君も\n忙しかったんだもんね name=早坂芽衣 
+message text=久しぶりに会ったんだしさ\n今度また一緒に遊ばないか？ name={user} 
+message text=あー……うん、そうだね\n今はちょっと忙しくて……君の時間が\nある時にメッセージを送って欲しいな name=早坂芽衣 
+message text=それじゃあ、お友達が呼んでるから\n芽衣はそろそろ行くね！\nまたね、{user}君！ name=早坂芽衣 
+message text=（あれから何度か芽衣にメッセージを送ろう\nと思ったが、返信が来ないかもしれないと\n考えると送信ボタンは押せなかった） name={user} 
+message text=なぁ……俺がまだお前のことを\n好きだって言ったら、どうする？ name={user} 
+message text=芽衣、お前って言われるのやだな\nちゃんと芽衣って名前で呼んで欲しい name=早坂芽衣 
+message text=ご、ごめん……\n俺がまだ芽衣のことを好きだとしたら…… name={user} 
+message text=芽衣も好きだよ\n{user}君は大事な友達だもん\n友達として、大好きだよ name=早坂芽衣 
+message text=そうか……そう、だよな\nごめん、変なこと言って\n気にしないでくれ name={user} 
+message text=それじゃ、芽衣は帰り道こっちだから\nバイバイ、{user}君 name=早坂芽衣 
+message text=ああ、またな…… name={user} 
+message text=（あれから何度か芽衣にメッセージを\n送ったが返信が返ってくることも\n既読が付くこともなかった） name={user} 

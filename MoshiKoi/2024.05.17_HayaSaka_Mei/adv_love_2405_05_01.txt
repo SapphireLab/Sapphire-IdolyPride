@@ -1,0 +1,68 @@
+narration text=――夏休み終了まであと七日 
+message text=（いつも芽衣に迎えに来てもらってるし\nたまには俺が迎えに行ってもいいよな……\nと思って家を出てみたが……） name={user} 
+message text=（でも、いきなり家まで押しかけたら\n迷惑かな……？　ここら辺で\n芽衣が来るのを待ってるか……？） name={user} 
+message text=（よし、ここまで来たし芽衣の家まで\n迎えに行ってみよう！） name={user} 
+message text={user}君、おはよ～\n道の真ん中でうろうろしてどうしたの？ name=早坂芽衣 
+message text=別に、大したことじゃない\n芽衣を迎えに行こうと思って……\n……って、わぁっ！　芽衣！？ name={user} 
+message text=そうなんだ～\n{user}君、そんなに悩むくらい\n芽衣に会いたかったの？ name=早坂芽衣 
+message text=ああ、会いたかったよ\n芽衣は会いたくなかったのか？ name={user} 
+message text=そっかー！　嬉しいな～\n芽衣もね、{user}君に早く\n会いたかった！ name=早坂芽衣 
+message text={user}君が芽衣を迎えに\n来てくれるのも新鮮でいいね name=早坂芽衣 
+message text=芽衣がここに来る時は\nいつも途中の駄菓子屋さんで\n寄り道しそうになっちゃうし…… name=早坂芽衣 
+message text=（突然知らないやつが家まで押しかけたら\n芽衣の家族も驚くよな……\n大人しく家に戻ろう） name={user} 
+message text=おーい、{user}君～！\nこんな所で会うなんて偶然だね！\nちょうど迎えに行こうと思ってたんだ～！ name=早坂芽衣 
+message text=ここにいるってことは……\nもしかして駄菓子屋さんに\n行こうとしてたの？ name=早坂芽衣 
+message text=いや、芽衣を……なんでもない name={user} 
+message text=あ、駄菓子屋さんで思い出したんだけど\n新しいアイスがあるんだって！\nさっきお店の前に張り紙が出てたよー！ name=早坂芽衣 
+message text=芽衣、気になってたんだよね\n……そうだ！\nどっちが当たりを引けるか勝負しようよ！ name=早坂芽衣 
+message text=新しいアイスか……確かに気になるな name={user} 
+message text=でしょでしょー！？\nアイスも食べられて勝負も出来る\n凄くいいアイディアだと思うんだ～ name=早坂芽衣 
+message text=それじゃ、早速行こうよ！\n売り切れちゃう前に買わないと name=早坂芽衣 
+narration text=――駄菓子屋 
+message text=新しいアイスはこれか～。うーん……\nでもこっちも美味しそう、あ、これも……\nどれにしようかなぁ…… name=早坂芽衣 
+message text=食べきれるんだったら、好きなの全部\n選んでいいよ。ここは俺が奢るから name={user} 
+message text=え、それは嬉しいけど……いいの？ name=早坂芽衣 
+message text=これぐらい大した出費じゃないし name={user} 
+message text=そっか～、じゃあお言葉に甘えるね\nありがと～！　新作のこれと～……\nこの当たり付きアイスにする！ name=早坂芽衣 
+message text=俺は先に買ったからベンチで待っとくよ\n買い過ぎには気を付けるんだぞ name={user} 
+message text=分かった！　二個だけにする！\n暑さで溶けちゃわないように\n気を付けてね！ name=早坂芽衣 
+message text=（……ここは奢ると言った方が\nカッコ良かったんじゃ……？） name={user} 
+message text=（……失敗したかな） name={user} 
+message text=わっ、美味しそ～。溶ける前に早く\n食べちゃおー！　あむっ……んんっ～！\n頭がキーンってする～……！ name=早坂芽衣 
+message text=焦らなくてもアイスは逃げないって name={user} 
+message text=溶けちゃったらもったいないでしょー！\n一つ目は……あーあ、はずれだ～\n{user}君も早く食べて！ name=早坂芽衣 
+message text=二本目は当たりますように！\n{user}君が食べ終わっても\nまだ当たりかはずれかは言わないでね！ name=早坂芽衣 
+message text=ああ、分かったよ\n一緒に確認しよう name={user} 
+message text=美味しかった～。二本目、食べ終わったよ！\nせーの、で当たりかはずれか言おうね\nいくよー、せーのっ！ name=早坂芽衣 
+message text=俺ははずれだったよ name={user} 
+message text=芽衣はねー、ほら、当たり～！\nということは、芽衣の勝ちだね！\n何を命令しようかなー name=早坂芽衣 
+message text=そうだ！\n芽衣に十秒間くすぐられるってのはどう？ name=早坂芽衣 
+message text=それは命令というよりも\n罰ゲームなんじゃないか……？ name={user} 
+message text=いいからいいから！\nじゃあ、いっくよー！\nこちょこちょこちょ…… name=早坂芽衣 
+message text=ちょっ、待てって……あははは！\nお、おい、横腹は弱い……わぁっ！\nごめんっ！ name={user} 
+message text=（くすぐられて体勢を崩してしまった俺は\n芽衣の上に覆いかぶさるように\n倒れてしまった） name={user} 
+message text=う、うん。芽衣は大丈夫だよ\nそ、そんなことより\nそろそろどいてほしいかなーって name=早坂芽衣 
+message text=あ、ご、ごめん！\n……これでよしと name={user} 
+message text=え、えっと、じゃあ芽衣は追加で\nアイスを買ってくるよ！\n次も芽衣が勝つんだからねー！ name=早坂芽衣 
+message text=（思わぬアクシデントだったけど\n少しは照れてくれたのかな……\nやはり簡単にはいかないよな） name={user} 
+message text=俺は当たりだったよ\n芽衣はどうだった？ name={user} 
+message text=うっ……芽衣はね……はずれだった\nあーあ、負けちゃったよ～\n{user}君、命令は何にする？ name=早坂芽衣 
+message text=（俺はどんな命令をすればいいんだ！？\nここでもう一度芽衣に気持ちを伝えるのも\n違う気がするし……） name={user} 
+message text=芽衣に出来ることだったらなんでもいいよ！\n例えば、最近芽衣が発見した\n新しいドーナツの食べ方を教える～とか！ name=早坂芽衣 
+message text=そうだな……じゃあ、残りの芽衣の夏休み\n全部俺にくれないか？\n毎日俺と一緒に過ごして欲しい name={user} 
+message text=え……{user}君がいいなら\nいいけど……\nでも、芽衣は命令なんてされなくても…… name=早坂芽衣 
+message text=ありがとう。夏休みはもう後少しだけど\n絶対に芽衣に恋を教えてみせるから\n俺の好きを分かってもらえるように頑張るよ name={user} 
+message text=……っていうことがあったの\n愛ちゃん、どう思う？ name=早坂芽衣 
+message text=きゃーっ！　{user}君って\n芽衣ちゃんが花火大会に一緒に\n行ってた子だよね？　告白はもうされたの？ name=小美山愛 
+message text=告白って言うか……随分前に好きとは言われ\nたけど、芽衣は恋とかよく分かんなくて……\nこれって告白なのかな？ name=早坂芽衣 
+message text=芽衣ちゃん、それ、絶対に告白だから！\n確か……花火大会の時、恋を教えて\nもらってるって言ってたよね name=小美山愛 
+message text=うん！　お返事をするために勉強中なんだ\nでも最近は{user}君といると\nなんだかすっごく楽しいんだよね name=早坂芽衣 
+message text=この前の花火大会ぐらいからかな？\nなんだか{user}君のことばかり\n考えちゃって…… name=早坂芽衣 
+message text={user}君\n今何してるかな～とか\nこれ好きそうだな～とか name=早坂芽衣 
+message text={user}君のことを考えてると\nぽわぽわするっていうか……\n変な気持ちにもなるんだよね name=早坂芽衣 
+message text=あの、芽衣ちゃん？　それってもしかして\n……恋なんじゃない？ name=小美山愛 
+message text=恋？　芽衣が{user}君に？\nえぇぇ！？\n……うーん、そうなのかな～ name=早坂芽衣 
+message text=自分のことなのに全然分かんないや\nでも、{user}君以外の人を\n考えてもぽわぽわしないんだよね～ name=早坂芽衣 
+message text=やっぱり恋だと思うな……\nもしかして、これって芽衣ちゃんの初恋！？\nなんだかキュンキュンしちゃうな name=小美山愛 
+message text=……そっか、これが恋なんだねー\n{user}君の言ってた通りだ\nずっとその人のことを考えちゃう…… name=早坂芽衣 
+message text=うぅ……芽衣、明日から\n{user}君の顔、ちゃんと\nまっすぐ見られるかな～？ name=早坂芽衣 

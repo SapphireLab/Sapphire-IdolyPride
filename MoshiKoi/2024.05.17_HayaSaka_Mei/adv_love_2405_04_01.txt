@@ -1,0 +1,72 @@
+narration text=――夏休み終了まであと十二日 
+message text=暑い日のアイスは最高だね～\n友達と喋りながら一緒に食べるアイスが\n一番好きだな～ name=早坂芽衣 
+message text=（俺はまだ芽衣にとっての『友達』か……\n何か距離が縮まるようないいきっかけが\nあればいいんだけど……） name={user} 
+message text=（芽衣に恋を教えることになってから数日が\n過ぎた。自分から手を繋いでみたり俺なりに\n頑張ってはいるものの特に進展はない） name={user} 
+message text=あ、{user}君、見て見て～！\n花火大会のポスターが貼ってある！\n毎年愛ちゃんと一緒に行ってるんだよね～ name=早坂芽衣 
+message text=花火大会……そうか、その手があった\n芽衣！　その花火大会なんだけど……\n俺と一緒に……二人で行かないか？ name={user} 
+message text=わぁー！　いいね！　せっかくだから\n愛ちゃんも誘って三人で行こう！\n屋台も沢山出るし楽しいんだよ～ name=早坂芽衣 
+message text=そ、そうだな\n人数が多い方が盛り上がるし……！\n花火大会、楽しみにしてるよ name={user} 
+narration text=――夏休み終了まであと十日　花火大会 
+message text=ごめんね、{user}君\n愛ちゃん、今年は家族と行くんだって\nだから今日は芽衣と二人で楽しもう！ name=早坂芽衣 
+message text=（確か小美山さんと芽衣は毎年一緒に\n花火大会に行ってるって言ってたよな……\nもしかして気を遣って……） name={user} 
+message text=ねぇねぇ、{user}君\n手、出して。屋台回る時に\nはぐれたらヤダから、繋ごう？ name=早坂芽衣 
+message text=あ、ああ、そうだな name={user} 
+message text=（いつもドキドキしているのは俺だけ\nなんだよな……。今日の花火大会で\n芽衣にも俺の好きが伝わるといいな） name={user} 
+message text=まずは何しよう～。ご飯を食べる前に少し\n遊びたいよね。{user}君は\n何かやりたいのある～？ name=早坂芽衣 
+message text=そうだな～。射的とかどうだ？\n地元のお祭りではよくやってたな name={user} 
+message text=射的かぁ……芽衣、苦手なんだよね\n今まで一回も景品もらえたことないんだ～ name=早坂芽衣 
+message text=そっか\nじゃあ射的はやめて金魚すくいとか…… name={user} 
+message text=ううん！　芽衣、射的やりたい！\n{user}君が教えてくれたら\n出来る気がする！　さあ、れっつごー！ name=早坂芽衣 
+narration text=――射的屋 
+message text=ううぅ……全然当たんないよ～……\nこれで最後の一発……\nせっかくコツを教えてくれたのにごめんね name=早坂芽衣 
+message text=狙いを定めて……\n{user}君\nこれで狙い方あってる？ name=早坂芽衣 
+message text=いや、ブレてる。もう少し体を右にして……\n景品の角の方を狙った方が\n落ちやすいかもしれないな name={user} 
+message text=右……？　うーん……こんな感じかな……？\nどう？　芽衣、ちゃんと出来てる？\n自分では分かんないや…… name=早坂芽衣 
+message text=（俺は芽衣の後ろに回り彼女が握っている\n銃に自分の手を重ねた。俺の鼓動の速まりは\n芽衣に気が付かれていないだろうか） name={user} 
+message text=わぁ！　{user}君が\n支えてくれたら銃が安定したよ！\n君と一緒だったら当てられる気がする！ name=早坂芽衣 
+message text=芽衣、俺じゃなくてしっかり的を見て\n俺がせーのって言ったら撃つんだ\nせーの……！ name={user} 
+message text=あー楽しかった！　君のおかげで\n芽衣、初めて射的で景品をゲット\n出来たよ～！　ありがとう！ name=早坂芽衣 
+message text=コツを掴んだら、すぐ上手になるよ\n芽衣に少しはいいところを\n見せられたかな？ name={user} 
+message text=ん？　君はいつでもいい人だよ！\nあ、あの子が着てる浴衣\nアジサイ柄で可愛いな～ name=早坂芽衣 
+message text=芽衣は浴衣、着ないのか？ name={user} 
+message text=小さい頃は着てたけど、動き辛いし……\nそれに、浴衣って可愛過ぎるから\n芽衣にはちょっと似合わないと思うな name=早坂芽衣 
+message text=そんなことない、絶対似合うよ！　浴衣を\n着た芽衣は、きっと可愛い……と思う。いや\n浴衣じゃなくても可愛いんだけど、その…… name={user} 
+message text=か、可愛いなんて初めて言われたよ……\nありがと、嬉しい name=早坂芽衣 
+message text={user}君が\nそう言ってくれるなら……\n来年は……芽衣も浴衣、着てみようかな name=早坂芽衣 
+message text=いいと思う。俺も芽衣の浴衣姿見たいし……\n来年も一緒に―― name={user} 
+message text=あぁーーっ！　あそこで焼きそばに\n並んでるの愛ちゃんじゃない！？\n{user}君、行くよ！ name=早坂芽衣 
+message text=ちょ、人混みを走ると危ないって！ name={user} 
+message text=やっぱり愛ちゃんだ！\n一人で焼きそばに並んでるの～？\nそれなら芽衣達と一緒に遊ぼうよ！ name=早坂芽衣 
+message text=こ、こんばんは！\nか、家族はあっちにいるから\n全然一人じゃないよ！ name=小美山愛 
+message text=そっか～、それなら仕方ないね\n芽衣達も焼きそば食べる？\nでも、たこ焼きもお好み焼きも気になるなぁ name=早坂芽衣 
+message text=いつもみたいに半分ずつ食べるか\nそっちの方が沢山食べれるし name={user} 
+message text=そうだね！　そうしよう！\nじゃあ、芽衣、りんご飴も食べたい！ name=早坂芽衣 
+message text=……二人はすっごく仲いいんですね\nもしかして……\n芽衣ちゃんと付き合ってたり……？ name=小美山愛 
+message text=いや、そういう訳じゃないよ\nまだ、ただの友達かな name={user} 
+message text={user}君は芽衣に恋を教えて\nくれてるの。でも、まだあんまり分から\nなくて。愛ちゃんは恋って分かる？ name=早坂芽衣 
+message text=わ、私もそんなに分かんないかなぁ\nだけど……せっかくのデートを邪魔する\n訳にはいかないよね name=小美山愛 
+message text=では、私はこの辺で\nこの後の花火はお祭りの目玉なので\n最後まで楽しんでいって下さい name=小美山愛 
+message text=愛ちゃんばいばーい！　芽衣達も食べ物\n買って花火の見えやすい所に移動しよっか\nそれともここら辺で見る～？ name=早坂芽衣 
+message text=人も多いしここからだと花火は\n少し見にくいかもしれないな name={user} 
+message text=それならおすすめの場所があるよ！\n花火が凄く見やすい場所なんだ～\n芽衣が案内してあげる！ name=早坂芽衣 
+message text=お願いしようかな\nせっかく見るなら\n見やすい方がいいだろうし name={user} 
+message text=任せて～！　芽衣達お気に入りの\n場所だから、きっと気に入るはずだよ～！ name=早坂芽衣 
+message text=この先にちょっとした丘があるんだ～\nわりと穴場なんだよ？ name=早坂芽衣 
+message text=愛ちゃんとお祭りに来た時は\nいつもそこで花火を見てるんだけど……\nきゃっ！ name=早坂芽衣 
+message text=芽衣！　だ、大丈夫か？\n怪我はないか？ name={user} 
+message text=大丈夫。ちょっと躓いちゃっただけだよ\n支えてくれてありがと……いたっ\nえへへ……ちょっと足を挫いちゃったみたい name=早坂芽衣 
+message text=でも全然歩けるから大丈夫！\n早く行かないと花火が始まっちゃうよ～\nここの坂道を登ればすぐだから！ name=早坂芽衣 
+message text=そうか。じゃあ、急いで登ろう！\nくれぐれも、無理はするなよ？ name={user} 
+message text=大丈夫って言ってるでしょ～\n山道は慣れてるからね\n……わぁ、花火始まっちゃったね name=早坂芽衣 
+message text=綺麗だな……ここからでも良く見えるし\n上まで登るのはやめておこうか name={user} 
+message text=うん……そうだね\nもし、また来年一緒に\n見ることが出来たら……芽衣と…… name=早坂芽衣 
+message text=（芽衣はそっと俺の手を握り\n何か言った気がしたが\nその声は花火の音でかき消された） name={user} 
+message text=それなら俺が背負っていくよ name={user} 
+message text=え？　で、でも、{user}君は\n足を怪我してるし……\n無理しちゃダメだよ name=早坂芽衣 
+message text=これぐらいなら平気だよ\nそれに、芽衣をこのまま歩かせる訳にも\nいかないだろ。ほら、背中に乗って name={user} 
+message text=……ありがと、{user}君\nじゃあ……お願いします……よいしょっと\nちゃんと乗ったけど、重くない？　大丈夫？ name=早坂芽衣 
+message text=落ちないようにしっかり掴まっていてくれ\nこの先を進めばいいんだよな？ name={user} 
+message text=うん、そっちで大丈夫\n……{user}君の背中\nおっきいね。安心するなぁ…… name=早坂芽衣 
+message text=あ、花火……始まっちゃった\nごめんね？　芽衣が怪我してなければ\nいい場所で見られたのに name=早坂芽衣 
+message text=芽衣と一緒に花火を見られるだけで\n俺は満足だよ name={user} 
+message text=芽衣も、{user}君と一緒に\n花火を見られて、嬉しいな…… name=早坂芽衣 

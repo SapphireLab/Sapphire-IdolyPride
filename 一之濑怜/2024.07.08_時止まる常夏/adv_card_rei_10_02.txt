@@ -1,0 +1,110 @@
+title title=一ノ瀬怜 2話 冷たくて気持ちいい
+narration text=――ジャングル探検ロケ、当日 
+message text=飛行機と船を乗り継いで、ようやく島に到着か…… name={user} 
+message text=ここまで来るだけで疲れたよ name={user} 
+message text=何言ってるんですか、ロケはここからが本番ですよ name=一ノ瀬怜 
+message text=しゃきっとして下さい name=一ノ瀬怜 
+message text=怜は驚くほどいつも通りだな name={user} 
+message text=これから過酷なロケに挑むようには見えないぞ name={user} 
+message text=この間まで無人島でサバイバルしてましたから name=一ノ瀬怜 
+message text=今更この程度で動じたりしません name=一ノ瀬怜 
+message text=それに、今回はスタッフやガイドの方も一緒だし name=一ノ瀬怜 
+message text=水や食べ物も最初から用意してあるので気が楽です name=一ノ瀬怜 
+message text=それは今回が楽と言うより name={user} 
+message text=前回のサバイバルの環境が厳し過ぎただけなんじゃ…… name={user} 
+message text=確かに無人島の環境は厳しかったですけど、それ以上に name=一ノ瀬怜 
+message text=みんなが自由過ぎて収拾がつかない方が大変でした name=一ノ瀬怜 
+message text=前もそんなことを言っていたが name={user} 
+message text=さくら達はそんなにはしゃいでいたのか？ name={user} 
+message text=それはもう！　さくらは無邪気に悪気なく name=一ノ瀬怜 
+message text=毒キノコや酸っぱい木の実ばかり集めてくるし…… name=一ノ瀬怜 
+message text=雫は隙あらば持参したカメラで、みんなの name=一ノ瀬怜 
+message text=プライベートショットを撮影しようとするし…… name=一ノ瀬怜 
+message text=千紗は夜寝る前にいきなり name=一ノ瀬怜 
+message text=『無人島で本当にあった怖い話』をし始めるし…… name=一ノ瀬怜 
+message text=一番頼りにしていた遙子さんが name=一ノ瀬怜 
+message text=誰よりも率先してボケてくるし…… name=一ノ瀬怜 
+message text=遙子さんはバラエティの仕事が多いから name={user} 
+message text=つい笑いを取りにいきたくなるのかもしれないな name={user} 
+message text=バラエティに馴染み過ぎです！　遙子さんまでボケ name=一ノ瀬怜 
+message text=始めたら止める人間が私しかいなくなるじゃないですか name=一ノ瀬怜 
+message text=サニピはみんな陽気で、自由奔放で…… name=一ノ瀬怜 
+message text=しっかりしてるのが私しかいないんですから name=一ノ瀬怜 
+message text=（そういう怜も意外と天然だけどな……） name={user} 
+message text=まったく、みんな世話が焼けるんだから…… name=一ノ瀬怜 
+message text=私がいなかったらどうなっていたことか name=一ノ瀬怜 
+message text=（そう言いつつ、みんなのことを話す時の怜は） name={user} 
+message text=（凄く楽しそうな顔をしているんだよな） name={user} 
+message text=（なんだかんだ言いながら、怜もみんなとの） name={user} 
+message text=（無人島生活を満喫したようで良かった） name={user} 
+message text=あ、そろそろ出発するみたいですね name=一ノ瀬怜 
+message text=ジャングルに入るので、しっかりついて来て下さい name=一ノ瀬怜 
+message text=……そういえば、{user}さんの服装 name=一ノ瀬怜 
+message text=スーツと革靴ですけど大丈夫なんですか？ name=一ノ瀬怜 
+message text=心配いらないよ name={user} 
+message text=こう見えて体力には結構自信があるんだ name={user} 
+narration text=――数時間後 
+message text=はぁ、はぁ、はぁ…… name={user} 
+message text=ちょ、ちょっと休憩しないか……？ name={user} 
+message text=だらしないですよ name=一ノ瀬怜 
+message text=さっきまでの威勢の良さはどこにいったんですか name=一ノ瀬怜 
+message text=まったく……はい、お水です。脱水症状に気をつけて name=一ノ瀬怜 
+message text=こまめに水分を補給して下さいね name=一ノ瀬怜 
+message text=ああ、ありがとう name={user} 
+message text=それにしてもジャングルは湿度が高いんだな name={user} 
+message text=さっきから汗が止まらなくて name={user} 
+message text=早く家に帰ってシャワーを浴びたい気分だよ name={user} 
+message text=気持ちは分かります。私も無人島でサバイバルした時 name=一ノ瀬怜 
+message text=同じようなことを思いました name=一ノ瀬怜 
+message text=潮風で髪はべたつくし、いかだ作りで汗だくになるしで name=一ノ瀬怜 
+message text=体を洗いたくてたまりませんでした name=一ノ瀬怜 
+message text=そんな時、いかだの材料集めで島を歩き回っていて name=一ノ瀬怜 
+message text=偶然、湖を見つけたんです name=一ノ瀬怜 
+message text=その時も水着だったし name=一ノ瀬怜 
+message text=水底が見えるくらい、綺麗に澄んでいたから、つい…… name=一ノ瀬怜 
+message text=……飛び込んだんだな name={user} 
+message text=はぁ……水が冷たくて気持ちいい…… name=一ノ瀬怜 
+message text=～～♪ name=一ノ瀬怜 
+message text=外で水浴びするなんて初めてだけど name=一ノ瀬怜 
+message text=こういうのも夏っぽくていいわね name=一ノ瀬怜 
+message text=それにしても泳げそうなくらい大きな湖だわ name=一ノ瀬怜 
+message text=泳げそうなくらい…… name=一ノ瀬怜 
+message text=今は水着だし、少しくらいハメを外してもいいわよね？ name=一ノ瀬怜 
+message text=うふふ…… name=一ノ瀬怜 
+message text=はっ！　今、草むらが動いたような……誰かいるの？ name=一ノ瀬怜 
+message text=……えっ、さくら！？　それにみんなも？ name=一ノ瀬怜 
+message text=違うの、これはサボっていた訳じゃなくて…… name=一ノ瀬怜 
+message text=えっ、水浴びしてはしゃいでいる私が可愛かった？ name=一ノ瀬怜 
+message text=うぅ…… name=一ノ瀬怜 
+message text=恥ずかしいからそんなにジロジロ見ないで…… name=一ノ瀬怜 
+message text=なるほど。水浴びをしながら気持ち良く name={user} 
+message text=鼻歌を歌っているところをみんなに見られたのか name={user} 
+message text=あの時は凄く恥ずかしかったです…… name=一ノ瀬怜 
+message text=しかもその後、みんなも湖に飛び込んで、水浴びしたり name=一ノ瀬怜 
+message text=泳いだり、ばしゃばしゃ水を掛け合ったりして…… name=一ノ瀬怜 
+message text=そのせいで、いかだ作りのスケジュールが name=一ノ瀬怜 
+message text=予定より遅れることになったんですよ name=一ノ瀬怜 
+message text=たかが水遊びであんなにはしゃぐなんて name=一ノ瀬怜 
+message text=みんな子供ですよね name=一ノ瀬怜 
+message text=そういう怜も一緒になって遊んだんだろ？ name={user} 
+message text=う……そ、それより、そろそろ絶景スポットに name=一ノ瀬怜 
+message text=着く頃ですよね？　絶景はまだ見えないんでしょうか name=一ノ瀬怜 
+message text=ごまかしたな…… name={user} 
+message text=だが、確かにそれらしい景色は見当たらないな name={user} 
+message text=あら？　前を歩いていたガイドさんが name=一ノ瀬怜 
+message text=近くにある洞窟を指差して何か言ってますね name=一ノ瀬怜 
+message text=ガイドから話を聞いてきたんだが name={user} 
+message text=どうやら洞窟の中に絶景スポットがあるらしい name={user} 
+message text=この洞窟、人一人がやっと通れるくらいの狭さですね name=一ノ瀬怜 
+message text=中は真っ暗で何も見えません name=一ノ瀬怜 
+message text=狭い洞窟だから、大人数では入れないそうだ name={user} 
+message text=残念だが、俺が同行出来るのはここまでだな name={user} 
+message text={user}さんは name=一ノ瀬怜 
+message text=一緒に行ってくれないんですか？ name=一ノ瀬怜 
+message text=もしかして洞窟に入るのが怖いのか？ name={user} 
+message text=暗い所が苦手なんて、怜は怖がりだな name={user} 
+message text=こ、怖くなんかありません！　私は一人でも平気です！ name=一ノ瀬怜 
+message text=むしろ一人の方が気が楽です！ name=一ノ瀬怜 
+message text=見ていて下さい、ささっと行って帰って来ますから name=一ノ瀬怜 
+message text=……だから、ちゃんと待ってて下さいね name=一ノ瀬怜 
+message text=先に帰ったりしたら許しませんから name=一ノ瀬怜 

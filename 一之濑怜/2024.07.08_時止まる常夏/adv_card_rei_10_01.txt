@@ -1,0 +1,82 @@
+title title=一ノ瀬怜 1話 怜のジャングル探検
+narration text=――サニーピースが無人島ロケを終えて、数日後 
+message text=はぁ…… name=一ノ瀬怜 
+message text=顔色が冴えないが name={user} 
+message text=無人島ロケの疲れがまだ取れないのか？ name={user} 
+message text=はい…… name=一ノ瀬怜 
+message text=無人島でのサバイバルは本当に過酷でしたから name=一ノ瀬怜 
+message text=無理をさせてしまったようで、すまなかった name={user} 
+message text=さくら達からも話は聞いているよ name={user} 
+message text=そんな、謝らないで下さい name=一ノ瀬怜 
+message text=あの番組に参加したいと言ったのは私達ですから name=一ノ瀬怜 
+message text=ただ、体力的にきつかったのはもちろんですが name=一ノ瀬怜 
+message text=それ以上に精神的な負担が大きかったので…… name=一ノ瀬怜 
+message text=無人島での不便な生活がそんなにストレスだったのか？ name={user} 
+message text=それもありますが、一番の原因は name=一ノ瀬怜 
+message text=無人島にいる間、ずっと撮影されていたことです name=一ノ瀬怜 
+message text=カメラで常に見られていると思うと name=一ノ瀬怜 
+message text=気が休まる暇がなくて…… name=一ノ瀬怜 
+message text=そういうことか……。撮影されていると思うと name={user} 
+message text=番組を意識しない訳にはいかないよな name={user} 
+message text=そうなんです！　みんなカメラの前だと番組を意識して name=一ノ瀬怜 
+message text=場を盛り上げようと張り切って大変だったんです！ name=一ノ瀬怜 
+message text=笑いを取ろうとして、ボケまくって、悪ノリして…… name=一ノ瀬怜 
+message text=大喜利大会を毎回止める私の身にもなって下さい！ name=一ノ瀬怜 
+message text=そ、そうか…… name={user} 
+message text=ちょっと俺の想像とは違うストレスだったな name={user} 
+message text=いろいろ苦労もあったみたいだが name={user} 
+message text=怜の奮闘は無駄じゃなかったぞ name={user} 
+message text=実は無人島の番組でお世話になったプロデューサーから name={user} 
+message text=怜に仕事のオファーがきているんだ name={user} 
+message text=サニピにではなく私個人にですか？ name=一ノ瀬怜 
+message text=無人島で頑張る怜を見て name={user} 
+message text=この子とまた一緒に仕事がしたいと思ったそうだ name={user} 
+message text=そうですか……。私の頑張りをちゃんと見て name=一ノ瀬怜 
+message text=評価してくれている人がいたんですね name=一ノ瀬怜 
+message text=仕事の内容は、アイドルが世界各地にある name={user} 
+message text=素晴らしい絶景を紹介するロケ番組で…… name={user} 
+message text=やります！　そういう素敵なロケならぜひ！ name=一ノ瀬怜 
+message text=今ここで決めなくてもいいんだぞ？ name={user} 
+message text=もっと詳しい話を聞いてからでも…… name={user} 
+message text=数あるアイドルの中から、私を指名してくれたんです name=一ノ瀬怜 
+message text=その期待に応えない訳にはいきません name=一ノ瀬怜 
+message text=ぜひオファーを受ける方向で話を進めて下さい name=一ノ瀬怜 
+message text=それだけやる気があるなら大丈夫か…… name={user} 
+message text=分かった、先方にはそう返事をしておくよ name={user} 
+message text=ありがとうございます name=一ノ瀬怜 
+message text=どんな絶景が見られるのか、今からロケが楽しみです name=一ノ瀬怜 
+narration text=――数日後 
+message text={user}さん！ name=一ノ瀬怜 
+message text=ロケの企画書を見ましたけど、どういうことですか！ name=一ノ瀬怜 
+message text=番組の内容が『人気アイドルが幻の絶景スポットを name=一ノ瀬怜 
+message text=求めて未開のジャングルに挑む』って…… name=一ノ瀬怜 
+message text=私が南の島のジャングルを探検するんですか！？ name=一ノ瀬怜 
+message text=こんな内容だなんて聞いてません！ name=一ノ瀬怜 
+message text=そう言われても、詳しい話を聞く前に name={user} 
+message text=怜がオファーを受けたんじゃないか name={user} 
+message text=そ、それはそうですけど…… name=一ノ瀬怜 
+message text=どうしてもやりたくないのなら name={user} 
+message text=仕事を断ることも出来るが…… name={user} 
+message text=それは嫌です。一度引き受けたのに怖じ気づいて name=一ノ瀬怜 
+message text=断るなんて、逃げたみたいで格好悪いじゃないですか name=一ノ瀬怜 
+message text=相変わらず負けず嫌いだな。そんなに心配しなくても name={user} 
+message text=今回は無人島の時ほど大変じゃないよ name={user} 
+message text=誰よりも頑張り屋で根性のある怜なら name={user} 
+message text=これくらい出来るさ。俺はそう信じてる name={user} 
+message text=……ずるいです。そんな風に言われたら、なおさら name=一ノ瀬怜 
+message text=やらないなんて言えないじゃないですか name=一ノ瀬怜 
+message text=……分かりました。しっかりやり遂げてみせますから name=一ノ瀬怜 
+message text=そばで見ていて下さいね name=一ノ瀬怜 
+message text=ああ、もちろん…… name={user} 
+message text=ん？　そばで見るってどういう意味だ？ name={user} 
+message text=マネージャーはアイドルに付き添うものです name=一ノ瀬怜 
+message text=まさか私がジャングルで汗水垂らしている時に…… name=一ノ瀬怜 
+message text=冷房の効いた部屋で name=一ノ瀬怜 
+message text=のんびり過ごす気じゃありませんよね？ name=一ノ瀬怜 
+message text=……もしかして name={user} 
+message text=詳細を伝えなかったことを怒ってるのか？ name={user} 
+message text=怒ってなんかいません name=一ノ瀬怜 
+message text=で、一緒に来てくれますよね？　どうなんですか？ name=一ノ瀬怜 
+message text=い……行かせていただきます…… name={user} 
+message text=（怜の圧に負けてしまった……） name={user} 
+message text=（これは大変なことになったぞ……） name={user} 

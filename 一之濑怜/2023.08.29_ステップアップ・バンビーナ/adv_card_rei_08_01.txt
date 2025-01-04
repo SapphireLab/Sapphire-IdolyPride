@@ -1,0 +1,116 @@
+title title=一ノ瀬怜 1話 粗茶ですが、どうぞ
+narration text=――怜と遙子のユニットバトル終了後 
+message text=病院まで付き添ってもらってすみません name=一ノ瀬怜 
+message text=くじいた足を一通り検査してもらいましたが…… name=一ノ瀬怜 
+message text=足は捻挫も骨折もしていませんでした name=一ノ瀬怜 
+message text=特に異常はないそうです name=一ノ瀬怜 
+message text=そうか。怜がステージで転倒した時は肝を冷やしたが name={user} 
+message text=何事もなくて安心したよ name={user} 
+message text=ただ、過労気味だから大事を取って name=一ノ瀬怜 
+message text=しばらく安静にするように言われました name=一ノ瀬怜 
+message text=過労か……。ユニットバトルに向けて name={user} 
+message text=毎日遅くまで居残り練習をしていたようだからな name={user} 
+message text=無理してまた倒れたりしたら大変だ。念のためしばらく name={user} 
+message text=休養して、その間のサニピの活動は四人に任せよう name={user} 
+message text=私だけ仕事をお休みするなんて name=一ノ瀬怜 
+message text=みんなに申し訳ないです name=一ノ瀬怜 
+message text=遙子さんにはユニットバトルの時に name=一ノ瀬怜 
+message text=散々迷惑を掛けたのに…… name=一ノ瀬怜 
+message text=そこまで気に病まなくていいんじゃないか？ name={user} 
+message text=遙子さんだって、こんなことで怒ったりしないさ name={user} 
+message text=そりゃあ、遙子さんは優しいですから name=一ノ瀬怜 
+message text=怒った顔なんて想像もつかないですけど…… name=一ノ瀬怜 
+message text=あ、でも、ユニットバトルで name=一ノ瀬怜 
+message text=一度だけ遙子さんが怒ったことがありました name=一ノ瀬怜 
+message text=私のせいでユニットバトルを棄権した後 name=一ノ瀬怜 
+message text=対戦相手の二人組が私をバカにしたんです name=一ノ瀬怜 
+message text=それを聞いた遙子さんが凄い剣幕で怒って name=一ノ瀬怜 
+message text=相手の子達は圧倒されて逃げてしまいました name=一ノ瀬怜 
+message text=遙子さんって自分が何を言われても笑って許すのに name=一ノ瀬怜 
+message text=仲間が悪く言われると本気で怒るんですよね name=一ノ瀬怜 
+message text=（いつも周囲を気遣って、自分よりも周りの人のために） name={user} 
+message text=（動いてくれる。遙子さんは昔から変わらないな） name={user} 
+message text=それに比べて私は些細なことですぐ怒って…… name=一ノ瀬怜 
+message text=もっと遙子さんを見習わないとダメですね name=一ノ瀬怜 
+message text=そんなに自分を卑下しなくてもいいんじゃないか？ name={user} 
+message text=負けん気の強さは怜の長所でもあるんだから name={user} 
+message text=もうっ、それで褒めてるつもりですか？ name=一ノ瀬怜 
+message text=負けん気が強いって言われても嬉しくありませんっ name=一ノ瀬怜 
+message text=（強がっているが、今回の件で怜も参っているようだ） name={user} 
+message text=（休養でリフレッシュ出来るといいが） name={user} 
+narration text=――数日後 
+message text={user}さん、おはようございます name=一ノ瀬怜 
+message text=怜？　どうしてここにいるんだ？ name={user} 
+message text=今週は寮で安静にしているはずじゃなかったのか？ name={user} 
+message text=そのつもりだったんですが、私の分までみんなが name=一ノ瀬怜 
+message text=頑張ってると思うと、じっとしていられなくて…… name=一ノ瀬怜 
+message text=焦る気持ちも分かるが name={user} 
+message text=怜にとって今大事なのは体を休めることだ name={user} 
+message text=うっ…… name=一ノ瀬怜 
+message text=私、また焦ってるように見えましたか？ name=一ノ瀬怜 
+message text=遙子さんとも話したんです。今は焦らずに name=一ノ瀬怜 
+message text=まずは目の前のことから一つ一つやっていこう、って name=一ノ瀬怜 
+message text=頭では分かってるんですけど、練習は出来ないし name=一ノ瀬怜 
+message text=寮には誰もいないしで、落ち着かないんですよ name=一ノ瀬怜 
+message text=暇を持て余してるということか？ name={user} 
+message text=それで事務所に来るなんて、仕事熱心な怜らしいな name={user} 
+message text={user}さんだって、急に仕事を name=一ノ瀬怜 
+message text=取り上げられたら落ち着かないと思います name=一ノ瀬怜 
+message text=そういう訳で、一人で寮にいても落ち着かないので name=一ノ瀬怜 
+message text=ここに居ていいですか？ name=一ノ瀬怜 
+message text=それは構わないが、俺は仕事があるから name={user} 
+message text=構ってやれないぞ name={user} 
+message text=あっ、それなら昔の遙子さんみたいに name=一ノ瀬怜 
+message text=私もお仕事を手伝います name=一ノ瀬怜 
+message text=サニピに入る前は、事務所の業務を手伝って name=一ノ瀬怜 
+message text=いたんですよね？ name=一ノ瀬怜 
+message text=そうだな。遙子さんは昔から気遣いの出来る人で name={user} 
+message text=俺もよく助けてもらっていたよ name={user} 
+message text=事務処理や書類の作成を手伝ってくれたり name={user} 
+message text=電話番をしてくれたり、お茶を淹れてくれたり…… name={user} 
+message text=お茶ですね！　それなら私にも出来ます name=一ノ瀬怜 
+message text=すぐに淹れてくるので、ちょっと待ってて下さい name=一ノ瀬怜 
+message text=あっ、おい、怜！？　行ってしまった…… name={user} 
+message text=まぁ、自主練でもして無理されるよりはいいか name={user} 
+message text=お待たせしました。粗茶ですが、どうぞ name=一ノ瀬怜 
+message text=会社のものを粗茶って言うのはどうかと思うが…… name={user} 
+message text=ありがとう。遠慮なくいただくよ name={user} 
+message text=……んぐっ！？　このお茶、かなり渋いな…… name={user} 
+message text=えっ？　ちょっと失礼します name=一ノ瀬怜 
+message text=……うぅっ、確かに濃過ぎますね name=一ノ瀬怜 
+message text=すみません、茶葉を入れ過ぎたみたいです name=一ノ瀬怜 
+message text=すぐ淹れ直します name=一ノ瀬怜 
+message text=いや、いいよ。このままでも飲めるから name={user} 
+message text=気にしないで怜はその辺でくつろいでいてくれ name={user} 
+message text=……いえ、失敗したまま終わる訳にはいきません name=一ノ瀬怜 
+message text=私に名誉挽回のチャンスを下さい！ name=一ノ瀬怜 
+message text=他に手伝えることはありませんか？ name=一ノ瀬怜 
+message text=なんでも遠慮なく言って下さい！ name=一ノ瀬怜 
+message text=いや、こんなところで負けん気を発揮しなくても…… name={user} 
+message text=やってほしいことも、今はないし…… name={user} 
+message text=じゃあ、遙子さんに手伝ってもらって name=一ノ瀬怜 
+message text=嬉しかったことは何かありませんか！？ name=一ノ瀬怜 
+message text=教えてくれたら私もそれをやります！ name=一ノ瀬怜 
+message text=嬉しかったこと？　そうだな……小腹が空いた時に name={user} 
+message text=遙子さんがおにぎりを作ってくれたことがあったが…… name={user} 
+message text=おにぎりですね！　分かりました！ name=一ノ瀬怜 
+message text=すぐに作ってくるのでここで待っていて下さい！ name=一ノ瀬怜 
+message text=お待たせしました！　給湯室にあった土鍋で name=一ノ瀬怜 
+message text=お米を炊いておにぎりにしました。食べてみて下さい！ name=一ノ瀬怜 
+message text=あ、ありがとう。いただきます name={user} 
+message text=うっ！　硬い……このお米、芯が残ってるぞ name={user} 
+message text=お米を炊くのに失敗したみたいだな name={user} 
+message text=えっ！？　す、すみません…… name=一ノ瀬怜 
+message text=お茶もろくに淹れられないし、おにぎりも作れない…… name=一ノ瀬怜 
+message text=やっぱり私じゃ、遙子さんのようには name=一ノ瀬怜 
+message text=出来ないんですね…… name=一ノ瀬怜 
+message text=そんなに落ち込まなくてもいいんじゃないか？ name={user} 
+message text=お茶を淹れることとアイドルは関係ないんだから name={user} 
+message text=その関係ないことを name=一ノ瀬怜 
+message text=遙子さんはずっと続けていたんですよね…… name=一ノ瀬怜 
+message text=アイドルとして売れていなかった時期も、成功するため name=一ノ瀬怜 
+message text=諦めず地道にコツコツ活動を続けて…… name=一ノ瀬怜 
+message text=もし私だったら我慢出来ずに、もっと練習したいとか name=一ノ瀬怜 
+message text=もっと仕事がほしいとか無理を言って困らせてたかも name=一ノ瀬怜 
+message text=私は早く結果がほしくて、焦って失敗してばかり…… name=一ノ瀬怜 
+message text=もっと遙子さんみたいに、落ち着きを持たないと name=一ノ瀬怜 

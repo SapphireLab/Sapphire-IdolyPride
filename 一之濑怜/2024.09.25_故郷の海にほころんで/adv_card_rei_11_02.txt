@@ -1,0 +1,80 @@
+title title=一ノ瀬怜 2話 一度懲らしめておかないと
+narration text=――里帰りライブ　打ち合わせ当日
+message text=本日はありがとうございました name={user}
+message text=詳細はまた後日、ご連絡させていただきます name={user}
+message text=失礼します。引き続き、よろしくお願いします name=一ノ瀬怜
+message text=……ふぅ、なんとかまとまりそうで良かったですね name=一ノ瀬怜
+message text=あぁ。でも思った以上に、注意事項が多かったな…… name={user}
+message text=怜に来てもらって正解だったよ name={user}
+message text=私も来て良かったです name=一ノ瀬怜
+message text=おかげで、より良いステージに出来そうですから name=一ノ瀬怜
+message text=本当にありがとう、今日は助かったよ name={user}
+message text=遅くなったけど、早く実家の方に帰ってあげてくれ name={user}
+message text={user}さんはこの後どうするんですか？ name=一ノ瀬怜
+message text=せっかく星見市に来たし、以前お世話になった人達に name={user}
+message text=挨拶回りをしていこうと思ってるけど name={user}
+message text=それなら一緒に行きます name=一ノ瀬怜
+message text=私もご挨拶したい人達がいるんです name=一ノ瀬怜
+message text=家族とは、普段から電話とかでやりとりしてますし name=一ノ瀬怜
+message text=こういう機会じゃないと挨拶出来ない人達もいますから name=一ノ瀬怜
+message text=（やけに乗り気だけど……なるほどな。怜にとっても） name={user}
+message text=（お世話になった人達にお礼を伝えるいい機会って訳か） name={user}
+message text=何ニヤニヤしてるんですか？　置いてっちゃいますよ name=一ノ瀬怜
+message text=出来るだけ、沢山回りたいんですから name=一ノ瀬怜
+message text=店長、ご無沙汰してます name=一ノ瀬怜
+message text=アルバイトしてた頃は本当にお世話になりました name=一ノ瀬怜
+message text=デビューした後も、私達のポスターを貼り出して name=一ノ瀬怜
+message text=くれて。呼び込みのお仕事までいただいてしまって name=一ノ瀬怜
+message text=あ、これ今度のライブのチケットです name=一ノ瀬怜
+message text=良かったら観に来て下さい name=一ノ瀬怜
+message text=（怜も店員さん達も、久しぶりに会えたからだろう） name={user}
+message text=（凄く嬉しそうだ。随分話が盛り上がってるな） name={user}
+message text=特売の日は、つい張り切って大声出しちゃってました name=一ノ瀬怜
+message text=ふふ、肺活量のいいトレーニングになってた気がします name=一ノ瀬怜
+message text=え？　この前また、オトクオトクが聞けて嬉しかった？ name=一ノ瀬怜
+message text=ぜ、全国ツアーのDVD特典映像、観たんですか！？ name=一ノ瀬怜
+message text=それでは、名残惜しいですがこの辺で name={user}
+message text=怜、そろそろ行こう name={user}
+message text=はい、{user}さん name=一ノ瀬怜
+message text=……それじゃあ、また遊びに来ますね！ name=一ノ瀬怜
+message text=思ってたより遅くなっちゃいましたね name=一ノ瀬怜
+message text=みんな優しくて、つい話し込んじゃいました name=一ノ瀬怜
+message text=星見市って、やっぱりいい街ですよね name=一ノ瀬怜
+message text=地元びいきかもしれませんけど、大好きです name=一ノ瀬怜
+message text=俺もだ。みんなの始まりの場所だしな。そういえば name={user}
+message text=怜が星見プロに入りたいと言ったのも、ここだったな name={user}
+message text=ここに入ることは出来ますか？ name=一ノ瀬怜
+message text=ええ。それを仕事として、職業として name=一ノ瀬怜
+message text=両親に紹介出来るのであれば、私は構いません name=一ノ瀬怜
+message text=あの時は、突然だったから驚いたよ name={user}
+message text=あはは、すみません……。あの頃は両親から離れて name=一ノ瀬怜
+message text=なんとか一人でやっていこうと必死で…… name=一ノ瀬怜
+message text=でも、あの時に、この場所で決めたことを name=一ノ瀬怜
+message text=後悔したことはありません name=一ノ瀬怜
+message text=そうだ、ご両親といえば、怜のご家族に送るチケットは name={user}
+message text=三枚でいいか？　ご両親と、お兄さんの分 name={user}
+message text=あ、いえ、兄は客席で観るのが好きなので name=一ノ瀬怜
+message text=いつも通り二枚で―― name=一ノ瀬怜
+message text=……って、あれ？　なんで急に兄の分も name=一ノ瀬怜
+message text=用意してくれたんですか？　今まで言ってなかったのに name=一ノ瀬怜
+message text=すずから聞いたんだ。怜はお兄さんが大好きだって name={user}
+message text=なら、ライブにも来てもらった方がいいんじゃないかと name={user}
+message text=と、特別好きとかじゃありませんから！ name=一ノ瀬怜
+message text=普通です。ごく普通の兄妹です！ name=一ノ瀬怜
+message text=そうなのか？　「いつも凄く楽しそうに電話してます name={user}
+message text=わよ。もうデレデレなくらいで」って言ってたぞ？ name={user}
+message text=すずが誇張して言ってるだけです！ name=一ノ瀬怜
+message text=寮に戻ったら、一度懲らしめておかないと…… name=一ノ瀬怜
+message text=……あまり厳しくしないであげてくれよ。それじゃ name={user}
+message text=怜の家族のチケット二枚、明日にでも手配しておくよ name={user}
+message text=そうですね。二枚……あ、でも…… name=一ノ瀬怜
+message text=浮かない顔だけど、どうしたんだ？ name={user}
+message text=心配ごとでもあるのか？ name={user}
+message text=……父は、その日仕事が入っているらしくて name=一ノ瀬怜
+message text=来れるか分からなくて name=一ノ瀬怜
+message text=そうか……怜のお父さんはお医者さんだったな name={user}
+message text=ライブに合わせて仕事を休むのは難しいよな name={user}
+message text=急な手術が入ることもあるし、仕方ありませんよ name=一ノ瀬怜
+message text=だからチケット、一枚無駄にしちゃったらすみません name=一ノ瀬怜
+message text=（……これはご家族の問題だ） name={user}
+message text=（俺に出来ることはないが……でも……） name={user}

@@ -1,0 +1,89 @@
+title title=一ノ瀬怜 1話 どういたしまして
+narration text=――ある日のライブ後 
+message text=お疲れ様。みんな、この後は別の仕事があるのよね name=一ノ瀬怜 
+message text=大変だと思うけど頑張ってね。それじゃ、また後で name=一ノ瀬怜 
+message text=ふぅ……今日のステージは、イメージ通りに出来た name=一ノ瀬怜 
+message text=月ストとの里帰りライブに向けての準備も順調 name=一ノ瀬怜 
+message text=これもスタッフのみなさんが支えてくれるおかげよね name=一ノ瀬怜 
+message text=特に、{user}さんには感謝しないと name=一ノ瀬怜 
+message text=今日はこの後オフだし、そろそろ帰ろうっと name=一ノ瀬怜 
+message text=って……あれ、{user}さん？ name=一ノ瀬怜 
+message text=まいったな、スケジュール的に絶対無理だが…… name={user} 
+message text=星見市での久しぶりのライブだし無下に断る訳にも…… name={user} 
+message text=どうしたんですか？ name=一ノ瀬怜 
+message text=うわっ！？　な、なんだ怜か。驚いた name={user} 
+message text=今日のステージ、凄く良かったよ。お疲れ様 name={user} 
+message text=ありがとうございます。……じゃなくて name=一ノ瀬怜 
+message text=何を悩んでるんですか？　口から悩みがもれてましたよ name=一ノ瀬怜 
+message text=なんでもないよ name={user} 
+message text=なんでもなくはないですよね。まいったな、って name=一ノ瀬怜 
+message text=言ってたじゃないですか。ため息までついて name=一ノ瀬怜 
+message text=いや、大したことじゃないんだ。俺の仕事のことだし name={user} 
+message text=気にしないで、早く帰って休んでくれ。疲れてるだろ？ name={user} 
+message text=嫌です、帰りません。大体、前からみんなに言われて name=一ノ瀬怜 
+message text=ますよね？　なんでも一人で抱え込み過ぎだって name=一ノ瀬怜 
+message text=それとも、私じゃ頼りなくて相談出来ませんか name=一ノ瀬怜 
+message text=あぁ、そうですか。そういうことですか name=一ノ瀬怜 
+message text=お、落ち着いてくれ、怜。声が大き過ぎる name={user} 
+message text=変に注目されてるから。それこそ覗き魔の時くらい…… name={user} 
+message text=覗き魔……あぁ、私が{user}さんを name=一ノ瀬怜 
+message text=覗き魔だと思って、大声で通報しようとした時…… name=一ノ瀬怜 
+message text=……って、そんな昔の話持ち出さないで下さい！ name=一ノ瀬怜 
+message text=そもそも誰のせいで大声出してると思ってるんですか！ name=一ノ瀬怜 
+message text=す、すまない、俺が悪かった……でも静かにしてくれ name={user} 
+message text=ほら、周りの人が、俺達を遠巻きに見てるから…… name={user} 
+message text=うっ、すみません。……ならサニピの楽屋に来て下さい name=一ノ瀬怜 
+message text=他のみんなはもう先に出ちゃって、空いてますから name=一ノ瀬怜 
+message text=あぁ、分かった。こうなったら、ちゃんと話すよ name={user} 
+message text=怜だって気になるだろうしな name={user} 
+message text=まったくです name=一ノ瀬怜 
+message text=最初から素直に話してくれれば良かったのに name=一ノ瀬怜 
+message text=今度のライブの打ち合わせ、ですか？ name=一ノ瀬怜 
+message text=あぁ、星見市への里帰りライブがもうすぐだろう name={user} 
+message text=そのことで、ちょっとな name={user} 
+message text=市内の人気テーマパークでやるんですよね name=一ノ瀬怜 
+message text=私達も、月ストのみんなも凄く楽しみにしています name=一ノ瀬怜 
+message text=それに、星見市は私達の故郷で、始まりの場所ですから name=一ノ瀬怜 
+message text=今回もいいライブにしようってみんな燃えてるんです name=一ノ瀬怜 
+message text=頼もしいな。期待してるよ name={user} 
+message text=ただ、そのライブの構成が悩みどころなんだ name={user} 
+message text=前回の里帰りライブの時と同じく name={user} 
+message text=今回もイルカショーをやろうっていう話が出ていてな name={user} 
+message text=イルカショー……！　楽しそうでいいじゃないですか name=一ノ瀬怜 
+message text=みんなも喜ぶと思います name=一ノ瀬怜 
+message text=ただ、前回は月ストとサニピで分かれてライブをしたが name={user} 
+message text=今回は二グループ十人が一緒にステージに立つだろ？ name={user} 
+message text=立ち位置も変えないといけないし、イルカショーも name={user} 
+message text=やるとなると、段取りが複雑になりそうなんだ name={user} 
+message text=だから今度の打ち合わせで、可能なら出演者の…… name={user} 
+message text=怜達の意見も直接聞きたい、って頼まれて…… name={user} 
+message text=話は分かりました name=一ノ瀬怜 
+message text=つまり、誰か同行すればいいってことですよね name=一ノ瀬怜 
+message text=そうなんだが……打ち合わせの日にちが明日なんだよ name={user} 
+message text=えっ、明日！？　随分急ですね name=一ノ瀬怜 
+message text=あぁ。サニピも月ストも今やBIG4だからな name={user} 
+message text=急に明日のスケジュールなんて取れないんだよ name={user} 
+message text=それはそうですよね name=一ノ瀬怜 
+message text=レギュラー番組も増えて、みんな忙しいですし…… name=一ノ瀬怜 
+message text=あら？　でも……。あの、{user}さん name=一ノ瀬怜 
+message text=その打ち合わせって、明日の何時からですか？ name=一ノ瀬怜 
+message text=午後三時からだけど？ name={user} 
+message text=それなら私、ぎりぎり間に合います name=一ノ瀬怜 
+message text=私が会議に参加しますよ name=一ノ瀬怜 
+message text=明日は、お昼までラジオの収録がありますけど name=一ノ瀬怜 
+message text=その後は、実家に半日帰省するつもりだったんです name=一ノ瀬怜 
+message text=実家に戻る時間を少し遅くすれば、参加出来ますから name=一ノ瀬怜 
+message text=いいステージにするためにも、ぜひ参加させて下さい name=一ノ瀬怜 
+message text=でも忙しいんだから、こういう機会でもないと name={user} 
+message text=ご家族とゆっくり過ごせないだろ。さすがに悪いよ name={user} 
+message text=別に会えなくなる訳じゃありませんし name=一ノ瀬怜 
+message text=里帰りライブは、絶対に成功させたいじゃないですか name=一ノ瀬怜 
+message text=いいですよね？　{user}さん name=一ノ瀬怜 
+message text=分かった。それじゃあ明日は、怜に参加してもらうよ name={user} 
+message text=すまないな name={user} 
+message text=すまない、って。なんで謝るんですか name=一ノ瀬怜 
+message text=別に謝られるようなことされてません name=一ノ瀬怜 
+message text=そうだな。すまない、ついクセで……じゃなくて…… name={user} 
+message text=ありがとう、助かるよ、怜 name={user} 
+message text=最初っから素直に言えばいいんです name=一ノ瀬怜 
+message text=ふふ、どういたしまして name=一ノ瀬怜 

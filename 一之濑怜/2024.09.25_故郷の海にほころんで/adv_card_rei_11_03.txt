@@ -1,0 +1,81 @@
+title title=一ノ瀬怜 3話 教えてもらいますからね
+narration text=――里帰りライブ当日 
+message text=怜、全員で最後の確認をしたいから、集まって…… name={user} 
+message text=……どうした？　スマホをじっと見つめて name={user} 
+message text=あ、いえ、大したことじゃありません name=一ノ瀬怜 
+message text=母からメッセージが来ただけです name=一ノ瀬怜 
+message text=父が、今日のライブを観に行くために name=一ノ瀬怜 
+message text=ギリギリまで予定を調整してくれていたらしくて name=一ノ瀬怜 
+message text=……でも、やっぱりダメだったそうです name=一ノ瀬怜 
+message text=今日のライブ、来れないって連絡が…… name=一ノ瀬怜 
+message text=そうか……残念だったな name={user} 
+message text=いえ、元々あまり期待はしていませんでしたから name=一ノ瀬怜 
+message text=気にしてませんよ name=一ノ瀬怜 
+message text=プライベートなことで時間をとらせてすみません name=一ノ瀬怜 
+message text=今、行きます―― name=一ノ瀬怜 
+message text=……メッセ？　え……お父さんからだ…… name=一ノ瀬怜 
+message text=「頑張れ」…… name=一ノ瀬怜 
+message text=っ……お父さん……。来れないくらい忙しいのに name=一ノ瀬怜 
+message text=何やってるんだか……いつも返事もしないくせに…… name=一ノ瀬怜 
+message text=……あれ、また届いた name=一ノ瀬怜 
+message text=「マネージャーさんによろしく伝えてくれ」…… name=一ノ瀬怜 
+message text=……え？ name=一ノ瀬怜 
+message text={user}さん、父と何かあったんですか？ name=一ノ瀬怜 
+message text=チケットを送る時に name={user} 
+message text=メッセージを一筆、添えさせてもらっただけだよ name={user} 
+message text=怜がこうして元気にアイドルを続けていられるのは name={user} 
+message text=ご家族の理解と協力があってこそだ name={user} 
+message text=だから、一言お礼と感謝の気持ちを伝えたいと思って name={user} 
+message text=わざわざ、そんなことしてたんですか……！？ name=一ノ瀬怜 
+message text={user}さんってほんとおせっかいですね name=一ノ瀬怜 
+message text=お父さんもお父さんだわ name=一ノ瀬怜 
+message text=「頑張れ」、だなんて name=一ノ瀬怜 
+message text={user}さんへのメッセージの方が name=一ノ瀬怜 
+message text=長いって、おかしくないですか？ name=一ノ瀬怜 
+message text=照れくさいから、ぶっきらぼうになってるんだと思うぞ name={user} 
+message text=そういうところ、怜に似てるんじゃないか？ name={user} 
+message text=怜もメッセージを受け取った時は name={user} 
+message text=あんなに嬉しそうにしてたのになぁ name={user} 
+message text=なっ……そ、そうですよ！　悪いですか！？ name=一ノ瀬怜 
+message text=応援してもらえて、嬉しくない訳ないじゃないですか name=一ノ瀬怜 
+message text=別に悪くはないと思うぞ。良かったな、怜 name={user} 
+message text=……って、そろそろ行かないと。本番が始まりそうだ name={user} 
+message text=はい、分かりました name=一ノ瀬怜 
+message text=おせっかいのお礼に、最高のステージを見せますから name=一ノ瀬怜 
+message text=（凄い……お客さんの声援が、こんなにも沢山……） name=一ノ瀬怜 
+message text=（初めて私達がライブをしたのも、この星見市だった） name=一ノ瀬怜 
+message text=（でもデビューしたての頃は、お客さんも少なくて……） name=一ノ瀬怜 
+message text=（でも、今は……） name=一ノ瀬怜 
+message text=（こんなにも大勢の人達が観に来てくれてる……） name=一ノ瀬怜 
+message text=（……伝えたい） name=一ノ瀬怜 
+message text=（ずっと応援してくれている人達、みんなに……） name=一ノ瀬怜 
+message text=（商店街の人、学校の友達） name=一ノ瀬怜 
+message text=（それにお母さんに、お兄ちゃん……） name=一ノ瀬怜 
+message text=（それから、今はお父さんにも……） name=一ノ瀬怜 
+message text=（ありがとうって気持ちを、歌に乗せて、届けたい） name=一ノ瀬怜 
+message text=さすが怜。有言実行だな。言ってた通り、最高だ name={user} 
+message text=里帰りライブにふさわしい仕上がりだよ name={user} 
+message text=みんな……！　私達を支えて、応援し続けてくれて name=一ノ瀬怜 
+message text=――本当に、ありがとう！ name=一ノ瀬怜 
+message text=拝啓、秋涼の折、ますますご繁栄のことと name={user} 
+message text=お慶び申しげます―― name={user} 
+message text={user}さん、次の仕事の件ですけど name=一ノ瀬怜 
+message text=……誰に手紙を書いてるんですか？ name=一ノ瀬怜 
+message text=里帰りライブの後、怜のお父さんから丁寧なお返事を name={user} 
+message text=いただいたんだ。俺も返事を返さないと失礼だろう？ name={user} 
+message text=二人して、律儀というかなんというか…… name=一ノ瀬怜 
+message text=そんなの、言ってくれれば私が伝えておくのに name=一ノ瀬怜 
+message text=じゃあ読んでみるか？ name={user} 
+message text=怜のことも心配してるみたいだぞ name={user} 
+message text=よ、読みません！　お父さんってば name=一ノ瀬怜 
+message text=なんでそんな恥ずかしいこと書いてるのよ！ name=一ノ瀬怜 
+message text=恥ずかしいことは書いてないって。じゃ、俺が読むよ name={user} 
+message text=「娘は頑固なところがありますが、根は優しい子で」 name={user} 
+message text=音読しないで下さい！　あと頑固じゃありません！ name=一ノ瀬怜 
+message text=お父さんの方が何倍も頑固なくせに、なんなのよもぉ name=一ノ瀬怜 
+message text=私へのメッセは短いのに、手紙はやけに長文だし…… name=一ノ瀬怜 
+message text={user}さん、その手紙返して下さい！ name=一ノ瀬怜 
+message text=いや、俺宛にきたんだけど…… name={user} 
+message text=とりあえず、返事を書いちゃうから name={user} 
+message text=それも、後で何を書いたか教えてもらいますからね！ name=一ノ瀬怜 
+message text=はぁ……お父さんって、ほんと分かんないわね name=一ノ瀬怜 

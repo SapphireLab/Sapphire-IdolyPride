@@ -62,4 +62,4 @@
 | 2025.04.26 | 游戏正式上线 |
 | 2025.04.29 | 完成一图流攻略 |
 
-![](MinnTsuKu/2025.04.26_SakyuMaHo/2025.04.26_SakyuMaHo.png)
+![](MinnTsuKu/2025.04.26_SakyuMaHo/SakyuMaHo.png)
